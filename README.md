@@ -1,2 +1,2 @@
 # probaMinkoski
-documentación para estruturar un propxecto de Xeometría Dinámica adicado ao espzotempo
+documentación para estruturar un proxecto de Xeometría Dinámica adicado ao espzotempo
