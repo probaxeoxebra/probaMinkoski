@@ -1,2 +1,5 @@
 # probaMinkoski
 documentación para estruturar un proxecto de Xeometría Dinámica adicado ao espazotempo
+
+*  Introdución ao espazo euclideo
+*  
