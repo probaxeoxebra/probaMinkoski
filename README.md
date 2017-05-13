@@ -1,4 +1,4 @@
-# probaMinkoski
+# probaMinkowski
 documentación para estruturar un proxecto de Xeometría Dinámica adicado ao espazotempo
 
 *  Introdución ao espazo euclideo (plano de Euclides)
@@ -11,7 +11,7 @@ documentación para estruturar un proxecto de Xeometría Dinámica adicado ao es
 * Estrutura
 * Indice xeral
 * Proposta para GeoGebra
-* Indice de ferramentas (1-30)
+* Indice de ferramentas (1-21)
 * Indice temático (por ferramentas) 
   * Entrada  e Saída
   * Álxebra
