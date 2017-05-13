@@ -20,7 +20,7 @@ Como consecuencia do cambio na métrica, aparecen unha seride de propiedadesz xe
   * para Euclides: superficie do arco de círculo delimitado polas dúas rectas coincidentes no centro.
   * para Minkowski: superficie do arco de hipérbola delimitado polas dúas rectas coincidentes no centro.
   
-  *[Produto Vectorial (Cross)](CrossProduct)
+  * [Produto Vectorial (Cross)](CrossProduct)
       Esta é unha propiedade do espazo 3D que se pode usar no subespazo 2D para construir unha dirección perpendicular a outra dada
     * para Euclides:  o Cross obtense como un determinante cunha fila na que están os vectores da base (ortonormal)
       e dúas filas coas compoñentes dos dous vectores a multiplicar
