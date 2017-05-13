@@ -1,0 +1,11 @@
+Como consecuencia do cambio na métrica, aparecen unha seride de propiedadesz xeométricas radicalmente diferentes entre os espazos nde Euclides e Minkowski
+
+* Lugar común de puntos equidistantes dun dado (centro)
+* * para Euclides: Circunferencia (2D), esfera (3D)
+* * para Minkowski: Hipérbola equilátera recta ((1,1)D, Hiperboloide de revolución (2,1)D
+* Ortogonalidade
+* * para Euclides: Xiro de 90º
+* * para Minkowski: reflexión sobre as direccións asintóticas (diagonais dos eixes)
+* Ángulo
+* * para Euclides: superficie do arco de círculo delimitado polas dúas rectas coincidentes no centro.
+* * para Minkowski: superficie do arco de hipérbola delimitado polas dúas rectas coincidentes no centro.
