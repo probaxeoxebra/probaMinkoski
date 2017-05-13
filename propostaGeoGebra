@@ -1,0 +1,7 @@
+Proposta para GeoGebra
+
+Construir un entorno de xeometría dinámica para o espazotempo (plano de Minkowski).
+A métrica de Minkowski presenta unha estrutura alxebraica equivalente á de Euclides (que forma a base na que se sustenta o entorno de GeoGebra), cunhas leves diferenzas alxebraicas que se traducen en importantes diferenzas xeométricas.
+A diferenza fundamental deriva dun cambio de signo na forma cadrática fundamentalq ue define a distancia.
+No plano euclideo (x,y): d^2 = x^2 + y^2
+No plano de Minkowski (x,t): d^2 = x^2 -t^2
