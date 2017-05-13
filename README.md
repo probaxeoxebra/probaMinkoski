@@ -11,6 +11,8 @@ documentación para estruturar un proxecto de Xeometría Dinámica adicado ao es
 * Estrutura
 * Indice xeral
 * Proposta para GeoGebra
+* * Métrica seudoeuclidea
+* * * produto Cross
 * Indice de ferramentas (1-21)
 * Indice temático (por ferramentas) 
   * Entrada  e Saída
@@ -20,7 +22,7 @@ documentación para estruturar un proxecto de Xeometría Dinámica adicado ao es
   * Tests
  * Interese da proposta
    ^ Xeometría: Novos teoremas 
-   * Física: Espazotempo (1,1): Relatividade básica
+   * Física: espazotempo (1,1): Relatividade básica
 * Desenvolvemento posterior
    * Tres dimensións
      * 3D (Euclides, GeoGebra)
