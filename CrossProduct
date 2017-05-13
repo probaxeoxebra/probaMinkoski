@@ -21,7 +21,7 @@ a ❌ b    =  - e123   [ ( a1b2 -  a2b1 ) e12  + ( a2b3 -   a3b2 ) e23   +  ( a3
                                         |   e1   e2   e3   |
                                         |   a1   a2   a3   |
                                         |   b1   b2   b3   |
-                                        ![detCrossEucl](http://www.sciweavers.org/download/Tex2Img_1494706046.jpg"determinante Cross Euclideo")
+                                        ![detCrossEucl](www.sciweavers.org/download/Tex2Img_1494706046.jpg"determinante Cross Euclideo")
 …………………………………………………………………...
 
 Minkowskian (1,2) space:        e00 = -1  
