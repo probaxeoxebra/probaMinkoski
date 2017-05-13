@@ -21,7 +21,7 @@ a ❌ b    =  - e123   [ ( a1b2 -  a2b1 ) e12  + ( a2b3 -   a3b2 ) e23   +  ( a3
                                         |   e1   e2   e3   |
                                         |   a1   a2   a3   |
                                         |   b1   b2   b3   |
-                                        ![](http://www.sciweavers.org/tex2img.php?eq=%20%5Coverrightarrow%7Ba%7D%20%5Ctimes%20%20%5Coverrightarrow%7Bb%7D%20%3D%5Cbegin%7Bbmatrix%7De_%7B1%7D%26e_%7B2%7D%26e_%7B3%7D%5C%5Ca_%7B1%7D%26a_%7B2%7D%26a_%7B3%7D%5C%5Cb_%7B1%7D%26b_%7B2%7D%26b_%7B3%7D%5Cend%7Bbmatrix%7D%20&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0"determinanteCrossEuclideo")
+                                        ![detCrossEucl](http://www.sciweavers.org/tex2img.php?eq=%20%5Coverrightarrow%7Ba%7D%20%5Ctimes%20%20%5Coverrightarrow%7Bb%7D%20%3D%5Cbegin%7Bbmatrix%7De_%7B1%7D%26e_%7B2%7D%26e_%7B3%7D%5C%5Ca_%7B1%7D%26a_%7B2%7D%26a_%7B3%7D%5C%5Cb_%7B1%7D%26b_%7B2%7D%26b_%7B3%7D%5Cend%7Bbmatrix%7D%20&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0"determinanteCrossEuclideo")
 …………………………………………………………………...
 
 Minkowskian (1,2) space:        e00 = -1  
