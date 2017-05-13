@@ -18,4 +18,12 @@ documentación para estruturar un proxecto de Xeometría Dinámica adicado ao es
   * de Euclides a Minkowski
   * construción co kit básico de GeoGebra
   * Tests
- 
+ * Interese da proposta
+ * ^ Xeometría: Novos teoremas 
+ * * Física: Espazotempo (1,1): Relatividade básica
+ * * Tres dimensións
+ * * * 3D (Euclides)
+ * * * (2,1)D: Bivectores, Física no plano
+ * * Catro dimensións
+ * * * 4D Trivectores, Dificultades de representación: proxeccións
+ * * * (3,1)D: Física tensorial
