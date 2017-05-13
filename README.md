@@ -18,3 +18,4 @@ documentación para estruturar un proxecto de Xeometría Dinámica adicado ao es
   * de Euclides a Minkowski
   * construción co kit básico de GeoGebra
   * Tests
+ 
