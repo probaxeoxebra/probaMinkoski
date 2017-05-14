@@ -7,3 +7,33 @@ cunhas leves diferenzas alxebraicas que se traducen en importantes diferenzas xe
 A diferenza fundamental deriva dun cambio de signo na forma cadrática fundamentalq ue define a distancia.
 No plano euclideo (x,y): d^2 = x^2 + y^2
 No plano de Minkowski (x,t): d^2 = x^2 -t^2
+*   obxectos  de GeoGebra  comuns para Euclides e Minkowski
+    Orixe
+    Eixes
+    Escalas
+    Punto
+    Recta
+    Segmento
+    Raio
+    Vector
+    Cónica
+    Polígono
+*  Obxectos de GeoGebra diferentes en Minkowski e Euclides
+   Circunferencia
+   Arco de circunferencia
+   Sector circular
+   Polgono regular
+* Relacións comuns
+   Intersección
+   Tanxencia
+* Relacións diferentes
+  Perpendicularidade (ortogonalidade)
+* Medidas comuns
+  Superficie
+* Medidas diferentes
+  Lonxitude (distancia)
+* Particularidades do plano minkowskiano
+  Direccions Nulas (asintóticas, diagonais, lumínicas)
+  Hai 3  tipos de "cicumferencias" centradas nun mesmo punto
+     Espacial , Temporal e Lumníica
+     x
