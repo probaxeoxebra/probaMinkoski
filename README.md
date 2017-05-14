@@ -11,7 +11,7 @@ documentación para estruturar un proxecto de Xeometría Dinámica adicado ao es
 * Estrutura
 * Indice xeral
 * [Proposta para GeoGebra](Explicacions/propostaGeoGebra.md)
-  * [Propiedades seudoeuclideas](propiedadesSeudoeuclideas)
+  * [Propiedades seudoeuclideas](Explicacions/propiedadesSeudoeuclideas.md)
     * [produto Cross](CrossProduct)
 * Indice de ferramentas [(1-21)](IndiceFerramentas)
 * Indice temático (por ferramentas) 
