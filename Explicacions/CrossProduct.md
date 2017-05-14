@@ -6,3 +6,5 @@
 
 ## Cross Product in the Minkowskian Spacetime:
 ![Minkowskian Cross Product axb](FORMULAS/detCrossMink.jpg "Minkowskian determinant axb")
+
+* [Algebraic calculations (PDF)](https://github.com/probaxeoxebra/probaMinkoski/blob/master/documents/Cross.pdf)
