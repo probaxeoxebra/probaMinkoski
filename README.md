@@ -21,9 +21,9 @@ documentación para estruturar un proxecto de Xeometría Dinámica adicado ao es
   * construción co kit básico de GeoGebra
   * Tests
  * Interese da proposta
-   ^ Xeometría: Novos teoremas 
+   * Xeometría: Novos teoremas 
    * Física: espazotempo (1,1): Relatividade básica
-     * Proposta didáctica (tese de doutoramento) [PDF](DidacticaRelatividade_TeseXP.pdf)
+     * Proposta didáctica (tese de doutoramento) [PDF](documentos/TESE/DidacticaRelatividade_TeseXP.pdf)
 * Desenvolvemento posterior
    * Tres dimensións
      * 3D (Euclides, GeoGebra)
