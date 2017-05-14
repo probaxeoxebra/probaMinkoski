@@ -1,3 +1,12 @@
+
+Cross Product in the Euclidean Space:
+![Euclidean Cross Product axb](probaMinkoski/FORMULAS/detCrossEucl.jpg"Euclidean determinant axb")
+
+Cross Product in the Minkowskian Spacetime:
+![Minkowskian Cross Product axb](probaMinkoski/FORMULAS/detCrossMink.jpg"Minkowskian determinant axb")
+
+
+
 Geometric Algebra
 Geometric product: ab = a·b + a^b                a·b : scalar part,     a^b : Bivector     
 Orthonormal base: {ei}         Products:        eii: ± 1 (signature of ei)           
