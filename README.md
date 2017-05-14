@@ -13,7 +13,7 @@ documentación para estruturar un proxecto de Xeometría Dinámica adicado ao es
 * [Proposta para GeoGebra](Explicacions/propostaGeoGebra.md)
   * [Propiedades seudoeuclideas](Explicacions/propiedadesSeudoeuclideas.md)
     * [produto Cross](Explicacions/CrossProduct.md)
-* Indice de ferramentas [(1-21)](IndiceFerramentas)
+* Indice de ferramentas para substituir [(1-21)](Ferramentas/IndiceFerramentasMink.md)
 * Indice temático (por ferramentas) 
   * Entrada  e Saída
   * Álxebra
