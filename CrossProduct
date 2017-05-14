@@ -1,52 +1,11 @@
+# Cross Product (Euclid & Minkowski)
 
-Cross Product in the Euclidean Space:
+## Cross Product in the Euclidean Space:
 ![Euclidean Cross Product axb](FORMULAS/detCrossEucl.jpg "Euclidean determinant axb")
+![Euclidean Cross Product axb](IMAGES/detCrossEucl.jpg "Euclidean determinant axb")
 
-Cross Product in the Minkowskian Spacetime:
+## Cross Product in the Minkowskian Spacetime:
 ![Minkowskian Cross Product axb](FORMULAS/detCrossMink.jpg "Minkowskian determinant axb")
 
 
 
-Geometric Algebra
-Geometric product: ab = a·b + a^b                a·b : scalar part,     a^b : Bivector     
-Orthonormal base: {ei}         Products:        eii: ± 1 (signature of ei)           
-                         j ≠ k →    ejek = - ekej         →         ejk = - ekj       
-
-Euclidean space (0,3):     eii = 1    
-{ei}= { e1 , e2 , e3 }             Trivector (pseudoscalar)      i(3)= e123  = e1e2e3      
-a = a1e1 +a2e2+a3e3    ,         b = b1e1 + b2e2 + b3e3   
-Euclidean Cross Product :  a ❌ b = -  i(3) (a ∧ b)  
-a ∧ b =  a1b2e1e2  + a1b3e1e3 +  a2b1e2e1  + a2b3e2e3  +  a3b1e3e1   +   a3b2e3e2  =
-           =     a1b2e12  -    a1b3e31 -  a2b1e12  + a2b3e23  +  a3b1e31   -   a3b2e23  =  
-           =      ( a1b2 -  a2b1 ) e12  + ( a2b3 -   a3b2 ) e23   +  ( a3b1  -  a1b3 )e31     
-a ❌ b    =  - e123   [ ( a1b2 -  a2b1 ) e12  + ( a2b3 -   a3b2 ) e23   +  ( a3b1  -  a1b3 ) e31  ] =
-               = -[ ( a1b2 -  a2b1 ) e123e12  + ( a2b3 -   a3b2 ) e123 e23   +  ( a3b1  - a1b3 )  e123e31 ]  =
-               = -[  ( a1b2 -  a2b1 ) e12312  + ( a2b3 -   a3b2 ) e12323   +  ( a3b1  - a1b3 )  e12331 ]   =
-               =  -[ ( a1b2 -  a2b1 ) e11232  + ( a2b3 -   a3b2 ) e12323   +  ( a3b1  - a1b3 )  e12133  ]  =
-               = -[ ( a1b2 -  a2b1)(- e11223) + (a2b3 - a3b2)(- e12233) + (a3b1  - a1b3 )(-e11233 ) ] =
-               = -[  ( a1b2 -  a2b1 ) (- e3) + ( a2b3 -  a3b2 ) (- e1  )  +  ( a3b1  - a1b3 ) (- e2 )  ] =
-               = -[  ( a1b2 -  a2b1 ) (- e3) +  ( a3b1  - a1b3 ) (- e2 )  +  ( a2b3 -  a3b2 ) (- e1  )  ]  =
-               = ( a1b2 -  a2b1 ) (e3) +  ( a3b1  - a1b3 ) (e2 )  +  ( a2b3 -  a3b2 ) ( e1  )   =
-                                        |   e1   e2   e3   |
-                                        |   a1   a2   a3   |
-                                        |   b1   b2   b3   |
-                                        ![detCrossEucl](IMAGES/detCrossEucl.jpg "determinante Cross Euclideo")
-                                        ![detCrossEucl](www.sciweavers.org/download/Tex2Img_1494706046.jpg"determinante Cross Euclideo")
-…………………………………………………………………...
-
-Minkowskian (1,2) space:        e00 = -1  
-{ei} = { e1 , e2  , e0   }                      Trivector (pseudoscalar)        i(2,1) =  e120  = e1e2e0   
- a = a1e1 +a2e2 +a0e0       ,       b = b1e1 + b2e2 +  b0e0         
-Minkowskian Cross Product:    a ❌ b =  -  i(2,1) (a ∧ b)  
-a ∧ b =  a1b2e1e2  + a1b0e1e0 +  a2b1e2e1  + a2b0e2e0 +    a0b1e0e1   +   a0b2e0e2  =
-          =   a1b2e12  -  a1b0e01 -  a2b1e12  + a2b0e20 +   a0b1e01   -   a0b2e20  =
-           =      ( a1b2 -  a2b1 ) e12 +   ( a0b1  -  a1b0 )e01   + ( a2b0 -   a0b2 ) e20   
-a ❌ b   =  - e120 [ ( a1b2 -  a2b1) e12 +  ( a0b1  -  a1b0 ) e01   + ( a2b0 -   a0b2 ) e20  ] =
-            =  - [ ( a1b2 - a2b1 ) e12012  + ( a0b1 - a1b0) e12001  + ( a2b0  - a0b2 ) e12020  ] =
-            =  - [ ( a1b2 - a2b1 )( - e11220)  + ( a0b1 - a1b0)( - e11200) + ( a2b0  - a0b2 )( - e12200 ) ] =
-            = - [ ( a1b2 -  a2b1 ) (- e0 )  +( a0b1 -  a1b0 )( - e200) +  ( a2b0  - a0b2 ) (- e100 )  ] =
-           =  - [ ( a1b2 -  a2b1 ) (- e0 )  + ( a0b1 -  a1b0 ) e2 +  ( a2b0  - a0b2 ) e1  ]  = 
-           =    ( a1b2 -  a2b1 ) e0   + ( a0b1 -  a1b0 )(-e2) +  ( a2b0  - a0b2 ) (- e1) =    
-                                        |  - e1   - e2    e0   |
-                                        |     a1    a2    a0   |
-                                        |     b1    b2    b0   |  
