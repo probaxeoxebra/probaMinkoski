@@ -11,16 +11,16 @@ No plano de Minkowski (x,t): d^2 = x^2 -t^2
 
 ## Obxectos
 obxectos de GeoGebra  comuns para Euclides e Minkowski
-*           Orixe
-*           Eixes
-*           Escalas
-*           Punto
-*           Recta
-*           Segmento
-*           Raio
-*           Vector
-*           Cónica
-*           Polígono
+* Orixe
+* Eixes
+* Escalas
+* Punto
+* Recta
+* Segmento
+* Raio
+* Vector
+* Cónica
+* Polígono
 Obxectos de GeoGebra diferentes en Minkowski e Euclides
 *          Circunferencia
 *          Arco de circunferencia
