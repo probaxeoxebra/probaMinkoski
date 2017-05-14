@@ -21,5 +21,5 @@ Como consecuencia do cambio na métrica, aparecen unha seride de propiedadesz xe
   
 ## Produto Vectorial  ou [Cross](CrossProduct)
   Esta é unha propiedade do espazo 3D que se pode usar no subespazo 2D para construir unha dirección perpendicular a outra dada
-    * para Euclides:  o Cross obtense como un determinante cunha fila na que están os vectores da base (ortonormal) e dúas filas coas compoñentes dos dous vectores a multiplicar
-    * para Minkowski, o Cross obtense como un determinante cunha fila na que están os vectores da base (ortonormal) e dúas filas coas compoñentes dos dous vectores a multiplicar. A diferenza co caso euclidiano consiste en que os dous vectores espaciasi da base están cambeados de signo
+* para Euclides:  o Cross obtense como un determinante cunha fila na que están os vectores da base (ortonormal) e dúas filas coas compoñentes dos dous vectores a multiplicar
+* para Minkowski, o Cross obtense como un determinante cunha fila na que están os vectores da base (ortonormal) e dúas filas coas compoñentes dos dous vectores a multiplicar. A diferenza co caso euclidiano consiste en que os dous vectores espaciasi da base están cambeados de signo
