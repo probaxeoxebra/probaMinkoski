@@ -10,7 +10,7 @@ No plano euclideo (x,y): d^2 = x^2 + y^2
 No plano de Minkowski (x,t): d^2 = x^2 -t^2
 
 ## Obxectos
-obxectos de GeoGebra  comuns para Euclides e Minkowski
+### obxectos de GeoGebra  comuns para Euclides e Minkowski
 * Orixe
 * Eixes
 * Escalas
@@ -21,28 +21,28 @@ obxectos de GeoGebra  comuns para Euclides e Minkowski
 * Vector
 * Cónica
 * Polígono
-Obxectos de GeoGebra diferentes en Minkowski e Euclides
-*          Circunferencia
-*          Arco de circunferencia
-*          Sector circular
-*          Polgono regular
+### Obxectos de GeoGebra diferentes en Minkowski e Euclides
+* Circunferencia
+* Arco de circunferencia
+* Sector circular
+* Polgono regular
 
 ## Relacións
-Relacións comuns
-*          Intersección
-*          Tanxencia
-Relacións diferentes
-*          Perpendicularidade (ortogonalidade)
+### Relacións comuns
+* Intersección
+* Tanxencia
+### Relacións diferentes
+* Perpendicularidade (ortogonalidade)
 
 ## Medidas
-Medidas comuns
-*          Superficie
-Medidas diferentes
-*          Lonxitude (distancia)
-*          Angulo
+### Medidas comuns
+* Superficie
+### Medidas diferentes
+* Lonxitude (distancia)
+* Angulo
 
 ## Outros
-Particularidades do plano minkowskiano
-*          Direccions Nulas (asintóticas, diagonais, lumínicas)
-*          Hai 3  tipos de "cicunferencias" centradas nun mesmo punto
-*                 Espacial , Temporal e Lumnínica
+### Particularidades do plano minkowskiano
+* Direccions Nulas (asintóticas, diagonais, lumínicas)
+* Hai 3  tipos de "cicunferencias" centradas nun mesmo punto
+* * Espacial , Temporal e Lumnínica
