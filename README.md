@@ -17,7 +17,7 @@ documentación para estruturar un proxecto de Xeometría Dinámica adicado ao es
   ## Ferramentas
 * Indice de ferramentas
   * para deixar igual (32)
-  * para adaptar (12)
+  * [para adaptar (11)](Ferramentas/FerramentasAdaptadas.md)
   * [para substituir (23)](Ferramentas/IndiceFerramentasMink.md)
 * Indice temático (por ferramentas) 
   * Entrada  e Saída
