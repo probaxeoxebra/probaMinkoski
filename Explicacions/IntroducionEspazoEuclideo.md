@@ -1,7 +1,10 @@
 # Introdución ao espazo euclídeo
 
 ## O espazo euclídeo é o que poden percibir os nosos sentidos.
-Euclides explicou que había tres dimensións (que podemos chamar "ancho", "alto" e "fondo"<br>
+Euclides explicou que había tres dimensións (que podemos chamar "ancho", "alto" e "fondo").
+
+<br>
+
 Descartes asociou un eixe  a cada dimensión, que chamou (x,y,z). <br>
 Para encaixar coa presentación habitual de GeoGebra, asociaremos ditos eixes coas dimensións euclidianas do seguinte xeito:
 * x (ancho)
