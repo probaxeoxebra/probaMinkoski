@@ -1,16 +1,19 @@
 # Proposta para GeoGebra
 
 Construir un entorno de xeometría dinámica para o espazotempo (plano de Minkowski).<br>
+
 A métrica de Minkowski presenta unha estrutura alxebraica equivalente á de Euclides 
 (que forma a base na que se sustenta o entorno de GeoGebra), 
 cunhas leves diferenzas alxebraicas que se traducen en importantes diferenzas xeométricas.<br>
-A diferenza fundamental deriva dun cambio de signo na forma cadrática fundamentalq ue define a distancia.
 
-No plano euclideo (x,y): d^2 = x^2 + y^2<br>
-No plano de Minkowski (x,t): d^2 = x^2 -t^2
+A diferenza fundamental deriva dun cambio de signo na forma cadrática fundamentalq ue define a distancia.<br>
+
+No plano euclideo (x,y): d² = x² + y²
+No plano de Minkowski (x,t): d² = x² -t²
 
 ## Obxectos
-### obxectos de GeoGebra  comuns para Euclides e Minkowski
+
+### obxectos de GeoGebra comúns para Euclides e Minkowski
 * Orixe
 * Eixes
 * Escalas
@@ -21,6 +24,7 @@ No plano de Minkowski (x,t): d^2 = x^2 -t^2
 * Vector
 * Cónica
 * Polígono
+
 ### Obxectos de GeoGebra diferentes en Minkowski e Euclides
 * Circunferencia
 * Arco de circunferencia
@@ -28,21 +32,28 @@ No plano de Minkowski (x,t): d^2 = x^2 -t^2
 * Polgono regular
 
 ## Relacións
+
 ### Relacións comúns
 * Intersección
 * Tanxencia
+
 ### Relacións diferentes
 * Perpendicularidade (ortogonalidade)
 
 ## Medidas
+
 ### Medidas comuns
 * Superficie
+
 ### Medidas diferentes
 * Lonxitude (distancia)
-* Angulo
+* Ángulo
 
 ## Outros
+
 ### Particularidades do plano minkowskiano
 * Direccions Nulas (asintóticas, diagonais, lumínicas)
-* Hai 3  tipos de "cicunferencias" centradas nun mesmo punto:<br>
-       Espacial , Temporal e Lumnínica
+* Hai 3  tipos de "cicunferencias" centradas nun mesmo punto:
+    - Espacial
+    - Temporal
+    - Lumnínica
