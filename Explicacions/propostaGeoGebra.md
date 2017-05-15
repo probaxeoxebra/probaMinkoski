@@ -28,7 +28,7 @@ No plano de Minkowski (x,t): d^2 = x^2 -t^2
 * Polgono regular
 
 ## Relacións
-### Relacións comuns
+### Relacións comúns
 * Intersección
 * Tanxencia
 ### Relacións diferentes
@@ -44,5 +44,5 @@ No plano de Minkowski (x,t): d^2 = x^2 -t^2
 ## Outros
 ### Particularidades do plano minkowskiano
 * Direccions Nulas (asintóticas, diagonais, lumínicas)
-* Hai 3  tipos de "cicunferencias" centradas nun mesmo punto<br>
+* Hai 3  tipos de "cicunferencias" centradas nun mesmo punto:<br>
        Espacial , Temporal e Lumnínica
