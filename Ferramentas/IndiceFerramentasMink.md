@@ -20,3 +20,5 @@
 * 19-Reflect About Line
 * 20-Reflect About Circle
 * 21-Rotate Around Point
+* 22-Center
+* 23-Complex Number
