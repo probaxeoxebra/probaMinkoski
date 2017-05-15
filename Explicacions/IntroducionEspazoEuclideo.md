@@ -9,6 +9,6 @@ Para encaixar coa presentación habitual de GeoGebra, asociaremos ditos eixes co
 * z (alto)
 
 ## Plano de Euclides
-Podemos proxectar o espazo euclideo tridimensional sobre un plano eliminando unha das tres dimensións (por exemplo, o eixe "z")
-Obtemos deste xeito un plano coa mesma métrica do espazo euclideo orixinal. 
+Podemos proxectar o espazo euclideo tridimensional sobre un plano eliminando unha das tres dimensións (por exemplo, o eixe "z") <br>
+Obtemos deste xeito un plano coa mesma métrica do espazo euclideo orixinal. <br>
 Esta é a estrurura alxebraica sobre o que se sustenta o entorno de xeometría dinámica 2D de Geogebra.
