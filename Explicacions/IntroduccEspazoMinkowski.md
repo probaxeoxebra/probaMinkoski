@@ -12,7 +12,6 @@ Para encaixar coa presentación de GeoGebra, facemos unha primeira redución dim
 
 ## Plano de Minkowski
 Podemos proxectar este espazotempo tridimensional de Minkowski  sobre un plano eliminando unha dimensión espacial adicional (por exemplo, o eixe "y") <br>
-
 Obtemos deste xeito un plano coa métrica do espazotempo de Minkowski orixinal. <br>
-
 Esta é a estrurura alxebraica sobre o que se sustentaría o entorno de xeometría dinámica que presentamos nesta proposta para Geogebra.
+![(2,2D e (2,1)D]("espazotempo esquerda: (1,1(D e dereita: (2,1)D ")
