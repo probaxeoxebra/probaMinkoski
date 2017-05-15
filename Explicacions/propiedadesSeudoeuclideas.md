@@ -43,4 +43,4 @@ Esta é unha propiedade do espazo 3D que se pode usar no subespazo 2D para const
   * para Euclides: xiro (dun certo ángulo)  ao redor dun punto dado <br>
           o único punto que permanece invariante nun xiro euclídeo é o centro do mesmo
   * para Minkowski: boost (xiro hiperbólico cun certo ángulo hiperbólico) centrado nun punto dado.  <br>
-          as das liñas asintóticas (diagonais aos eixes cartesiáns pasando polo centro da rotación) permanecen invariantes nun boost.
+          as dúas liñas asintóticas (diagonais aos eixes cartesiáns pasando polo centro da rotación) permanecen invariantes nun boost.
