@@ -20,6 +20,6 @@ Obtemos deste xeito un plano coa mesma métrica do espazo euclideo orixinal.
 <br>
 
 Esta é a estrurura alxebraica sobre o que se sustenta o entorno de xeometría dinámica 2D de Geogebra.
-
+<br>
 
 ![2D-3D GeoGebra view](https://github.com/probaxeoxebra/probaMinkoski/blob/master/IMAGES/2D-3D%20views.JPG "GeoGebra Views (Left: 2D, Right: 3D)")
