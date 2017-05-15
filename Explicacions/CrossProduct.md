@@ -12,7 +12,7 @@ A continuación un documento feito con MS Office 2010.
 
 [Algebraic calculations (PDF)](../documents/Cross.pdf)
 
-De seguido un documento feito con LibreOffice 5.
+De seguido o mesmo documento feito con LibreOffice 5.
 
 [Algebraic calculations (PDF)](../documents/documento-cross-libre-office.pdf)
 
