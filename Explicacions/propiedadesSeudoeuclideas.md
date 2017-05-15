@@ -29,7 +29,12 @@ Como consecuencia do cambio na métrica, aparecen unha seride de propiedades xeo
   * para Euclides: superficie do arco de círculo delimitado polas dúas rectas coincidentes no centro.
   * para Minkowski: superficie do arco de hipérbola delimitado polas dúas rectas coincidentes no centro.
   
-## Produto Vectorial  ou [Cross Product](Explicacions/CrossProduct.md)
+## Produto Vectorial  ou [Cross Product](CrossProduct.md)
 Esta é unha propiedade do espazo 3D que se pode usar no subespazo 2D para construír unha dirección perpendicular a outra dada.
 * para Euclides:  o Cross obtense como un determinante cunha fila na que están os vectores da base (ortonormal) e dúas filas coas compoñentes dos dous vectores a multiplicar.
+
+![Produto vectorial Euclideo](../FORMULAS/detCrossEucl.jpg)
+
 * para Minkowski, o Cross obtense como un determinante cunha fila na que están os vectores da base (ortonormal) e dúas filas coas compoñentes dos dous vectores a multiplicar. A diferenza co caso euclidiano consiste en que os dous vectores espaciasi da base están cambeados de signo.
+
+![Produto vectorial Minkowski](../FORMULAS/detCrossMink.jpg)
