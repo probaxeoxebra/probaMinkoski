@@ -6,9 +6,10 @@ A métrica de Minkowski presenta unha estrutura alxebraica equivalente á de Euc
 (que forma a base na que se sustenta o entorno de GeoGebra), 
 cunhas leves diferenzas alxebraicas que se traducen en importantes diferenzas xeométricas.<br>
 
-A diferenza fundamental deriva dun cambio de signo na forma cadrática fundamentalq ue define a distancia.<br>
+A diferenza fundamental deriva dun cambio de signo na forma cadrática fundamental que define a distancia.<br>
 
 No plano euclideo (x,y): d² = x² + y²
+
 No plano de Minkowski (x,t): d² = x² -t²
 
 ## Obxectos
@@ -29,7 +30,7 @@ No plano de Minkowski (x,t): d² = x² -t²
 * Circunferencia
 * Arco de circunferencia
 * Sector circular
-* Polgono regular
+* Polígono regular
 
 ## Relacións
 
@@ -42,7 +43,7 @@ No plano de Minkowski (x,t): d² = x² -t²
 
 ## Medidas
 
-### Medidas comuns
+### Medidas comúns
 * Superficie
 
 ### Medidas diferentes
@@ -52,8 +53,8 @@ No plano de Minkowski (x,t): d² = x² -t²
 ## Outros
 
 ### Particularidades do plano minkowskiano
-* Direccions Nulas (asintóticas, diagonais, lumínicas)
-* Hai 3  tipos de "cicunferencias" centradas nun mesmo punto:
+* Direccións nulas (asintóticas, diagonais, lumínicas)
+* Hai 3  tipos de «cicunferencias» centradas nun mesmo punto:
     - Espacial
     - Temporal
     - Lumnínica
