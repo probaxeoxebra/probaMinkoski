@@ -2,7 +2,8 @@
 Como consecuencia do cambio na métrica, aparecen unha seride de propiedades xeométricas radicalmente diferentes entre os espazos de Euclides e Minkowski
 
 ## Distancia entre 2 puntos (ou módulo dun vector)
-*   para Euclides: raíz cadrada da SUMA dos cadrados de cada coordenada
+*   para Euclides: raíz cadrada da SUMA dos cadrados de cada coordenada
+<br>
     equivale á superficie dun triángulo rectángulo e isósceles coa hipotenusa sobre o segmento que une os puntos.
   
 *   para Minkowski: raiz cadrada da RESTA dos cadrados de cada coordenada
