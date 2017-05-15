@@ -2,7 +2,6 @@
 
 ## O espazo euclídeo é o que poden percibir os nosos sentidos.
 Euclides explicou que había tres dimensións (que podemos chamar "ancho", "alto" e "fondo").
-
 <br>
 
 Descartes asociou un eixe  a cada dimensión, que chamou (x,y,z). <br>
