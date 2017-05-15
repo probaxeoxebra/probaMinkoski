@@ -2,7 +2,7 @@
 documentación para estruturar un proxecto de Xeometría Dinámica adicado ao espazotempo
 
 *  [Introdución ao espazo euclideo](Explicacions/IntroducionEspazoEuclideo.md) (plano de Euclides)
-*  Introdución ao espazo seudo-euclideo (plano de Minkowski)
+*  [Introdución ao espazo seudo-euclideo](Explicacions/IntroduccEspazoMinkowski.md) (plano de Minkowski)
    * A Teoría da Relatividade de Einstein é unha compoñente fundamental da física moderna e, como demostrou Minkowski, está totalmente baseada na xeometría (seudo-euclídea) do espazotempo.
 
 ![Einstein](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Einstein_1921_by_F_Schmutzer_-_restoration.jpg/220px-Einstein_1921_by_F_Schmutzer_-_restoration.jpg "O amigo Einstein")
