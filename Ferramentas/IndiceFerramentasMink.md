@@ -1,24 +1,24 @@
 # Tools to substitute
-* 1-Segment with given Length
-* 2-Perpendicular Line
-* 3-Perpendicular Bisector
-* 4-Angle Bisector
-* 5-Polar or Diameter Line
-* 6-Regular Polygon
-* 7-Circle with Center through Point
-* 8-Circle with Center and Radius
-* 9-Compass
-* 10-Circle through 3 Points
-* 11-Semicircle through 2 Points
-* 12-Circular Arc
-* 13-Circumcircular Arc
-* 14-Circular Sector
-* 15-Circumcircular Sector
-* 16-Angle
-* 17-Angle with Given Size
-* 18-Distance or Length
-* 19-Reflect About Line
-* 20-Reflect About Circle
-* 21-Rotate Around Point
-* 22-Center
-* 23-Complex Number
+* 1-  Midpoint or Center
+* 2-  Complex Number
+* 3-  Segment with given Length
+* 4-  Perpendicular Line
+* 5-  Perpendicular Bisector
+* 6-  Angle Bisector
+* 7-  Polar or Diameter Line
+* 8-  Regular Polygon
+* 9-  Circle with Center through Point
+* 10- Circle with Center and Radius
+* 11- Compass
+* 12- Circle through 3 Points
+* 13- Semicircle through 2 Points
+* 14- Circular Arc
+* 15- Circumcircular Arc
+* 16- Circular Sector
+* 17- Circumcircular Sector
+* 18- Angle
+* 19- Angle with Given Size
+* 20- Distance or Length
+* 21- Reflect About Line
+* 22- Reflect About Circle
+* 23- Rotate Around Point
