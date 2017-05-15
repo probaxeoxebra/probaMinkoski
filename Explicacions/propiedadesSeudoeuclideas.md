@@ -1,9 +1,9 @@
 # Propiedades da xeometría seudoeuclídea
-Como consecuencia do cambio na métrica, aparecen unha seride de propiedadesz xeométricas radicalmente diferentes entre os espazos de Euclides e Minkowski
+Como consecuencia do cambio na métrica, aparecen unha seride de propiedades xeométricas radicalmente diferentes entre os espazos de Euclides e Minkowski
 
 ## Distancia entre 2 puntos (ou módulo dun vector)
   * para Euclides: raíz cadrada da SUMA dos cadrados de cada coordenada
-    * equivale á superficie dun triángulo rectángulo e isósceles coa hipotenusa sobre o segmento que une os puntos
+    equivale á superficie dun triángulo rectángulo e isósceles coa hipotenusa sobre o segmento que une os puntos
   * para Minkowski: raiz cadrada da RESTA dos cadrados de cada coordenada
     * equivale á superficie dun triángulo rectángulo coa hipotenusa sobre o segmento que une os puntos e cos catetos paralelos ás direccións asintóticas (bisectrices dos eixes de coordenadas)
 
