@@ -38,3 +38,9 @@ Esta é unha propiedade do espazo 3D que se pode usar no subespazo 2D para const
 * para Minkowski, o Cross obtense como un determinante cunha fila na que están os vectores da base (ortonormal) e dúas filas coas compoñentes dos dous vectores a multiplicar. A diferenza co caso euclidiano consiste en que os dous vectores espaciasi da base están cambeados de signo.
 
 ![Produto vectorial Minkowski](../FORMULAS/detCrossMink.jpg)
+
+## Rotación
+  * para Euclides: xiro (dun certo ángulo)  ao redor dun punto dado <br>
+          o único punto que permanece invariante nun xiro euclídeo é o centro do mesmo
+  * para Minkowski: boost (xiro hiperbólico cun certo ángulo hiperbólico) centrado nun punto dado.  <br>
+          as das liñas asintóticas (diagonais aos eixes cartesiáns pasando polo centro da rotación) permanecen invariantes nun boost.
