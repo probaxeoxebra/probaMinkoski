@@ -16,7 +16,7 @@
 15- Locus<br>
 16- Polygon<br>
 17- Rigid Polygon<br>
-18- Vectos Polygon<br>
+18- Vector Polygon<br>
 19- Area<br>
 20- Slope<br>
 21- List<br>
