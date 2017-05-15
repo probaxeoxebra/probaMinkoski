@@ -15,7 +15,7 @@ documentación para estruturar un proxecto de Xeometría Dinámica adicado ao es
     * [produto Cross](Explicacions/CrossProduct.md)
   
   ## Ferramentas
-  * Indice de ferramentas
+* Indice de ferramentas
   * para deixar igual (32)
   * para adaptar (12)
   * [para substituir (23)](Ferramentas/IndiceFerramentasMink.md)
