@@ -10,9 +10,9 @@ a x b	= (a<sub>1</sub>e<sub>1</sub> +a<sub>2</sub>e<sub>2</sub>+a<sub>3</sub>e<s
 ## Cross Product in the Minkowskian Spacetime:
 ![Minkowskian Cross Product axb](../FORMULAS/detCrossMink.jpg "Minkowskian determinant axb")
 
-a x b	=  ( a<sub>1</sub>e1 +a<sub>2</sub>e<sub>2</sub> +a<sub>0</sub>e<sub>0</sub> )  x  (b<sub>1</sub>e<sub>1</sub> + b<sub>2</sub>e<sub>2</sub> +  b<sub>0</sub>e<sub>0</sub>  )  =    
+a x b	=  ( a<sub>1</sub>e<sub>1</sub> +a<sub>2</sub>e<sub>2</sub> +a<sub>0</sub>e<sub>0</sub> )  x  (b<sub>1</sub>e<sub>1</sub> + b<sub>2</sub>e<sub>2</sub> +  b<sub>0</sub>e<sub>0</sub>  )  =    
 
-=	( a<sub>1</sub>b<sub>2</sub> -  a<sub>2</sub>b1 ) e<sub>0</sub>   + ( a<sub>0</sub>b<sub>1</sub> -  a<sub>1</sub>b<sub>0</sub> )(-e<sub>2</sub>) +  ( a<sub>2</sub>b<sub>0</sub>  - a<sub>0</sub>b<sub>2</sub> ) (- e<sub>1</sub>)  
+=	( a<sub>1</sub>b<sub>2</sub> -  a<sub>2</sub>b<sub>1</sub> ) e<sub>0</sub>   + ( a<sub>0</sub>b<sub>1</sub> -  a<sub>1</sub>b<sub>0</sub> )(-e<sub>2</sub>) +  ( a<sub>2</sub>b<sub>0</sub>  - a<sub>0</sub>b<sub>2</sub> ) (- e<sub>1</sub>)  
 
 
 ![Por favor usa LibreOffice](../IMAGES/usa-libre-office.jpg)
