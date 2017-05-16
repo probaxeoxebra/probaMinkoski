@@ -2,11 +2,6 @@
 
 ## Cross Product in the Euclidean Space:
 ![Euclidean Cross Product axb](../FORMULAS/detCrossEucl.jpg "Euclidean determinant axb")
-=  |Header        |     Header   | Header |
-   -------              ------         ------
-  | e<sub>1</sub> |e<sub>2</sub> |e<sub>3</sub> |
-  | a<sub>1</sub> |a<sub>2</sub> |a<sub>3</sub> |
-  | b<sub>1</sub> |b<sub>2</sub> |b<sub>3</sub> |
 
 a x b	= (a<sub>1</sub>e<sub>1</sub> +a<sub>2</sub>e<sub>2</sub>+a<sub>3</sub>e<sub>3</sub> ) x (b<sub>1</sub>e<sub>1</sub> + b<sub>2</sub>e<sub>2</sub> + b<sub>3</sub>e<sub>3</sub> ) = 
 
