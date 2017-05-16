@@ -7,7 +7,7 @@ documentación para estruturar un proxecto de Xeometría Dinámica adicado ao es
 
 ## Explicacións
 * [Propósito](Explicacions/Proposito.md) deste documento
-* Estrutura
+* [Estrutura](Explicacions/Estrutura.md)
 *  [Introdución ao espazo euclideo](Explicacions/IntroducionEspazoEuclideo.md) (plano de Euclides)
 *  [Introdución ao espazo seudo-euclideo](Explicacions/IntroduccEspazoMinkowski.md) (plano de Minkowski)
 * [Proposta para GeoGebra](Explicacions/propostaGeoGebra.md)
