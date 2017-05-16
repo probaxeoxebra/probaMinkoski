@@ -4,6 +4,7 @@
 ![Euclidean Cross Product axb](../FORMULAS/detCrossEucl.jpg "Euclidean determinant axb")
 
 a~1~e~1
+$\sf{text_{subscript}}$
 
 a x b	= (a_1_e1 +a^2^e2+a3e3 ) x (b1e1 + b2e2 + b3e3 ) = =
 
