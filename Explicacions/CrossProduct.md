@@ -3,7 +3,7 @@
 ## Cross Product in the Euclidean Space:
 ![Euclidean Cross Product axb](../FORMULAS/detCrossEucl.jpg "Euclidean determinant axb")
 
-a x b	= (a1e1 +a2e2+a3e3 ) x  (b1e1 + b2e2 + b3e3 ) =
+a x b	= (a_1e_1 +a_2e_2+a_3e_3 ) x  (b_1e_1 + b_2e_2 + b_3e_3 ) =
 
 = ( a1b2 -  a2b1 ) (e3) +  ( a3b1  - a1b3 ) (e2 )  +  ( a2b3 -  a3b2 ) ( e1  )  
 
