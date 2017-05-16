@@ -7,19 +7,19 @@ A seguinte lista irá aumentando a medida que se vaian identificando novas neces
 Substitúe á circunferencia euclidea (Circle) como lugar xeométrico dos puntos equidistantes dun centro dado.
 
 Ao contrario do caso euclídeo, no que temos unha única posibilidade para cada centro (c<sub>1</sub>,c<sub>0</sub>)  e raio (R), aparecen varios posibles obxectos:
-     * sCircle <br>
+* sCircle
    recolle todos os puntos cunha distancia de tipo espacial respecto do centro. <br>
    A figura corresponde a unha hipérbola equilátera cunha rama á dereita e outra á esquerda.<br>
 Fórmula (co centro na orixe de coordenadas): x<sup>2</sup>-t<sup>2</sup>= R<sup>2</sup><br> 
       Para un centro distinto, a fórmula é  (x-c<sub>1</sub>)<sup>2</sup>-(t-c<sub>0</sub>)<sup>2</sup>= R<sup>2</sup><br>. 
 
-     * tCircle <br>
+* tCircle
    recolle todos os puntos cunha distancia de tipo temporal respecto do centro. <br>
    A figura corresponde a unha hipérbola equilátera cunha rama superior e outra inferior.<br>
 Fórmula (co centro na orixe de coordenadas): -x<sup>2</sup>+t<sup>2</sup>= R<sup>2</sup><br>
 Para un centro distinto, a fórmula é  -(x-c<sub>1</sub>)<sup>2</sup>+(t-c<sub>0</sub>)<sup>2</sup>= R<sup>2</sup><br> 
 
-     * stCircle <br>
+* stCircle
    recolle todos os puntos cunha distancia de tipo temporal ou espacial respecto do centro. <br>
    A figura corresponde coa unión das dúas hipérbolas anteriores (sCircle U tCircle)<br>
 Fórmula (co centro na orixe): -x<sup>2</sup>+t<sup>2</sup>= R<sup>2</sup>   U   -x<sup>2</sup>+t<sup>2</sup>= R<sup>2</sup><br>
