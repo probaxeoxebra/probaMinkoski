@@ -14,7 +14,8 @@ a x b	=  ( a<sub>1</sub>e<sub>1</sub> +a<sub>2</sub>e<sub>2</sub> +a<sub>0</sub>
 
 =	( a<sub>1</sub>b<sub>2</sub> -  a<sub>2</sub>b<sub>1</sub> ) e<sub>0</sub>   + ( a<sub>0</sub>b<sub>1</sub> -  a<sub>1</sub>b<sub>0</sub> )(-e<sub>2</sub>) +  ( a<sub>2</sub>b<sub>0</sub>  - a<sub>0</sub>b<sub>2</sub> ) (- e<sub>1</sub>)  
 
-![Straicht Cross](../IMAGES/StraightCross_EuclMink.JPG "Straicht Cross: Minkowsli opposite to Euclid")
+![Straight Cross](../IMAGES/StraightCross_EuclMink.JPG "Straight Cross: Minkowsli opposite to Euclid")
+![General Cross](../IMAGES/GeneralCross_EuclMink.JPG "General Cross: Minkowsli & Euclid reflect about the spatial plane")
 
 ![Por favor usa LibreOffice](../IMAGES/usa-libre-office.jpg)
 
