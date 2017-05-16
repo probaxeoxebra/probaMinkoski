@@ -31,7 +31,15 @@ Corresponde co lugar xeométrico dos puntos que teñen unha distancia nula respe
 A forma xeométrica é a dun par de rectas de pendente igual a 1 e -1 que se cortan no centro.
 
 ###  stRegularPolygon
+###  stComplexNumber
+###  stAngle
+###  stCircularArc
+###  stSemicircle
+###  stCircularSector
+###  stDistance
 
 ## Comandos
 ###  stCross
 ###  stOrthogonal
+###  stReflect
+###  stRotate
