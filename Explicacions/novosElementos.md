@@ -29,7 +29,7 @@ Fórmula (co centro na orixe): -x<sup>2</sup>+t<sup>2</sup>= R<sup>2</sup>   U  
 Este obxecto non ten correspondencia no plano euclídeo. <br>
 Corresponde co lugar xeométrico dos puntos que teñen unha distancia nula respecto dun punto dado.<br>
 A forma xeométrica é a dun par de rectas de pendente igual a 1 e -1 que se cortan no centro.
-
+  
    ###  stRegularPolygon
    ###  stComplexNumber
    ###  stAngle
