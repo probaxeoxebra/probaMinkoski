@@ -17,6 +17,7 @@ a x b	=  ( a<sub>1</sub>e<sub>1</sub> +a<sub>2</sub>e<sub>2</sub> +a<sub>0</sub>
 ![Straight Cross](../IMAGES/StraightCross_EuclMink.JPG "Straight Cross: Minkowsli opposite to Euclid")
 ![General Cross](../IMAGES/GeneralCross_EuclMink.JPG "General Cross: Minkowsli & Euclid reflect about the spatial plane")
 [GeoGebra Applet](https://ggbm.at/TQ3GT8JM)
+
 ![Por favor usa LibreOffice](../IMAGES/usa-libre-office.jpg)
 
 A continuación un documento feito con MS Office 2010.
