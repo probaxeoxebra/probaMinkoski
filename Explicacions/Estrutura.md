@@ -11,6 +11,13 @@ Continuamos pola análise en detalle das ferramentas de GeoGebra na versión 2D 
 * 23 ferramentas que deberan ser modificadas na súa estrurura ou procesos internos. Ainda que as modificacións non deberían ser moi significativas (na maiora dos casos, implican identificar novos obxectos e modificar algún(s) signoas nos procesos matemáticos), é preciso ter unha perspectiva clara do fluxo de información en cada ferramenta para evitar problemas de execución.
 
 Para cada ferramenta, a análise faise contemplando diversos temas, dun xeito paralelo para todas elas.<br> 
+
+* ntrada e Saída
+* Álxebra
+* de Euclides a Minkowski
+* construción co kit básico de GeoGebra
+* Tests
+
 Estes temas agrúpanse tamén nouto apartado, para poder facer un comparativo directo entre todas as ferramentas nun determinado aspecto.
 
 Finalmente, preséntanse unha serie de consideracións respecto ao interese de realizar este proxecto e as posibilidades de desenvolvemento futuro, coa intención de despertar o interese nos programadores capacitados para realizar a tarefa proposta.
