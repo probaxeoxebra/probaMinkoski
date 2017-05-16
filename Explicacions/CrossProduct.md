@@ -6,7 +6,7 @@
 a~1~e~1
 $\sf{text_{subscript}}$
 
-a x b	= (a_1_e1 +a^2^e2+a3e3 ) x (b1e1 + b2e2 + b3e3 ) = =
+a x b	= (a<sub>1</sub>_e1 +a^2^e2+a3e3 ) x (b1e1 + b2e2 + b3e3 ) = =
 
 = $\mbox{(a}_1b2 -  a2b1 ) (e3) +  ( a3b1  - a1b3 ) (e2 )  +  ( a2b3 -  a3b2 ) ( e1  )$  
 
