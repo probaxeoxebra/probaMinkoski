@@ -3,7 +3,7 @@ Para levar adiante a proposta será preciso crear novos elementos ou recursos de
 A seguinte lista irá aumentando a medida que se vaian identificando novas necesidades.
 
 ## Obxectos
-*  ###  stCircle <br>
+*  ###  Minkowskian Circles <br>
 Substitúe á circunferencia euclidea (Circle) como lugar xeométrico dos puntos equidistantes dun centro dado.
 
 Ao contrario do caso euclídeo, no que temos unha única posibilidade para cada centro (c<sub>1</sub>,c<sub>0</sub>)  e raio (R), aparecen varios posibles obxectos:
