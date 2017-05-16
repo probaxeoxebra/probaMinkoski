@@ -12,7 +12,8 @@ documentación para estruturar un proxecto de Xeometría Dinámica adicado ao es
 * [Introdución ao espazo seudo-euclideo](Explicacions/IntroduccEspazoMinkowski.md) (plano de Minkowski)
 * [Propiedades seudoeuclideas](Explicacions/propiedadesSeudoeuclideas.md)
 
-## [Proposta para GeoGebra](Explicacions/propostaGeoGebra.md)
+## Proposta para GeoGebra
+* [Presentación](Explicacions/propostaGeoGebra.md)
   * [produto Cross](Explicacions/CrossProduct.md)
   
   ## Ferramentas
