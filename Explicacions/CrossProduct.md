@@ -14,6 +14,7 @@ a x b	=  ( a<sub>1</sub>e<sub>1</sub> +a<sub>2</sub>e<sub>2</sub> +a<sub>0</sub>
 
 =	( a<sub>1</sub>b<sub>2</sub> -  a<sub>2</sub>b<sub>1</sub> ) e<sub>0</sub>   + ( a<sub>0</sub>b<sub>1</sub> -  a<sub>1</sub>b<sub>0</sub> )(-e<sub>2</sub>) +  ( a<sub>2</sub>b<sub>0</sub>  - a<sub>0</sub>b<sub>2</sub> ) (- e<sub>1</sub>)  
 
+![Straicht Cross](../IMAGES/StraightCross_EuclMink.JPG "Straicht Cross: Minkowsli opposite to Euclid")
 
 ![Por favor usa LibreOffice](../IMAGES/usa-libre-office.jpg)
 
