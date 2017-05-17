@@ -1,5 +1,7 @@
 # GeoGebra Commands
 
+The following Commands should be changed for the Minkowskian metric:
+
 ## [Algebra Commands](https://wiki.geogebra.org/en/Algebra_Commands)
 * Cross Command
 * Dot Command
