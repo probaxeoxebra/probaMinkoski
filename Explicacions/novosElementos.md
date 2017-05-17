@@ -2,7 +2,7 @@
 Para levar adiante a proposta será preciso crear novos elementos ou recursos de programación. <br>
 A seguinte lista irá aumentando a medida que se vaian identificando novas necesidades.
 
-## Obxectos
+## [Obxectos](../documents/GeoGebra/Objects.md)
 *  ###  Minkowskian Circles <br>
 Substitúe á circunferencia euclidea (Circle) como lugar xeométrico dos puntos equidistantes dun centro dado.
 
@@ -38,7 +38,7 @@ A forma xeométrica é a dun par de rectas de pendente igual a 1 e -1 que se cor
 *  ###  stCircularSector
 *  ###  stDistance
 
-## Comandos
+## [Comandos](../documents/GeoGebra/Commands.md)
 *  ###  stCross
 *  ###  stOrthogonal
 *  ###  stReflect
