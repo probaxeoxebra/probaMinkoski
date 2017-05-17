@@ -1,4 +1,4 @@
-# GeoGebra Commands
+# [GeoGebra Commands](https://wiki.geogebra.org/en/Commands)
 
 The following Commands should be changed for the Minkowskian metric:
 
