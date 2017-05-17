@@ -6,3 +6,4 @@ The following ones should be changed for the Minkowskian metric:
 
 ## [Geometric Objects](https://wiki.geogebra.org/en/Geometric_Objects)
 * Conic sections and Arcs
+* Curves
