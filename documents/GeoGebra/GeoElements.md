@@ -1,8 +1,10 @@
+# GeoElements
+
 GeoGebra works with appropriate Java classes for ​such elements which are called ​GeoElements. 
 
 The following figure shows the various Java classes for different kinds of geometrical objects.
 
-![GeoElements](../documents/GeoGebra/GeoElement.JPG)
+![GeoElements](https://github.com/probaxeoxebra/probaMinkoski/blob/master/documents/GeoGebra/GeoElement.JPG)
 
 To work on such objects we define ​algorithms. 
 
@@ -10,7 +12,7 @@ For example, a line can be defined with the points lying on it.
 
 As inputs of ​GeoPoint A and GeoPoint B we can obtain an output of ​GeoLine g by calling the Java method ​AlgoJoinPoints (see figure below).
 
-![AlgoJoinPoints](../documents/GeoGebra/AloJoinPoints.JPG)
+![AlgoJoinPoints](https://github.com/probaxeoxebra/probaMinkoski/blob/master//documents/GeoGebra/AloJoinPoints.JPG)
 
 GeoGebra must take care of the hierarchy of the dependent objects. 
 
