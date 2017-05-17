@@ -17,7 +17,7 @@ documentación para estruturar un proxecto de Xeometría Dinámica adicado ao es
 * [Novos Elementos](Explicacions/novosElementos.md)
   * [produto Cross](Explicacions/CrossProduct.md)
   
-  ## [Ferramentas](../documents/GeoGebra/GeoGebraTools.md)
+  ## [Ferramentas](https://github.com/probaxeoxebra/probaMinkoski/blob/master/documents/GeoGebra/GeoGebraTools.md)
 * Indice de ferramentas
   * [para deixar igual (32)](Ferramentas/FerramentasIguais.md)
   * [para adaptar (11)](Ferramentas/FerramentasAdaptadas.md)
