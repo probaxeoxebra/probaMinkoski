@@ -15,20 +15,20 @@ The following Tools should be changed for the Minkowskian metric:
 ## [Point Tools](https://wiki.geogebra.org/en/Point_Tools)
 * Segment with Given Length
 
-## [Line Tools](https://wiki.geogebra.org/en/Line_Tools)
+## [Line Tools](https://wiki.geogebra.org/en/Line_Tools) (2)
 * Midpoint or Centre
 * Complex Number
 
-## [Special Line Tools](https://wiki.geogebra.org/en/Special_Line_Tools)
+## [Special Line Tools](https://wiki.geogebra.org/en/Special_Line_Tools) (4)
 * Perpendicular Line
 * Perpendicular Bisector
 * Angle Bisector
 * Polar or Diameter Line
 
-## [Polygon Tools](https://wiki.geogebra.org/en/Polygon_Tools)
+## [Polygon Tools](https://wiki.geogebra.org/en/Polygon_Tools) (1)
 * Regular Polygon
 
-## [Circle and Arc Tools](https://wiki.geogebra.org/en/Circle_and_Arc_Tools)
+## [Circle and Arc Tools](https://wiki.geogebra.org/en/Circle_and_Arc_Tools) (9)
 * Circle with Centre through Point
 * Circle with Centre and Radius
 * Compasses
@@ -39,12 +39,12 @@ The following Tools should be changed for the Minkowskian metric:
 * Circular Sector
 * Circumcircular Sector
 
-## [Measurement Tools](https://wiki.geogebra.org/en/Measurement_Tools)
+## [Measurement Tools](https://wiki.geogebra.org/en/Measurement_Tools) (3)
 * Angle
 * Angle with Given Size
 * Distance or Length
 
-## [Transformation Tools](https://wiki.geogebra.org/en/Transformation_Tools)
+## [Transformation Tools](https://wiki.geogebra.org/en/Transformation_Tools) (3)
 * Reflect about Circle Tool
 * Reflect about Line Tool
 * Rotate around Point Tool
