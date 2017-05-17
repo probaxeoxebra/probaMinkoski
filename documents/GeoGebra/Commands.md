@@ -44,3 +44,11 @@
 * PerpendicularVector Command
 * UnitPerpendicularVector Command
 * UnitVector Command
+
+## [Curve Commands](https://wiki.geogebra.org/en/Curves)
+* Curvature
+* CurvatureVector
+* OsculatingCircle. 
+
+
+
