@@ -46,10 +46,7 @@ For more information please check our complete [list of all available Tools](htt
 * Reflect about Line Tool
 * Rotate around Point Tool
 
-## [Special Object Tools](https://wiki.geogebra.org/en/Transformation_Tools) (6)
-* Reflect about Circle Tool
-* Reflect about Line Tool
-* Rotate around Point Tool
+
 
 
 
