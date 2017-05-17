@@ -8,25 +8,27 @@ Note: All [Tools](https://wiki.geogebra.org/en/Category:Tools) have their [Comma
 
 from: [GeoGebra Manual: Tools](https://wiki.geogebra.org/en/Tools)
 
-For more information please check our complete [list of all available Tools](https://wiki.geogebra.org/en/Category:Tools).
+For more information please check the complete [list of all available Tools](https://wiki.geogebra.org/en/Category:Tools).
 
-## [Point Tools](https://wiki.geogebra.org/en/Point_Tools) (8)
+The following Tools should be changed for the Minkowskian metric:
+
+## [Point Tools](https://wiki.geogebra.org/en/Point_Tools)
 * Segment with Given Length
 
-## [Line Tools](https://wiki.geogebra.org/en/Line_Tools) (7)
+## [Line Tools](https://wiki.geogebra.org/en/Line_Tools)
 * Midpoint or Centre
 * Complex Number
 
-## [Special Line Tools](https://wiki.geogebra.org/en/Special_Line_Tools) (8)
+## [Special Line Tools](https://wiki.geogebra.org/en/Special_Line_Tools)
 * Perpendicular Line
 * Perpendicular Bisector
 * Angle Bisector
 * Polar or Diameter Line
 
-## [Polygon Tools](https://wiki.geogebra.org/en/Polygon_Tools) (4)
+## [Polygon Tools](https://wiki.geogebra.org/en/Polygon_Tools)
 * Regular Polygon
 
-## [Circle and Arc Tools](https://wiki.geogebra.org/en/Circle_and_Arc_Tools) (9)
+## [Circle and Arc Tools](https://wiki.geogebra.org/en/Circle_and_Arc_Tools)
 * Circle with Centre through Point
 * Circle with Centre and Radius
 * Compasses
@@ -37,12 +39,12 @@ For more information please check our complete [list of all available Tools](htt
 * Circular Sector
 * Circumcircular Sector
 
-## [Measurement Tools](https://wiki.geogebra.org/en/Measurement_Tools) (6)
+## [Measurement Tools](https://wiki.geogebra.org/en/Measurement_Tools)
 * Angle
 * Angle with Given Size
 * Distance or Length
 
-## [Transformation Tools](https://wiki.geogebra.org/en/Transformation_Tools) (6)
+## [Transformation Tools](https://wiki.geogebra.org/en/Transformation_Tools)
 * Reflect about Circle Tool
 * Reflect about Line Tool
 * Rotate around Point Tool
