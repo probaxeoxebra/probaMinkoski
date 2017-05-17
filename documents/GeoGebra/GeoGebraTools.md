@@ -12,7 +12,7 @@ For more information please check the complete [list of all available Tools](htt
 
 The following Tools should be changed for the Minkowskian metric:
 
-## [Point Tools](https://wiki.geogebra.org/en/Point_Tools)
+## [Point Tools](https://wiki.geogebra.org/en/Point_Tools) (1)
 * Segment with Given Length
 
 ## [Line Tools](https://wiki.geogebra.org/en/Line_Tools) (2)
