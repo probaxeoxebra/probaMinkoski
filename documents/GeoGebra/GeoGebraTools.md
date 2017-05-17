@@ -38,6 +38,7 @@ For more information please check our complete [list of all available Tools](htt
 * Circumcircular Sector
 
 ## [Measurement Tools](https://wiki.geogebra.org/en/Measurement_Tools) (6)
+* Angle
 * Angle with Given Size
 * Distance or Length
 
