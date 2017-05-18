@@ -9,6 +9,6 @@ the following GeoGebra (2D) tools should be slightly adapted to include some new
 7-  Reflect About Point<br>
 8-  Translate by Vector<br>
 9-  Dilate from Point<br>
-º0-  Show/Hide Object<br>
+10-  Show/Hide Object<br>
 11- Copu Visual Style<br>
 12- Delete<br>
