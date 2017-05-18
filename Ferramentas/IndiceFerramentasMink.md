@@ -23,7 +23,7 @@
 * 22- Reflect About Circle
 * 23- Rotate Around Point
 
-## The following Tools could be kept unchanged for the moment
+### The following Tools could be kept initially unchanged 
 * - Ellipse
 * - Hyperbola
 * - Parabola
