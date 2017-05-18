@@ -5,9 +5,10 @@ the following GeoGebra (2D) tools should be slightly adapted to include some new
 3-  Intersect<br>
 4-  Tangents<br>
 5-  Relation<br>
-6-  Reflect About Point<br>
-7-  Translate by Vector<br>
-8-  Dilate from Point<br>
-9-  Show/Hide Object<br>
-10- Copu Visual Style<br>
-11- Delete<br>
+6-  Conic through 5 Points<br>
+7-  Reflect About Point<br>
+8-  Translate by Vector<br>
+9-  Dilate from Point<br>
+º0-  Show/Hide Object<br>
+11- Copu Visual Style<br>
+12- Delete<br>
