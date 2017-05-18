@@ -20,7 +20,7 @@ The following Tools should be changed for the Minkowskian metric:
 * [Segment with Given Length](https://wiki.geogebra.org/en/Segment_with_Given_Length_Tool)
 
 ## [Special Line Tools](https://wiki.geogebra.org/en/Special_Line_Tools) (4)
-* [Perpendicular Line](https://wiki.geogebra.org/en/Parallel_Line_Tool)
+* [Perpendicular Line](https://wiki.geogebra.org/en/Perpendicular_Line_Tool)
 * [Perpendicular Bisector](https://wiki.geogebra.org/en/Perpendicular_Bisector_Tool)
 * [Angle Bisector](https://wiki.geogebra.org/en/Angle_Bisector_Tool)
 * [Polar or Diameter Line](https://wiki.geogebra.org/en/Polar_or_Diameter_Line_Tool)
