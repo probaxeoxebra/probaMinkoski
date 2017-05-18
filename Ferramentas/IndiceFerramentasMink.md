@@ -2,7 +2,7 @@
 * 1-  Midpoint or Center
 * 2-  Complex Number
 * 3-  Segment with given Length
-* 4-  Perpendicular Line
+* 4-  [Perpendicular Line](https://wiki.geogebra.org/en/Perpendicular_Line_Tool)
 * 5-  Perpendicular Bisector
 * 6-  Angle Bisector
 * 7-  Polar or Diameter Line
