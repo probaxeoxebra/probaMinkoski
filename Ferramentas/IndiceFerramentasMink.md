@@ -16,12 +16,14 @@
 * 15- Circumcircular Arc
 * 16- Circular Sector
 * 17- Circumcircular Sector
-* 18- Ellipse
-* 19- Hyperbola
-* 20- Parabola
-* 21- Angle
-* 22- Angle with Given Size
-* 23- Distance or Length
-* 24- Reflect About Line
-* 25- Reflect About Circle
-* 26- Rotate Around Point
+* 18- Angle
+* 19- Angle with Given Size
+* 20- Distance or Length
+* 21- Reflect About Line
+* 22- Reflect About Circle
+* 23- Rotate Around Point
+
+## The following Tools could be kept unchanged for the moment
+* - Ellipse
+* - Hyperbola
+* - Parabola
