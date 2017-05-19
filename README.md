@@ -32,7 +32,8 @@ documentación para estruturar un proxecto de Xeometría Dinámica adicado ao es
   ## Xustificación
  * Interese da proposta
    * Xeometría: Novos teoremas 
-   * Física: espazotempo (1,1): Relatividade básica
+   * Física: espazotempo (1,1): 
+     * Relatividade básica
      * Proposta didáctica 
 * Desenvolvemento posterior
    * Tres dimensións
