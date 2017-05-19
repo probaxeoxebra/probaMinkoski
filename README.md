@@ -33,8 +33,8 @@ documentación para estruturar un proxecto de Xeometría Dinámica adicado ao es
  * Interese da proposta
    * Xeometría: Novos teoremas 
    * Física: espazotempo (1,1): 
-     * [Relatividade básica](../Interese/RelatividadeBasica.md)
-     * [Proposta didáctica](../Interese/PropostaDidactica.md) 
+     * [Relatividade básica](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Interese/RelatividadeBasica.md)
+     * [Proposta didáctica](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Interese/PropostaDidactica.md) 
 * Desenvolvemento posterior
    * Tres dimensións
      * 3D (Euclides, GeoGebra)
