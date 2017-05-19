@@ -12,6 +12,6 @@ Como ben estableceu Euclides no seu tempo, o rigor da xeometría é tal que semp
 
 * A título de exemplo, os seguintes artigos dan unha idea das posibilidades deste enfoque didáctico:
 
-[Didactic Proposal for High School First Course](). Trátase da presentación e validación dunha proposta didáctica para os conceptos fundamentais da teoría da relatividade (velocidade límite, dilatación temporal, contracción espacial e equivalencia entre masa e enerxía)
+[Didactic Proposal for High School First Course](../documents/Tese/ESERA_2009Istanbul_ArtigoTese.pdf). Trátase da presentación e validación dunha proposta didáctica para os conceptos fundamentais da teoría da relatividade (velocidade límite, dilatación temporal, contracción espacial e equivalencia entre masa e enerxía)
 
 [Relativity with Levers and Sticks](). Trátase dunha ampliación do proceso anterior, chegando ata o campo do electromagnetismo.
