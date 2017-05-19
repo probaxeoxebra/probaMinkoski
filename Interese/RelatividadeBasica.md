@@ -12,8 +12,7 @@ A vantaxe deste procedemento é que podemos presentar os procesos dun xeito visu
 Podemos observar exemplos deste procedemento nos seguintes documentos, ordeados dacordo á sucesión no tempo das ideas físicas sobre o espazo e o tempo desde os antigos gregos ata os nosos días.
 
 * [Aristóteles](../documents/Tese/Aristoteles_Eng.pdf): recolle as ideas sobre espazo, tempo, velocidade e medida de masas según foron establecidos na Antigüidade, nun marco espazotemporal fixo (Sistema de Referencia absoluto)
-* [Galileo](../documents/Tese/Galileo_Eng.pdf): recolle as ideas de relatividade clásicas, segundo foron establecidas por Galileo e Newton, e as consecuencias case triviais en relación coas magnitudes físicas.
-* [Michelson](../documents/Tese/Michelson_Eng.pdf): recolle as experiencias que fixeron necesario substituir a relatividade clásica por unha nova formulación, na cal o tempo absoluto newtonián será substituído por un novo absoluto, a velocidade da luz.
-* [Lorentz](../documents/Tese/Lorentz_Eng.pdf): recolle o resultado de aplicar o concepto de velocidade absoluta xunto co de relatividade clásica, aparecendo unha nova xeometría (seudoeuclídea) para o espazotempo.
+* [Galileo](../documents/Tese/Galileo_Eng.pdf): recolle as ideas de relatividade (Sistema de Referencia relativo) segundo foron establecidas por Galileo e Newton, e as consecuencias case triviais en relación coas magnitudes físicas.
+* [Lorentz](../documents/Tese/Lorentz_Eng.pdf): recolle o resultado de aplicar o concepto de velocidade absoluta (como consecuencia de resultados experimentales obtidos, entre outros, por Michelson) xunto co de relatividade, aparecendo unha nova xeometría (seudoeuclídea) para o espazotempo.
 * [Einstein](../documents/Tese/Einstein_Eng.pdf): recolle as consecuencias da aplicación da transformación de Lorentz sobre as magnitudes físicas no espazotempo tal e como foron establecidas por Einstein e comprobadas experimentalmente dende entón.
 
