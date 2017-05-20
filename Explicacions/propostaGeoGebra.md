@@ -23,7 +23,6 @@ No plano de Minkowski (x,t): d² = x² - t²
 * Segmento
 * Raio
 * Vector
-* Cónica
 * Polígono
 
 ### Obxectos de GeoGebra diferentes en Minkowski e Euclides
@@ -31,6 +30,10 @@ No plano de Minkowski (x,t): d² = x² - t²
 * Arco de circunferencia
 * Sector circular
 * Polígono regular
+
+#### Obxectos que poden quedar igual inicialmente
+* Cónica
+* * Nunha versión definitiva, as cónicas, ainda que sexan curvas iguais, serían definidas de xeito distinto e terían elemsntos (directrices, focos) diferentes para Minkowski e para Euclides.
 
 ## Relacións
 
