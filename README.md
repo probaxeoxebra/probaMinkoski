@@ -14,7 +14,7 @@ documentación para estruturar un proxecto de Xeometría Dinámica adicado ao es
 
 ## Proposta para GeoGebra
 * [Presentación](Explicacions/propostaGeoGebra.md)
-* [Novos Elementos](Explicacions/novosElementos.md)
+* Novos Elementos [(por Tipos)](Explicacions/novosElementos.md) ou [(por Atributos)](Explicacions/novosElementos2.md): ESCOLLER!
   * [produto Cross](Explicacions/CrossProduct.md)
   
   ## [Ferramentas](https://github.com/probaxeoxebra/probaMinkoski/blob/master/documents/GeoGebra/GeoGebraTools.md)
