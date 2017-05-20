@@ -40,6 +40,9 @@ A forma xeométrica é a dun par de rectas de pendente igual a 1 e -1 que se cor
 
 ## [Comandos](../documents/GeoGebra/Commands.md)
 *  ###  stCross
-*  ###  stOrthogonal
+*  ###  stDot
+*  ###  stPerpendicularVector
+*  ###  stUnitVector
+*  ###  stUnitPerpendicularVector
 *  ###  stReflect
 *  ###  stRotate
