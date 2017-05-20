@@ -16,17 +16,14 @@ Fórmula (co centro na orixe de coordenadas): x²-t²= R² <br>
 * stCircle con con Tipo = +1: : 
    Recolle todos os puntos cunha distancia de tipo temporal respecto do centro. <br>
    A figura corresponde a unha hipérbola equilátera cunha rama superior e outra inferior.<br>
-Fórmula (co centro na orixe de coordenadas): -x²+t²= R²
+Fórmula (co centro na orixe de coordenadas): -x²+t²= R² <br>
 Para un centro distinto, a fórmula é  -(x-c<sub>1</sub>)²+(t-c<sub>0</sub>)²= R²
 * stCircle con Tipo = 0: 
- Este obxecto non ten correspondencia no plano euclídeo. 
- 
-Corresponde co lugar xeométrico dos puntos que teñen unha distancia nula respecto dun punto dado.
-
-
+ Este obxecto non ten correspondencia no plano euclídeo. <br> 
+Corresponde co lugar xeométrico dos puntos que teñen unha distancia nula respecto dun punto dado.<br>
 A forma xeométrica é a dun par de rectas de pendente igual a 1 e -1 que se cortan no centro.
 
-A fórmula xeral para un stCircle calquera, sería: (x-c<sub>1</sub>)²-(t-c<sub>0</sub>)²= Tipo·R²
+A fórmula para un stCircle xeral, sería: (x-c<sub>1</sub>)²-(t-c<sub>0</sub>)²= Tipo·R²
 
 *  ###  stComplexNumber
 Os números complexos minkowskianos, ainda que formalmente idénticos aos euclidianos [a+bh) frente a (a+bi), sendo tanto i como h unidades imaxinarias]  teñen propiedades alxebraicas diferentes, derivadas do feito de que h² = 1, mentres que i² = -1
