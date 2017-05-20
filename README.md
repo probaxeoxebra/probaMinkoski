@@ -27,14 +27,18 @@ documentación para estruturar un proxecto de Xeometría Dinámica adicado ao es
   * Álxebra
   * de Euclides a Minkowski
   * construción co kit básico de GeoGebra
+  * * [entorno de Minkowski](https://sites.google.com/site/modernphysicsgeometry/home/euclidean-vs-minkowskian-planes) provisional, construido deste xeito
   * Tests
   
     ### [Comandos](https://github.com/probaxeoxebra/probaMinkoski/blob/master/documents/GeoGebra/Commands.md)
   
   ## Xustificación
  * Interese da proposta
-   * Xeometría: Novos teoremas 
-   * Física: espazotempo (1,1): 
+   * Xeometría: [Novos teoremas](https://sites.google.com/site/handsonrelativity/spacetime-physics/geomery)
+     * [Liña de Euler alternativa](https://sites.google.com/site/modernphysicsgeometry/home/euclidean-vs-minkowskian-planes/eulerline_euclid)
+     * [Hipérbola dos 9 puntos](https://sites.google.com/site/modernphysicsgeometry/home/euclidean-vs-minkowskian-planes/eulerline_mink)
+     * [Máis exemplos de novos teoremas, con explicacións do procedemento seguido](https://sites.google.com/site/euclideanproperties/home)
+* Física: espazotempo (1,1): 
      * [Relatividade básica](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Interese/RelatividadeBasica.md)
      * [Proposta didáctica](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Interese/PropostaDidactica.md) 
 * Desenvolvemento posterior
