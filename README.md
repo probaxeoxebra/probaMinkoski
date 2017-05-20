@@ -46,5 +46,5 @@ documentación para estruturar un proxecto de Xeometría Dinámica adicado ao es
      * 3D: Euclides, GeoGebra
      * (2,1)D: Bivectores, Física no plano
    * Catro dimensións
-     * 4D: Trivectores, Dificultades de representación (proxeccións)
+     * 4D: Trivectores, Dificultades de representación ([proxeccións](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Interese/proxeccions.md))
      * (3,1)D: Física tensorial
