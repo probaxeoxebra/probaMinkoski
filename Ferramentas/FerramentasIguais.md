@@ -31,3 +31,5 @@
 30- Zoom In<br>
 31- Zoom Out<br>
 32- Show/Hide Label<br>
+* The following Tool has no euivalence in Minkowskian spacetime:
+* * Regular Polygon
