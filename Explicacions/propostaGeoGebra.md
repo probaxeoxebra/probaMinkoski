@@ -33,7 +33,7 @@ No plano de Minkowski (x,t): d² = x² - t²
 
 #### Obxectos que poden quedar igual inicialmente
 * Cónica
-  * Nunha versión definitiva, as cónicas, ainda que sexan curvas iguais, serían definidas de xeito distinto e terían elemsntos (directrices, focos) diferentes para Minkowski e para Euclides.
+  * Nunha versión definitiva, as cónicas, ainda que sexan curvas iguais, serían definidas de xeito distinto e terían elementos (directrices, focos) diferentes para Minkowski e para Euclides.
 
 ## Relacións
 
