@@ -10,8 +10,7 @@ Ao contrario do caso euclídeo, no que temos unha única posibilidade para cada 
 * stCircle con Tipo = +1: 
    Recolle todos os puntos cunha distancia de tipo espacial respecto do centro. <br>
    A figura corresponde a unha hipérbola equilátera cunha rama á dereita e outra á esquerda.<br>
-Fórmula (co centro na orixe de coordenadas): x²-t²= R²
-
+Fórmula (co centro na orixe de coordenadas): x²-t²= R² <br>
       Para un centro distinto, a fórmula é  (x-c<sub>1</sub>)²-(t-c<sub>0</sub>)²= R²
       
 * stCircle con con Tipo = +1: : 
