@@ -23,7 +23,7 @@ Para un centro distinto, a fórmula é  -(x-c<sub>1</sub>)²+(t-c<sub>0</sub>)²
    Recolle todos os puntos cunha distancia de tipo temporal ou espacial respecto do centro. <br>
    A figura corresponde coa unión das dúas hipérbolas anteriores (sCircle U tCircle)<br>
 Fórmula (co centro na orixe): -x<sup>2</sup>+t<sup>2</sup>= R<sup>2</sup>   U   -x<sup>2</sup>+t<sup>2</sup>= R<sup>2</sup><br>
-|[MinkowskiCircles](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Interese/Images/MinkowskianCircles.png"Different Types of Minkowskian Circles")
+![MinkowskianCircles](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Interese/Images/MinkowskianCircles.png "Different Types of Minkowskian Circles")
 *  ###  LightDiagonals
 Este obxecto non ten correspondencia no plano euclídeo. <br>
 Corresponde co lugar xeométrico dos puntos que teñen unha distancia nula respecto dun punto dado.<br>
