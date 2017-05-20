@@ -6,22 +6,21 @@
 * 5-  Perpendicular Bisector
 * 6-  Angle Bisector
 * 7-  Polar or Diameter Line
-* 8-  Regular Polygon
-* 9-  Circle with Center through Point
-* 10- Circle with Center and Radius
-* 11- Compass
-* 12- Circle through 3 Points
-* 13- Semicircle through 2 Points
-* 14- Circular Arc
-* 15- Circumcircular Arc
-* 16- Circular Sector
-* 17- Circumcircular Sector
-* 18- Angle
-* 19- Angle with Given Size
-* 20- Distance or Length
-* 21- Reflect About Line
-* 22- Reflect About Circle
-* 23- Rotate Around Point
+* 8-  Circle with Center through Point
+* 9- Circle with Center and Radius
+* 10- Compass
+* 11- Circle through 3 Points
+* 12- Semicircle through 2 Points
+* 13- Circular Arc
+* 14- Circumcircular Arc
+* 15- Circular Sector
+* 16- Circumcircular Sector
+* 17- Angle
+* 18- Angle with Given Size
+* 19- Distance or Length
+* 20- Reflect About Line
+* 21- Reflect About Circle
+* 22- Rotate Around Point
 
 *  The following Tools could be kept initially unchanged: 
   **   Ellipse
