@@ -24,14 +24,17 @@ Para un centro distinto, a fórmula é  -(x-c<sub>1</sub>)<sup>2</sup>+(t-c<sub>
    A figura corresponde coa unión das dúas hipérbolas anteriores (sCircle U tCircle)<br>
 Fórmula (co centro na orixe): -x<sup>2</sup>+t<sup>2</sup>= R<sup>2</sup>   U   -x<sup>2</sup>+t<sup>2</sup>= R<sup>2</sup><br>
 
-
 *  ###  LightDiagonals
 Este obxecto non ten correspondencia no plano euclídeo. <br>
 Corresponde co lugar xeométrico dos puntos que teñen unha distancia nula respecto dun punto dado.<br>
 A forma xeométrica é a dun par de rectas de pendente igual a 1 e -1 que se cortan no centro.
   
 *  ###  stRegularPolygon
+Consiste nunha serie de puntos situados sobre unha mesma hipérbola equilátera (stCircle) e situados uns de outros á mesma distancia (minkowskiana). Non comparte a propiedade de calquera polígono regular euclidiano de formar unha figura pechada, xa que sempre estará aberta cara ás asíntotas.
+
 *  ###  stComplexNumber
+Os númeroc omplexos minkowskianos, ainda que formalmente idénticos aos euclidianos [a+bh) frente a (a+bi), sendo tanto i como h unidades imaxinarias]  teñen propiedades diferentes, derivadas do feito de que h2*1, mentres que i2 * -1
+
 *  ###  stAngle
 *  ###  stCircularArc
 *  ###  stSemicircle
