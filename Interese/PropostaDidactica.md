@@ -15,3 +15,5 @@ Como ben estableceu Euclides no seu tempo, o rigor da xeometría é tal que semp
 [Didactic Proposal for High School First Course](../documents/Tese/ESERA_2009Istanbul_ArtigoTese.pdf). Trátase da presentación e validación dunha proposta didáctica para os conceptos fundamentais da teoría da relatividade (velocidade límite, dilatación temporal, contracción espacial e equivalencia entre masa e enerxía)
 
 [Relativity with Levers and Sticks](../documents/Tese/Paper_HSCIBook_July2015.pdf). Trátase dunha ampliación do proceso anterior, chegando ata o campo do electromagnetismo.
+
+Preséntanse estes sinxelos exemplos para percibir as vantaxes que engadiría poder dispoñer dunha ferramente de xeometría dinámica (GeoGebra) para dotar de animación e interactividade aos gráficos que constitúen o elemento didáctico fundamental das mesmas.
