@@ -28,9 +28,6 @@ Fórmula (co centro na orixe): -x<sup>2</sup>+t<sup>2</sup>= R<sup>2</sup>   U  
 Este obxecto non ten correspondencia no plano euclídeo. <br>
 Corresponde co lugar xeométrico dos puntos que teñen unha distancia nula respecto dun punto dado.<br>
 A forma xeométrica é a dun par de rectas de pendente igual a 1 e -1 que se cortan no centro.
-  
-*  ###  stRegularPolygon
-Consiste nunha serie de puntos situados sobre unha mesma hipérbola equilátera (stCircle) e situados uns de outros á mesma distancia (minkowskiana). Non comparte a propiedade de calquera polígono regular euclidiano de formar unha figura pechada, xa que sempre estará aberta cara ás asíntotas.
 
 *  ###  stComplexNumber
 Os números complexos minkowskianos, ainda que formalmente idénticos aos euclidianos [a+bh) frente a (a+bi), sendo tanto i como h unidades imaxinarias]  teñen propiedades alxebraicas diferentes, derivadas do feito de que h² = 1, mentres que i² = -1
