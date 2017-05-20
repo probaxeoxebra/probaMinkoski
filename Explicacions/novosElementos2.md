@@ -1,4 +1,4 @@
-# Novos Elementos - Atributos
+# Novos Elementos
 Para levar adiante a proposta será preciso crear novos elementos ou recursos de programación. <br>
 A seguinte lista irá aumentando a medida que se vaian identificando novas necesidades.
 
