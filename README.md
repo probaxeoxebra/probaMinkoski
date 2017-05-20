@@ -29,7 +29,7 @@ documentación para estruturar un proxecto de Xeometría Dinámica adicado ao es
   * construción co kit básico de GeoGebra
   * Tests
   
-    ### [Comandos]
+    ### [Comandos](https://github.com/probaxeoxebra/probaMinkoski/blob/master/documents/GeoGebra/Commands.md)
   
   ## Xustificación
  * Interese da proposta
