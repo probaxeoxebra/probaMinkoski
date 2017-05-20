@@ -27,7 +27,7 @@ documentación para estruturar un proxecto de Xeometría Dinámica adicado ao es
   * Álxebra
   * de Euclides a Minkowski
   * construción co kit básico de GeoGebra
-  * * [entorno de Minkowski](https://sites.google.com/site/modernphysicsgeometry/home/euclidean-vs-minkowskian-planes) provisional, construido deste xeito
+    * [entorno de Minkowski](https://sites.google.com/site/modernphysicsgeometry/home/euclidean-vs-minkowskian-planes) provisional, construido deste xeito
   * Tests
   
     ### [Comandos](https://github.com/probaxeoxebra/probaMinkoski/blob/master/documents/GeoGebra/Commands.md)
