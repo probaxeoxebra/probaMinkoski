@@ -12,7 +12,7 @@ Podemos definir agora a stDistance como stDistance = stType·|sqrt(|d²|)|
 * Para intervalos de tipo espacial, stDistance é positiva
 * Para intervalos de tipo temporal, stDistance é negativa
 * Para intervalos de tipo lumínico, stDistance é nula
-
+![stDistances](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Interese/Images/stDistance.png "Spatial Distance (stType = +1), Timelike Distance (stType = -1) and Lightlike Distance (stType = 0)")
 *  ###  stCircle <br>
 Substitúe á circunferencia euclidea (Circle) como lugar xeométrico dos puntos equidistantes dun centro dado.
 
