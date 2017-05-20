@@ -6,26 +6,26 @@ A seguinte lista irá aumentando a medida que se vaian identificando novas neces
 *  ###  stCircle <br>
 Substitúe á circunferencia euclidea (Circle) como lugar xeométrico dos puntos equidistantes dun centro dado.
 
-Ao contrario do caso euclídeo, no que temos unha única posibilidade para cada centro (c<sub>1</sub>,c<sub>0</sub>)  e raio (R), aparecen varios posibles obxectos, que se distinguirán entre eles polo valor dun atributo (Type) que pode ter os valores +1, -1 ou 0:
-* stCircle con Type = +1: 
+Ao contrario do caso euclídeo, no que temos unha única posibilidade para cada centro (c<sub>1</sub>,c<sub>0</sub>)  e raio (R), aparecen varios posibles obxectos, que se distinguirán entre eles polo valor dun atributo (stType) que pode ter os valores +1, -1 ou 0:
+* stCircle con stType = +1: 
    Recolle todos os puntos cunha distancia de tipo espacial respecto do centro. <br>
    A figura corresponde a unha hipérbola equilátera cunha rama á dereita e outra á esquerda.<br>
 Fórmula (co centro na orixe de coordenadas): x²-t²= R² <br>
       Para un centro distinto, a fórmula é  (x-c<sub>1</sub>)²-(t-c<sub>0</sub>)²= R²
       
-* stCircle con con Type = +1: : 
+* stCircle con con stType = +1: : 
    Recolle todos os puntos cunha distancia de tipo temporal respecto do centro. <br>
    A figura corresponde a unha hipérbola equilátera cunha rama superior e outra inferior.<br>
 Fórmula (co centro na orixe de coordenadas): -x²+t²= R² <br>
 Para un centro distinto, a fórmula é  -(x-c<sub>1</sub>)²+(t-c<sub>0</sub>)²= R²
-* stCircle con Type = 0: 
+* stCircle con stType = 0: 
  Este obxecto non ten correspondencia no plano euclídeo. <br> 
 Corresponde co lugar xeométrico dos puntos que teñen unha distancia nula respecto dun punto dado.<br>
 A forma xeométrica é a dun par de rectas de pendente igual a 1 e -1 que se cortan no centro.
 
-A fórmula para un stCircle xeral, sería: (x-c<sub>1</sub>)²-(t-c<sub>0</sub>)²= Type·R²
+A fórmula para un stCircle xeral, sería: (x-c<sub>1</sub>)²-(t-c<sub>0</sub>)²= stType·R²
 
-![stCircles_Type](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Interese/Images/stCircles_Type.png "stCircles with different Type")
+![stCircles_stType](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Interese/Images/stCircles_stType.png "stCircles with different stType")
 *  ###  stComplexNumber
 Os números complexos minkowskianos, ainda que formalmente idénticos aos euclidianos [a+bh) frente a (a+bi), sendo tanto i como h unidades imaxinarias]  teñen propiedades alxebraicas diferentes, derivadas do feito de que h² = 1, mentres que i² = -1
 
