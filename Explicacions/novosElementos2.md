@@ -24,7 +24,8 @@ Corresponde co lugar xeométrico dos puntos que teñen unha distancia nula respe
 A forma xeométrica é a dun par de rectas de pendente igual a 1 e -1 que se cortan no centro.
 
 A fórmula para un stCircle xeral, sería: (x-c<sub>1</sub>)²-(t-c<sub>0</sub>)²= Type·R²
-![stCircles_Type]()
+
+![stCircles_Type](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Interese/Images/stCircles_Type.png "stCircles with different Type")
 *  ###  stComplexNumber
 Os números complexos minkowskianos, ainda que formalmente idénticos aos euclidianos [a+bh) frente a (a+bi), sendo tanto i como h unidades imaxinarias]  teñen propiedades alxebraicas diferentes, derivadas do feito de que h² = 1, mentres que i² = -1
 
