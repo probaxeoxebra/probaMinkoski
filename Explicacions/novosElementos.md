@@ -48,7 +48,7 @@ Se cortamos unha hipérbopla equilátera (stCircle) mediante un diámetro (liña
 Un sector stCircular corresponde á superficie delimitada por dous raios e o arco de hipérbola (stCircle) que os une, en estricta coprrespondencia coa definición euclídea.
 
 *  ###  stDistance
-Dados dous puntos do espazotempo  A(xA, tA) e B(xB, tB) a distancia espazotemporal entre os mesmos defínese como stD(A,B)=(xA-xB)²-(tA-tB)². Comparativamente, a distancia euclídea entre dous puntos A(xA, yA) e B(xB, yB) defínese como d(A,B)=(xA-xB)²+(yA-yB)². A distancia euclídea é sempre positiva ou nula (e neste caso, necesariamente A e B coinciden), mentres que a stDistance pode ser positiva (separación espacial), negativa (separación temporal) ou nula (separación lumínica), e neste caso non é necesario que a e B sexan coincidentes, bastando con que haxa unha recta asintótica que os una.
+Dados dous puntos do espazotempo  A(xA, tA) e B(xB, tB) a distancia espazotemporal entre os mesmos defínese como stD(A,B)=(xA-xB)²-(tA-tB)². Comparativamente, a distancia euclídea entre dous puntos A(xA, yA) e B(xB, yB) defínese como d(A,B)=(xA-xB)²+(yA-yB)². A distancia euclídea é sempre positiva ou nula (e neste caso, necesariamente A e B coinciden), mentres que a stDistance pode ser positiva (separación espacial), negativa (separación temporal) ou nula (separación lumínica), e neste caso non é necesario que A e B sexan coincidentes, bastando con que estean sobre unha mesma recta asintótica (de pendente unitaria).
 
 ## [Comandos](../documents/GeoGebra/Commands.md)
 *  ###  stCross
