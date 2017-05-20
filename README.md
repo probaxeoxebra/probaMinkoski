@@ -29,6 +29,8 @@ documentación para estruturar un proxecto de Xeometría Dinámica adicado ao es
   * construción co kit básico de GeoGebra
   * Tests
   
+    ### [Comandos]
+  
   ## Xustificación
  * Interese da proposta
    * Xeometría: Novos teoremas 
