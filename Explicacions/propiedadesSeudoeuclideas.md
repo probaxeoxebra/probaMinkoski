@@ -26,8 +26,8 @@ Como consecuencia do cambio na métrica, aparecen unha seride de propiedades xeo
   * para Minkowski: reflexión sobre as direccións asintóticas (diagonais dos eixes)
   
 ## Ángulo
-  * para Euclides: superficie do arco de círculo delimitado polas dúas rectas coincidentes no centro.
-  * para Minkowski: superficie do arco de hipérbola delimitado polas dúas rectas coincidentes no centro.
+  * para Euclides: superficie dos arcos dun círculo (unitario) delimitados por dúas rectas coincidentes no centro.
+  * para Minkowski: superficie dos arcos dunha hipérbola (unitaria) delimitados por dúas rectas coincidentes no centro.
   
 ## Produto Vectorial  ou [Cross Product](CrossProduct.md)
 Esta é unha propiedade do espazo 3D que se pode usar no subespazo 2D para construír unha dirección perpendicular a outra dada.
