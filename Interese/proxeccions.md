@@ -18,6 +18,8 @@ Do mesmo xeito, unha liña representa unha superficie (as superficies planas pro
 A proxección presentada corresponde coa proxección conforme polar dunha superficie hiperbólica de revolución (como a da xeometría do Big Bang) sobre un plano, de xeito que se conserven os ángulos. 
 Se o consideramos como unha proxección do espazotempo (2,1)D sobre un plano, teríamos o equivalente ao "Disco de Poincaré do Big Bang" na que cada galaxia do Universo en expansión (e con ela todos os puntos situados entre ela e a Terra, é dicir, unha liña recta) está representada mediante un punto. 
 Do mesmo xeito, unha liña representa unha superficie (as superficies planas proxéctanse en curvas cónicas).
+![Proxección Conforme Polar de Minkowski](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Interese/Images/Poincare.JPG "Dereita: Hiperboloide Unitario, Esquerda: Proxección (Disco de Poincaré)")
+
 ## [Comparativa das proxeccións anteriores](https://sites.google.com/site/proxeccionconformeespazotempo/1-proxeccion-conforme/1d-p_pol-eh) 
 
 Preséntase o proceso constrututivo da proxección de determinados bivectores (planos no espazo de orixen) comparando en paralelo os casos euclídeo e seucoeuclídeo.
