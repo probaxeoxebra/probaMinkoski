@@ -57,7 +57,7 @@ Un sector stCircular corresponde á superficie delimitada por dous raios e o arc
 
 ## [Comandos](../documents/GeoGebra/Commands.md)
 *  ###  [stCross](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Explicacions/CrossProduct.md)
-*  ###  stDot
+*  ###  [stDot](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Explicacions/DotProduct.md)
 *  ###  stPerpendicularVector
 *  ###  stUnitVector
 *  ###  stUnitPerpendicularVector
