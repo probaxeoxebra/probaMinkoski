@@ -14,4 +14,7 @@ In the same way, but now in the Minkowskian (1,1)D (x,t) spacetime, a stPerpendi
 
 ### [Perpendicular Vectors (Euclid & Minkowski) with GeoGebra](https://ggbm.at/WJaDPw8D)
 
+Drag the tip of the initial (pink) vector to observe its Euclidean (in black) and Minkowsakian (in red) Perpendicular Vectors. 
+You can drag the 3D-axes to observe it from different perspectives. The blue vector is the unit orthogonal to the base plane which is used to make the Cross product with the initial vector.
+
 ![PerpendicularVectors_EuclidMinkowski](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Explicacions/Images/PerpVectEuclMink.JPG "Pink: Original Vector, Black: Euclidean Perpendicular, Red: Minkowskian Perpendicular")
