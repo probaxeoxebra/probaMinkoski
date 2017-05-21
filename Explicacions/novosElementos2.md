@@ -43,6 +43,7 @@ Os números complexos minkowskianos, ainda que formalmente idénticos aos euclid
 
 *  ###  stAngle
 Os ángulos na xeometría seudoeuclídea veñen determinados polo seu valor en radiáns hiperbólicos. Para comparar cos radiáns habituais, podemos ter en conta que, no caso euclídeo, o valor dun ángulo en radiáns corresponde ao doble da superficie do sector circular que forma coa circunferenica unitaria. Entón, no caso seudoeuclídeo, esa definición de ángulo mantense (substituíndo o sector circular polo correspondente sector hiperbólico, ou stSectorCircular).
+
 ![Angle_Eucl_Mink](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Interese/Images/Angle_Eucl_Mink.png "Left:Euclidean Angle, Right stAngle (Minkowskian. In both cases: Double of sector area (A)")
 *  ###  stCircularArc
 Un arco stCircular corresponde a un tramo de hipérbola (stCircle) comprendido entre dous puntos da mesma.
