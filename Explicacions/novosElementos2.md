@@ -23,7 +23,7 @@ Ao contrario do caso euclídeo, no que temos unha única posibilidade para cada 
 Fórmula (co centro na orixe de coordenadas): x²-t²= R² <br>
       Para un centro distinto, a fórmula é  (x-c<sub>1</sub>)²-(t-c<sub>0</sub>)²= R²
       
-* stCircle con con stType = +1: : 
+* stCircle con stType = +1: : 
    Recolle todos os puntos cunha distancia de tipo temporal respecto do centro. <br>
    A figura corresponde a unha hipérbola equilátera cunha rama superior e outra inferior.<br>
 Fórmula (co centro na orixe de coordenadas): -x²+t²= R² <br>
