@@ -51,6 +51,7 @@ Se cortamos unha hipérbola equilátera (stCircle) mediante un diámetro (liña 
 
 *  ###  stCircularSector
 Un sector stCircular corresponde á superficie delimitada por dous raios e o arco de hipérbola (stCircle) que os une, en estricta coprrespondencia coa definición euclídea.
+
 ![stCircleElements](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Interese/Images/CircleElements.png "Left: Euclidean Circle Elements, Right: Minkowskian stCircle Elements")
 
 
