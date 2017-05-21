@@ -4,7 +4,7 @@ A stPerpendicular Vector to a given stVector a is obtained by reflecting a about
 
 ![stPerpencicular](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Interese/Images/PerpendVectors_Eucl_Mink.png "Euclidean vs. Minkowskian Perpendicularity")
 
-In the Euclidean case, a Perpendicular Vector to a given Vector a = (a1,a2) in the (x,y) plane is obtained by making the Cross Product (a x e3), where e3 is the unit vector at the z axis.
+In the Euclidean case, a Perpendicular Vector to a given Vector a = (a1,a2) in the (x,y) plane is obtained by making the [Cross](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Explicacions/CrossProduct.md) Product (a x e3), where e3 is the unit vector at the z axis.
 
 ![EuclideanPerpendicular](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Interese/Images/PerpendicularVector.jpg "Algebraic formulation for the Perependicular to a given Vector")
 
