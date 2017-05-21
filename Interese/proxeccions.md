@@ -28,3 +28,5 @@ Inclúese tamén unha superposición dos distintos tipos de proxeccións para un
 
 Neste caso, consideramos tan só a proxección de bivectores, variando a inclinación (boost) dos mesmos de xeito gradual.
 Inclúese tamén a representación dunhas superficies cónicas auxiliares para realizar ditas proxeccións.
+![Boost Gradual](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Interese/Images/BoostGradual_ConosAuxs.JPG "Esquerda: Conos Auxiliares, Dereita: Proxeccións de Bivectores")
+
