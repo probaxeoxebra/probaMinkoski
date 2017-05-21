@@ -41,13 +41,13 @@ A fórmula para un stCircle xeral, sería: (x-c<sub>1</sub>)²-(t-c<sub>0</sub>)
 Os números complexos minkowskianos, ainda que formalmente idénticos aos euclidianos [a+bh) frente a (a+bi), sendo tanto i como h unidades imaxinarias]  teñen propiedades alxebraicas diferentes, derivadas do feito de que h² = 1, mentres que i² = -1
 
 *  ###  stAngle
-Os ángulos na xeometría seudoeuclídea veñn determinados polo seu valor en radiáns hiperbólicos. Para comparar cos radiáns habituais, podemos considerar que no caso euclídeo o valor dun ángulo en radiáns corresponde ao doble da superficie do sector circular que forma coa circunferenica unitaria. Entón, no caso sudoeuclídeo, esa definición de ángulo mantenser (substituíndo o sector curcular polo correspondente sector hiperbólico, ou stSectorCircular).
+Os ángulos na xeometría seudoeuclídea veñen determinados polo seu valor en radiáns hiperbólicos. Para comparar cos radiáns habituais, podemos ter en conta que, no caso euclídeo, o valor dun ángulo en radiáns corresponde ao doble da superficie do sector circular que forma coa circunferenica unitaria. Entón, no caso seudoeuclídeo, esa definición de ángulo mantense (substituíndo o sector curcular polo correspondente sector hiperbólico, ou stSectorCircular).
 
 *  ###  stCircularArc
 Un arco stCircular corresponde a un tramo de hipérbola (stCircle) comprendido entre dous puntos da mesma.
 
 *  ###  stSemicircle
-Se cortamos unha hipérbopla equilátera (stCircle) mediante un diámetro (liña recta que pasa polo centro da mesma) obtemos un par de seimihipérbolas (stSemiCircles).
+Se cortamos unha hipérbola equilátera (stCircle) mediante un diámetro (liña recta que pasa polo centro da mesma) obtemos un par de seimihipérbolas (stSemiCircles).
 
 *  ###  stCircularSector
 Un sector stCircular corresponde á superficie delimitada por dous raios e o arco de hipérbola (stCircle) que os une, en estricta coprrespondencia coa definición euclídea.
