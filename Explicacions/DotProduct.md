@@ -19,4 +19,5 @@ More specifically, the dot product serves as a way to recognise if two given vec
 * In the Euclidean case, if a and b are perpendicular vectors, then their Dot product is zero.
 
 * In the Minkowskian case, if a and b are stPerpendicular stVectors, then their stDot product is zero.
+![Perpendicularity](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Interese/Images/PerpendVectors_Eucl_Mink.png "Perpendicularity")
 
