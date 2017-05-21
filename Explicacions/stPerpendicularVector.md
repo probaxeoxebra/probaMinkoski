@@ -12,4 +12,6 @@ In the same way, but now in the Minkowskian (1,1)D (x,t) spacetime, a stPerpendi
 
 ![MinkowskianPerpendicular](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Interese/Images/stPerpendicularVector.jpg "Algebraic formulation for the stPerependicular to a given Vector")
 
-## [Perpendicular Vectors (Euclid & Minkowski) with GeoGebra](https://ggbm.at/WJaDPw8D)
+### [Perpendicular Vectors (Euclid & Minkowski) with GeoGebra](https://ggbm.at/WJaDPw8D)
+
+![PerpendicularVectors_EuclidMinkowski](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Explicacions/Images/PerpVectEuclMink.JPG "Pink: Original Vector, Black: Euclidean Perpendicular, Red: Minkowskian Perpendicular")
