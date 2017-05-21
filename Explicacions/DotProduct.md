@@ -16,7 +16,7 @@ In both cases, the dot product of two unit vectors represents the projection of 
 
 More specifically, the dot product serves as a way to recognise if two given vectors are mutually perpendicular:
 
-In the Euclidean case, if a and b are perpendicular vectors, then their Dot product is zero.
+* In the Euclidean case, if a and b are perpendicular vectors, then their Dot product is zero.
 
-In the Minkowskian case, if a and b are stPerpendicular stVectors, then their stDot product is zero.
+* In the Minkowskian case, if a and b are stPerpendicular stVectors, then their stDot product is zero.
 
