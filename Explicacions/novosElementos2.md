@@ -61,7 +61,7 @@ Un sector stCircular corresponde á superficie delimitada por dous raios e o arc
 *  ###  [stCross](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Explicacions/CrossProduct.md)
 *  ###  [stDot](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Explicacions/DotProduct.md)
 *  ###  [stPerpendicularVector](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Explicacions/stPerpendicularVector.md)
-*  ###  stUnitVector
-*  ###  stUnitPerpendicularVector
-*  ###  stReflect
-*  ###  stRotate
+*  ###  [stUnitVector](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Explicacions/stUnitVector.md)
+*  ###  [stUnitPerpendicularVector](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Explicacions/stUnitPerpendicularVector.md)
+*  ###  [stReflect](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Explicacions/stReflection.md)
+*  ###  [stRotate](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Explicacions/stRotation.md)
