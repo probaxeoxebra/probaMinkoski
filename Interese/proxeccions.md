@@ -24,6 +24,8 @@ Do mesmo xeito, unha liña representa unha superficie (as superficies planas pro
 
 Preséntase o proceso constrututivo da proxección de determinados bivectores (planos no espazo de orixen) comparando en paralelo os casos euclídeo e seucoeuclídeo.
 Inclúese tamén unha superposición dos distintos tipos de proxeccións para un mesmo bivector.
+![Proxeccións de Bivectores](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Interese/Images/Bivects_EuclMink.JPG "Esquerda: Proxección Euclídea, Dereita: Proxeccións de Minkowski")
+
 ## [Minkowski: Proxección de Bivectores](https://sites.google.com/site/proxeccionconformeespazotempo/2-bivector-inclinado/2e_biv_hip/2c_biv-incl_hip-pol) 
 
 Neste caso, consideramos tan só a proxección de bivectores, variando a inclinación (boost) dos mesmos de xeito gradual.
