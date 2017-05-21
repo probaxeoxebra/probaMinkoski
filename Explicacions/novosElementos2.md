@@ -4,7 +4,7 @@ A seguinte lista irá aumentando a medida que se vaian identificando novas neces
 
 ## [Obxectos](../documents/GeoGebra/Objects.md)
 *  ###  stDistance
-Dados dous puntos do espazotempo  A(xA, tA) e B(xB, tB) a distancia espazotemporal entre os mesmos defínese como d(A,B)²=(xA-xB)²-(tA-tB)². Comparativamente, a distancia euclídea entre dous puntos A(xA, yA) e B(xB, yB) defínese como d(A,B)²=(xA-xB)²+(yA-yB)². O cadrado d distancia euclídea é sempre positivo ou nulo (e neste caso, necesariamente A e B coinciden), mentres que o cadrado da distancia seudoeuclídea pode ser positivo (separación espacial), negativo (separación temporal) ou nulo (separación lumínica), e neste caso non é necesario que A e B sexan coincidentes, bastando con que estean sobre unha mesma recta asintótica (de pendente unitaria).
+Dados dous puntos do espazotempo  A(xA, tA) e B(xB, tB) a distancia espazotemporal entre os mesmos defínese como d(A,B)²=(xA-xB)²-(tA-tB)². Comparativamente, a distancia euclídea entre dous puntos A(xA, yA) e B(xB, yB) defínese como d(A,B)²=(xA-xB)²+(yA-yB)². O cadrado da distancia euclídea é sempre positivo ou nulo (e neste caso, necesariamente A e B coinciden), mentres que o cadrado da distancia seudoeuclídea pode ser positivo (separación espacial), negativo (separación temporal) ou nulo (separación lumínica), e neste caso non é necesario que A e B sexan coincidentes, bastando con que estean sobre unha mesma recta asintótica (de pendente unitaria).
 #### stType
 Para definir unha stDistance sen precisar de números complexos, podemos acudir ao atributo stType, que definiremos como stType = d²/|d²| cando d² non é nulo (neste caso, stType pode adoptar os valores +1 ou -1), e como stType = 0 cando d²=0.
 
