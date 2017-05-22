@@ -14,5 +14,5 @@ This last step is different for the Euclidean and Minkowskian cases, because of 
 Euclidean Modulus: |V| = |(V<sub>1</sub>,V<sub>2</sub>,V<sub>3</sub>)| = sqrt(V<sub>1</sub>² + V<sub>2</sub>² + V<sub>3</sub>² )
 
 
-Minkowskian Modulus: |V| = |(V<sub>1</sub>,V<sub>2</sub>,V<sub>0</sub>)| = sqrt[abs(V<sub>1</sub>² + V<sub>2</sub>² - V<sub>0</sub>²)*
+Minkowskian Modulus: |V| = |(V<sub>1</sub>,V<sub>2</sub>,V<sub>0</sub>)| = sqrt[abs(V<sub>1</sub>² + V<sub>2</sub>² - V<sub>0</sub>²)]
 
