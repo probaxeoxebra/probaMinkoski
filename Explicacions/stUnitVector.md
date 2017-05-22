@@ -15,4 +15,4 @@ Euclidean Modulus: |V| = |(V<sub>1</sub>,V<sub>2</sub>,V<sub>3</sub>)| = sqrt(V<
 
 Minkowskian Modulus: |V| = |(V<sub>1</sub>,V<sub>2</sub>,V<sub>0</sub>)| = sqrt[abs(V<sub>1</sub>² + V<sub>2</sub>² - V<sub>0</sub>²)]
 
-In the special case where the minkowskian modulus is zero, the unit vertor does not exist.
+In the special case where the minkowskian modulus is zero, the Unit stVector does not exist.
