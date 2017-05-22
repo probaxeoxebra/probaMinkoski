@@ -11,6 +11,8 @@ The unit vector is then obtained by dividing the vector V by its modulus |V|.
 
 This last step is different for the Euclidean and Minkowskian cases, because of the way the modulus is calculated in both cases.
 
-Euclidean Modulus: |V| = |(V1,V2,V3)| = sqrt(V1 + V2 + V3 )
+Euclidean Modulus: |V| = |(V<sub>1</sub>,V<sub>2</sub>,V<sub>3</sub>)| = sqrt(V<sub>1</sub>² + V<sub>2</sub>² + V<sub>3</sub>² )
 
-Minkowskian Modulus: |V| = |(V1,V2,V0)| = sqrt[() + () - ()]
+
+Minkowskian Modulus: |V| = |(V<sub>1</sub>,V<sub>2</sub>,V<sub>0</sub>)| = sqrt[abs(V<sub>1</sub>² + V<sub>2</sub>² - V<sub>0</sub>²)*
+
