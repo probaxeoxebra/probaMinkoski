@@ -8,7 +8,9 @@ The unit vector for this direction can then be written as  u = (cos φ , sin φ)
 
 ## Minkowskian (1,1)D plane 
 
-We can also associate an stAngle to every vector in an analogous way:  Vector:   v = (v1, v0)   →    stAngle:   φ = atanh [ (v0/v1) <sup>stType</sup>  ]
+We can also associate an stAngle to every vector in an analogous way:  
+
+Vector:   v = (v1, v0)   →    stAngle:   φ = atanh [ (v0/v1) <sup>stType</sup>  ]
 
 where  atanh is the inverse hyperbolic tangent function, and   using  v2  = v12 -v02  
 
