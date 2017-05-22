@@ -41,7 +41,7 @@ A fórmula para un stCircle xeral, sería: (x-c<sub>1</sub>)²-(t-c<sub>0</sub>)
 *  ###  stComplexNumber
 Os números complexos minkowskianos, ainda que formalmente idénticos aos euclidianos [a+bh) frente a (a+bi), sendo tanto i como h unidades imaxinarias]  teñen propiedades alxebraicas diferentes, derivadas do feito de que h² = 1, mentres que i² = -1
 
-*  ###  [stAngle](https://github.com/probaxeoxebra/probaMinkoski/blob/master/documents/stAngles.pdf)
+*  ###  [stAngle](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Explicacions/stAngles.md)  [PDF](https://github.com/probaxeoxebra/probaMinkoski/blob/master/documents/stAngles.pdf)
 Os ángulos na xeometría seudoeuclídea veñen determinados polo seu valor en radiáns hiperbólicos. Para comparar cos radiáns habituais, podemos ter en conta que, no caso euclídeo, o valor dun ángulo en radiáns corresponde ao doble da superficie do sector circular que forma coa circunferenica unitaria. Entón, no caso seudoeuclídeo, esa definición de ángulo mantense (substituíndo o sector circular polo correspondente sector hiperbólico, ou stSectorCircular).
 
 ![Angle_Eucl_Mink](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Interese/Images/Angle_Eucl_Mink.png "Left:Euclidean Angle, Right stAngle (Minkowskian. In both cases: Double of sector area (A)")
