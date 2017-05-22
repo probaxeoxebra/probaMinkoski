@@ -57,7 +57,7 @@ No plano de Minkowski (x,t): d² = x² - t²
 
 ### Particularidades do plano minkowskiano
 * Direccións nulas (asintóticas, diagonais, lumínicas)
-* Hai 3  tipos de «cicunferencias» centradas nun mesmo punto:
+* Hai 3  tipos de «circunferencias» centradas nun mesmo punto:
     - Espacial
     - Temporal
     - Lumínica
