@@ -12,9 +12,9 @@ We can also associate an stAngle to every vector in an analogous way:
 
 Vector:   v = (v1, v0)   →    stAngle:   φ = atanh [ (v0/v1) <sup>stType</sup>  ]
 
-where  atanh is the inverse hyperbolic tangent function, and   using  v2  = v12 -v02  
+where  atanh is the inverse hyperbolic tangent function, and   using  v²  = v1² -v0²  
 
- if  v2 = 0   →   stType = 0   ,  otherwise   stType = v2 / abs(v2 )
+ if  v² = 0   →   stType = 0   ,  otherwise   stType = v² / abs(v² )
  
 The resulting values for stType are: 
 * stTipe = +1 for spacelike vectors  (v1  >  v0)  
@@ -36,7 +36,7 @@ The stUnitVector in the minkowskian case can be written as
 * The Angle (in rads) is the measure of the Arc Length of a Unit Circle.
 * The Angle is also the double of the Area enclosed by a Unit Circle Sector.
 
-For example, the Angle of a whole circle is 2π, which is the length of its unit circumference, 2π·r,  and two times the area of the unit circle: A = π·r2  (r = 1)
+For example, the Angle of a whole circle is 2π, which is the length of its unit circumference, 2π·r,  and two times the area of the unit circle: A = π·r²  (r = 1)
 
 
 ## Minkowski Spacetime
@@ -47,9 +47,9 @@ For example, the Angle of a whole circle is 2π, which is the length of its unit
 
 In the figure, point P(x,t) on a Unit stCircle (left) marks a stCircular Sector (red) whose Area is A. 
 
-Rotating the figure 45º , the equation of the stCircle, in the new coordinates (r,l) , is: r·l = ½ .
+Rotating the figure 45º , the equation of the stCircle, in the new coordinates (r,l) , is: r<sup>-1</sup> = ½ .
 
-It is easy to check at the right figures that the area of both green triangles has the same value (T = r·l/2 = ¼ ). 
+It is easy to check at the right figures that the area of both green triangles has the same value (T = r<sup>-1</sup>/2 = ¼ ). 
 
 The Area A, thus, is equal to the integral of the hyperbolic curve between the values 1/√2 and r.  
 
