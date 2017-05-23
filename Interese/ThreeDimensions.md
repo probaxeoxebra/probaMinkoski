@@ -12,8 +12,14 @@ The figures present also the light cone for the (2,1)D View and the light Diagon
 
 ![GeoGebra Views](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Interese/Images/GeoGebraViews/GeoGebra%20Views.png "Comparing 2D and 3D Views for Euclid and Minkowski")
 
+The following figures are snapshots from pairs of three-dimensional GeoGebra Views (Right) and their two-dimensional counterparts (Left).
+
+First, we see the standard euclidean 2D (x,y) and 3D (x,y,z) views at the published version of GeoGebra.
 ![Euclidean Standard 2D and 3D Views](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Interese/Images/GeoGebraViews/2D-3D%20views.JPG "Lefy: 2D View, Right: 3D View")
+
+The next figures show the usual 2D (x,y) euclidean plane (it is the same as in the previous figure), and the proposed (2,1) View (x,y,t). Ther grey horizontal plane is the (x,y) plane, and the green vertical plane corresponds to the (1,1)D (x,t) Minkowskian spacetime which can be seen at the next figure (left)
 
 ![Minkowskian  2D and (2,1)D Views](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Interese/Images/GeoGebraViews/11D-21D%20view4.JPG "Left: 2D (x,y) space,  Right: (2,1)D View")
 
+The last figure shows (left) a View of the (1,1)D minkowskian spacetime plane (the one which is depicted in green at the previous figure) together with the `rp`psed three-dimensional View for the (2,1) minkowskian spacetime (it is the same as in the previous figure, but with a different perspective)
 ![Minkowskian  (1,1)D and (2,1)D Views](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Interese/Images/GeoGebraViews/11D-21D%20views.jpg "Left: (1,1)D (x,t) spacetime,  Right: (2,1)D View")
