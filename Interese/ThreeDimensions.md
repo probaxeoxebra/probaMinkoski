@@ -8,6 +8,6 @@ The Minkowskian (2,1) spacetime makes a clear distinction between spatial and te
 
 The following figure shows, at the left, the Euclidean 3D perspective and next to it the 2D View (grey plane). This same View should be also an option when dealing with the (2,1) minkowskian spacetime, (right), but we should have also the opportunity to view an alternative (simplified) (1,1)spaceplane (green plane). 
 
-The figues present also the light cone for the (2,1)D View and the light Diagonals for this (1,1)D View (both in red)
+The figures present also the light cone for the (2,1)D View and the light Diagonals for this (1,1)D View (both in red)
 
 ![GeoGebra Views](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Interese/Images/GeoGebraViews/GeoGebra%20Views.png "Comparing 2D and 3D Views for Euclid and Minkowski")
