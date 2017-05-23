@@ -6,4 +6,4 @@ Tentaremos describir as ferramentas de GeoGebra que é preciso modificar para ad
 
 Adiantaremos unhas propostas de adaptación/modificación das mencionadas ferramentas, coa intención de facilitar a realización desta tarefa no caso de que haxa persoas que a afronten.<br>
 
-Finalmente, rematamos cunha exposición das vantaxes e beneficios que poderaían derivar da mencionada implementación.
+Finalmente, rematamos cunha exposición das vantaxes e beneficios que poderían derivar da mencionada implementación.
