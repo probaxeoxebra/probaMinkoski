@@ -41,7 +41,7 @@ documentación para estruturar un proxecto de Xeometría Dinámica adicado ao es
      * [Relatividade básica](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Interese/RelatividadeBasica.md)
      * [Proposta didáctica](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Interese/PropostaDidactica.md) 
 * Desenvolvemento posterior
-   * Tres dimensións
+   * [Tres dimensións](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Interese/ThreeDimensions.md)
      * 3D: Euclides, GeoGebra
      * (2,1)D: Bivectores, Física no plano
    * Catro dimensións
