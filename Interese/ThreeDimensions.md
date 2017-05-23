@@ -11,3 +11,9 @@ The following figure shows, at the left, the Euclidean 3D perspective and next t
 The figures present also the light cone for the (2,1)D View and the light Diagonals for this (1,1)D View (both in red)
 
 ![GeoGebra Views](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Interese/Images/GeoGebraViews/GeoGebra%20Views.png "Comparing 2D and 3D Views for Euclid and Minkowski")
+
+![Euclidean Standard 2D and 3D Views](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Interese/Images/GeoGebraViews/2D-3D%20views.JPG "Lefy: 2D View, Right: 3D View")
+
+![Minkowskian  2D and (2,1)D Views](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Interese/Images/GeoGebraViews/11D-21D%20view4.JPG "Left: 2D (x,y) space,  Right: (2,1)D View")
+
+![Minkowskian  (1,1)D and (2,1)D Views](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Interese/Images/GeoGebraViews/11D-21D%20views.jpg "Left: (1,1)D (x,t) spacetime,  Right: (2,1)D View")
