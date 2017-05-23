@@ -17,9 +17,9 @@ The following figures are snapshots from pairs of three-dimensional GeoGebra Vie
 First, we see the standard euclidean 2D (x,y) and 3D (x,y,z) views at the published version of GeoGebra.
 ![Euclidean Standard 2D and 3D Views](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Interese/Images/GeoGebraViews/2D-3D%20views.JPG "Lefy: 2D View, Right: 3D View")
 
-The next figures show the usual 2D (x,y) euclidean plane (it is the same as in the previous figure), and the proposed (2,1) View (x,y,t). Ther grey horizontal plane is the (x,y) plane, and the green vertical plane corresponds to the (1,1)D (x,t) Minkowskian spacetime which can be seen at the next figure (left)
+The next figures show the usual 2D (x,y) euclidean plane (it is the same as in the previous figure), and the proposed (2,1) View (x,y,t). The grey horizontal plane is the same (x,y) plane to its left, and the green vertical plane corresponds to the (1,1)D  Minkowskian (x,t) spacetime which can be seen at the next figure (left)
 
 ![Minkowskian  2D and (2,1)D Views](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Interese/Images/GeoGebraViews/11D-21D%20view4.JPG "Left: 2D (x,y) space,  Right: (2,1)D View")
 
-The last figure shows (left) a View of the (1,1)D minkowskian spacetime plane (the one which is depicted in green at the previous figure) together with the `rp`psed three-dimensional View for the (2,1) minkowskian spacetime (it is the same as in the previous figure, but with a different perspective)
+The last figure shows (left) a View of the (1,1)D minkowskian (x,t) spacetime plane (the one which is depicted in green at the previous figure) together with the proposed three-dimensional View for the (2,1) minkowskian (x,y,t) spacetime (it is the same as in the previous figure, but with a different perspective)
 ![Minkowskian  (1,1)D and (2,1)D Views](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Interese/Images/GeoGebraViews/11D-21D%20views.jpg "Left: (1,1)D (x,t) spacetime,  Right: (2,1)D View")
