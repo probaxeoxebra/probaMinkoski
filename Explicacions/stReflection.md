@@ -14,20 +14,20 @@ Expressing the vectors as columns, the calculations are as follows:
 
 ![Euclidean Reflection about Origin](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Explicacions/Formulas/EuclidReflect_Origin.jpg "q is the vector column for the reflection of point P about a Line passing through the origin")
 
+
+![EuclideanReflection_Matrix](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Explicacions/Images/EuclReflect_Matrix.JPG "Matrix elements(columns): Blue Vector(1), Red Vector(2)")
+
 * Minkowskian stReflection:
 
 ![Minkowskian stReflection about Origin]( "q is the vector column for the stReflection of point P about a Line passing through the origin")
 
+![MimkowskianReflection_SpacelikeMatrix](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Explicacions/Images/MinkReflect_sMatrix.JPG "Matrix elements(columns): Blue Vector(1), Red Vector(2)")
+![MimkowskianReflection_TimelikeMatrix](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Explicacions/Images/MinkReflect_tMatrix.JPG "Matrix elements(columns): Blue Vector(1), Red Vector(2)")
+
 To reflect a figure, we must reflect all its generating Points.
 
 The following figures show the Reflection of a Point in the Euclidean and Minkowskian cases:
-
 ![stReflection](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Explicacions/Images/Reflection_EuclMink.png)
-
-![EuclideanReflection_Matrix](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Explicacions/Images/EuclReflect_Matrix.JPG "Matrix elements(columns): Blue Vector(1), Red Vector(2)")
-
-![MimkowskianReflection_SpacelikeMatrix](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Explicacions/Images/MinkReflect_sMatrix.JPG "Matrix elements(columns): Blue Vector(1), Red Vector(2)")
-![MimkowskianReflection_TimelikeMatrix](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Explicacions/Images/MinkReflect_tMatrix.JPG "Matrix elements(columns): Blue Vector(1), Red Vector(2)")
 
 ## Reflection about a Line passing through Points A and B
 
