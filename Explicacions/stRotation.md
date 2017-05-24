@@ -8,7 +8,7 @@ The Rotation of a Point A about the origin can be obtained by the product of a R
 
 b = Ra
 
-Expressing the vectors as columns, this expression is as follows (when the center is at the origin):
+Expressing the vectors as columns, the calculations are as follows:
 
 * Euclidean Rotation:
 
@@ -31,7 +31,7 @@ The Rotation of a Point A about a center C can be obtained by the following expr
 
 b = c + R(a-c) = (I-R)c + Ra
 
-Expressing the vectors as columns, this expression is as follows:
+Expressing the vectors as columns, the calculations are as follows:
 
 * Euclidean Rotation:
 
