@@ -18,6 +18,9 @@ Expressing the vectors as columns, this expression is as follows (when the cente
 
 ![Minkowskian stRotation about Origin](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Explicacions/Formulas/MinkRotation_Matrix.jpg "b is the vector column for the stRotation (Boost) of point A about the origin and an stAngle β")
 
+To rotate a figure, we must rotate all its generating Points.
+
+The following figures show the Rotation of a Triangle in the Euclidean and Minkowskian cases:
 
 ![stRotation](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Explicacions/Images/Rotation_EuclMink.png)
 
