@@ -35,7 +35,7 @@ Expressing the vectors as columns, this expression is as follows:
 
 * Euclidean Rotation:
 
-![Euclidean Rotation about center C](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Explicacions/Formulas/EuclidRotation_Matrix_Center.jpg "b is the vector column for the rotation of point A about the origin and an Angle φ")
+![Euclidean Rotation about center C](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Explicacions/Formulas/EuclRotation_Matrix_Center.jpg "b is the vector column for the rotation of point A about the origin and an Angle φ")
 
 * Minkowskian stRotation (Boost):
 
