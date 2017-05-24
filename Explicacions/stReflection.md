@@ -12,7 +12,7 @@ Expressing the vectors as columns, the calculations are as follows:
 
 * Euclidean Reflection:
 
-![Euclidean Reflection about Origin]( "q is the vector column for the reflection of point P about a Line passing through the origin")
+![Euclidean Reflection about Origin](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Explicacions/Formulas/EuclidReflect_Origin.jpg "q is the vector column for the reflection of point P about a Line passing through the origin")
 
 * Minkowskian stReflection:
 
@@ -35,7 +35,7 @@ Expressing the vectors as columns, the calculations are as follows:
 
 * Euclidean Reflection:
 
-![Euclidean Reflection about center C]( "q is the vector column for the reflection of point P about a Line passing through Points A and B")
+![Euclidean Reflection about center C](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Explicacions/Formulas/EuclidReflect_PointA.jpg "q is the vector column for the reflection of point P about a Line passing through Points A and B")
 
 * Minkowskian stReflection:
 
