@@ -12,6 +12,4 @@ Expressing the vectors as columns, this expression is as follows (when the cente
 
 ![Minkowskian stRotation about Origin](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Explicacions/Formulas/MinkRotation_Matrix.jpg "b is the vector column for the stRotation (Boost) of point A about the origin and an stAngle β")
 
-![Minkowskian stRotation about Origin](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Explicacions/Formulas/EMinkRotation_Matrix.jpg "b is the vector column for the stRotation (Boost) of point A about the origin and an stAngle β")
-
 ![stRotation](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Explicacions/Images/Rotation_EuclMink.png)
