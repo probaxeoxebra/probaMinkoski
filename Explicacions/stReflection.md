@@ -1,6 +1,6 @@
 # stReflection
 
-A Rotation is determined by a Line (which is built from two Points).
+A Reflection is determined by a Line (which is built from two Points).
 
 ## Reflection about Line passing through the Origin
 
@@ -12,15 +12,15 @@ Expressing the vectors as columns, the calculations are as follows:
 
 * Euclidean Reflection:
 
-![Euclidean Reflection about Origin](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Explicacions/Formulas/EuclidRotation_Matrix.jpg "b is the vector column for the rotation of point A about the origin and an Angle φ")
+![Euclidean Reflection about Origin]( "q is the vector column for the reflection of point P about a Line passing through the origin")
 
 * Minkowskian stReflection:
 
-![Minkowskian stReflection about Origin](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Explicacions/Formulas/MinkRotation_Matrix.jpg "b is the vector column for the stRotation (Boost) of point A about the origin and an stAngle β")
+![Minkowskian stReflection about Origin]( "q is the vector column for the stReflection of point P about a Line passing through the origin")
 
 To reflect a figure, we must reflect all its generating Points.
 
-The following figures show the Reflection of a Triangle in the Euclidean and Minkowskian cases:
+The following figures show the Reflection of a Point in the Euclidean and Minkowskian cases:
 
 ![stReflection](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Explicacions/Images/Reflection_EuclMink.png)
 
@@ -35,8 +35,8 @@ Expressing the vectors as columns, the calculations are as follows:
 
 * Euclidean Reflection:
 
-![Euclidean Reflection about center C](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Explicacions/Formulas/EuclRotation_Matrix_Center.jpg "b is the vector column for the rotation of point A about the origin and an Angle φ")
+![Euclidean Reflection about center C]( "q is the vector column for the reflection of point P about a Line passing through Points A and B")
 
 * Minkowskian stReflection:
 
-![Minkowskian stReflection about center C](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Explicacions/Formulas/MinkRotation_Matrix_Center.jpg "b is the vector column for the stRotation (Boost) of point A about the origin and an stAngle β")
+![Minkowskian stReflection about center C]( "q is the vector column for the stReflection of point P about a Line passing through Points A and B")
