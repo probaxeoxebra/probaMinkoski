@@ -66,4 +66,4 @@ Expressing the vectors as columns, the calculations are as follows:
 ![Minkowskian stReflection about Line through PointA_t](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Explicacions/Formulas/MinkReflect_PointA_t2.jpg "q is the vector column for the stReflection of point P about a timelike Line passing through Points A and B")
 
 #### General expression for a Minkowskian stReflection:
-![Minkowskian stReflection about Line through PointA_General](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Explicacions/Formulas/MinkReflect_PointA_General.jpg "q is the vector column for the stReflection of point P about a Reflecting Line (with stType) passing through Points A and B")
+![Minkowskian stReflection about Line through PointA_General](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Explicacions/Formulas/MinkReflection_PointA_General.jpg "q is the vector column for the stReflection of point P about a Reflecting Line (with stType) passing through Points A and B")
