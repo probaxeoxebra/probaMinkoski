@@ -53,15 +53,17 @@ Expressing the vectors as columns, the calculations are as follows:
 
 ### Euclidean Reflection:
 
-![Euclidean Reflection about center C](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Explicacions/Formulas/EuclidReflect_PointA.jpg "q is the vector column for the reflection of point P about a Line passing through Points A and B")
+![Euclidean Reflection about Line through Point A](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Explicacions/Formulas/EuclidReflect_PointA2.jpg "q is the vector column for the reflection of point P about a Line passing through Points A and B")
 
 ### Minkowskian stReflection:
 
 * About spacelike Reflecting Line (stType = +1)
   
-![Minkowskian stReflection about PointA_s](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Explicacions/Formulas/MinkReflect_PointA_s.jpg "q is the vector column for the stReflection of point P about a spacelike Line passing through Points A and B")
+![Minkowskian stReflection about Line through PointA_s](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Explicacions/Formulas/MinkReflect_PointA_s2.jpg "q is the vector column for the stReflection of point P about a spacelike Line passing through Points A and B")
 
 * About timelike Reflecting Line (stType = -1)
   
-![Minkowskian stReflection about PointA_t](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Explicacions/Formulas/MinkReflect_PointA_t.jpg "q is the vector column for the stReflection of point P about a timelike Line passing through Points A and B")
+![Minkowskian stReflection about Line through PointA_t](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Explicacions/Formulas/MinkReflect_PointA_t2.jpg "q is the vector column for the stReflection of point P about a timelike Line passing through Points A and B")
 
+#### General expression for a Minkowskian stReflection:
+![Minkowskian stReflection about Line through PointA_General](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Explicacions/Formulas/MinkReflect_PointA_General.jpg "q is the vector column for the stReflection of point P about a Reflecting Line (with stType) passing through Points A and B")
