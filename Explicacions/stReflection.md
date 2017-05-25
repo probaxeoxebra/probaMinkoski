@@ -40,9 +40,6 @@ b = (stType)Ra
 
 To reflect a figure, we must reflect all its generating Points.
 
-The following figures show the Reflection of a Point in the Euclidean and Minkowskian cases:
-![stReflection](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Explicacions/Images/Reflection_EuclMink.png)
-
 ## Reflection about a Line passing through Points A and B
 
 The Reflection of a Point P about a Line passing through Points A and B can be obtained by the following expression:
@@ -67,3 +64,11 @@ Expressing the vectors as columns, the calculations are as follows:
 
 #### General expression for a Minkowskian stReflection:
 ![Minkowskian stReflection about Line through PointA_General](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Explicacions/Formulas/MinkReflection_PointA_General.jpg "q is the vector column for the stReflection of point P about a Reflecting Line (with stType) passing through Points A and B")
+
+## Construction of Reflections using GeoGebra Tools
+To reflect a Point P about a line r, first we construct a Perpendicular Line (p) to r through P. The intersection of p and r is Point M. Reflecting A about Point M gives the Reflection about Line r.
+
+For the Minkowskian case, we just substitute the "PerpendicularLine" Tool by the stPerpendicularLine Tool and proceed in the same way.
+
+The following figures show the Reflection of a Point in the Euclidean and Minkowskian cases:
+![stReflection](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Explicacions/Images/Reflection_EuclMink.png)
