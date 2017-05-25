@@ -4,7 +4,7 @@ A Reflection is determined by a Line (which is built from two Points).
 
 ## Reflection about Line passing through the Origin
 
-The Reflection of a Point P about a Line passing through the origin and a Point B can be obtained by the product of a Reflection Matrix R by the vector (column) for the point P:
+The Reflection of a Point P about a Line passing through the origin and a Point B can be obtained as the product of a Reflection Matrix R by the vector (column) for the point P:
 
 b = Ra
 
