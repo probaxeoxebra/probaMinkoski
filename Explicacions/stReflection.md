@@ -10,19 +10,19 @@ b = Ra
 
 Expressing the vectors as columns, the calculations are as follows:
 
-* Euclidean Reflection:
+### Euclidean Reflection:
 
 ![Euclidean Reflection about Origin](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Explicacions/Formulas/EuclidReflect_Origin.jpg "q is the vector column for the reflection of point P about a Line passing through the origin")
 
 
 ![EuclideanReflection_Matrix](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Explicacions/Images/EuclReflect_Matrix.JPG "Matrix elements(columns): Blue Vector(1), Red Vector(2)")
 
-* Minkowskian stReflection:
-  * About spacelike Reflecting Line (stType = +1)
+### Minkowskian stReflection:
+* About spacelike Reflecting Line (stType = +1)
 
 ![Minkowskian stReflection about Origin_s](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Explicacions/Formulas/MinkReflect_Origin_s.jpg "q is the vector column for the stReflection of point P about a spacelike Line passing through the origin")
 
-  * About timelike Reflecting Line (stType = -1)
+* About timelike Reflecting Line (stType = -1)
   
 ![Minkowskian stReflection about Origin_t](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Explicacions/Formulas/MinkReflect_Origin_t.jpg "q is the vector column for the stReflection of point P about a timelike Line passing through the origin")
 
@@ -51,17 +51,17 @@ b = c + R(a-c) = (I-R)c + Ra
 
 Expressing the vectors as columns, the calculations are as follows:
 
-* Euclidean Reflection:
+### Euclidean Reflection:
 
 ![Euclidean Reflection about center C](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Explicacions/Formulas/EuclidReflect_PointA.jpg "q is the vector column for the reflection of point P about a Line passing through Points A and B")
 
-* Minkowskian stReflection:
+### Minkowskian stReflection:
 
-  * About spacelike Reflecting Line (stType = +1)
+* About spacelike Reflecting Line (stType = +1)
   
 ![Minkowskian stReflection about PointA_s](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Explicacions/Formulas/MinkReflect_PointA_s.jpg "q is the vector column for the stReflection of point P about a spacelike Line passing through Points A and B")
 
-  * About timelike Reflecting Line (stType = -1)
+* About timelike Reflecting Line (stType = -1)
   
 ![Minkowskian stReflection about PointA_t](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Explicacions/Formulas/MinkReflect_PointA_t.jpg "q is the vector column for the stReflection of point P about a timelike Line passing through Points A and B")
 
