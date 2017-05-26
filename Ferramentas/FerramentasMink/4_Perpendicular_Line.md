@@ -13,16 +13,16 @@ See also stPerpendicularLine command.
 
 ...............................................................
 
-Entrada e Saída
+## Entrada e Saída
 
-Comandos relacionados
+## Comandos relacionados
 
-Álxebra
+## Álxebra
 
-de Euclides a Minkowski
+## de Euclides a Minkowski
 
-construción co kit básico de GeoGebra
+## construción co kit básico de GeoGebra
 
-Programación
+## Programación
 
-Tests
+## Tests
