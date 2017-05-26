@@ -3,6 +3,8 @@
 ## 2-  [Complex Number](https://wiki.geogebra.org/en/Complex_Number_Tool)
 ## 3-  [Segment with given Length](https://wiki.geogebra.org/en/Segment_with_Given_Length_Tool)
 ## 4-  [Perpendicular Line](https://wiki.geogebra.org/en/Perpendicular_Line_Tool)
+
+aqui veñen as fórmulas alxebraicas
 ## 5-  [Perpendicular Bisector](https://wiki.geogebra.org/en/Perpendicular_Bisector_Tool)
 ## 6-  [Angle Bisector](https://wiki.geogebra.org/en/Angle_Bisector_Tool)
 ## 7-  [Polar or Diameter Line](https://wiki.geogebra.org/en/Polar_or_Diameter_Line_Tool)
