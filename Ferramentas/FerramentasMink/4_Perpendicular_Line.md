@@ -10,3 +10,19 @@ The line’s direction is equivalent to the stPerpendicular vector of the select
 This tool should have also a version applicable to (2,1)D objects: Select point and stPerpendicular line or plane.
         
 See also stPerpendicularLine command. 
+
+...............................................................
+
+Entrada e Saída
+
+Comandos relacionados
+
+Álxebra
+
+de Euclides a Minkowski
+
+construción co kit básico de GeoGebra
+
+Programación
+
+Tests
