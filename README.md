@@ -22,13 +22,13 @@ documentación para estruturar un proxecto de Xeometría Dinámica adicado ao es
   * [para adaptar (11)](Ferramentas/FerramentasAdaptadas.md)
   * [para substituir (22)](Ferramentas/IndiceFerramentasMink.md)
 * Indice temático (por ferramentas) 
-  * Entrada  e Saída
-  * Comandos relacionados
-  * Álxebra
-  * de Euclides a Minkowski
-  * construción co kit básico de GeoGebra
+  * [Entrada  e Saída](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Temas/Entrada_Saida.md)
+  * [Comandos relacionados](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Temas/ComandosRelacionados.md)
+  * [Álxebra](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Temas/Alxebra_Ferramentas.md)
+  * [de Euclides a Minkowski](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Temas/Euclides_Minkowski_Ferramentas.md)
+  * [construción co kit básico de GeoGebra](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Temas/ConstrucionKitBasicoGeoGebra_cadaFerramenta.md)
     * [entorno de Minkowski](https://sites.google.com/site/modernphysicsgeometry/home/euclidean-vs-minkowskian-planes) provisional, construido deste xeito
-  * Tests
+  * [Tests](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Temas/Tests_Ferramentas.md)
   
     ### [Comandos](https://github.com/probaxeoxebra/probaMinkoski/blob/master/documents/GeoGebra/Commands.md)
   
