@@ -1,8 +1,8 @@
 # Tools to substitute
-* 1-  Midpoint or Center
-* 2-  Complex Number
-* 3-  Segment with given Length
-* 4-  [Perpendicular Line](https://wiki.geogebra.org/en/Perpendicular_Line_Tool)
+* 1-  [Midpoint or Center](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Ferramentas/FerramentasMink/1_Midpoint_Center.md)
+* 2-  [Complex Number](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Ferramentas/FerramentasMink/2_ComplexNumber.md)
+* 3-  [Segment with given Length](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Ferramentas/FerramentasMink/3_Segment_GivenLength.md)
+* 4-  [Perpendicular Line](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Ferramentas/FerramentasMink/4_Perpendicular_Line.md)
 * 5-  Perpendicular Bisector
 * 6-  Angle Bisector
 * 7-  Polar or Diameter Line
