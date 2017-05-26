@@ -23,6 +23,7 @@ documentación para estruturar un proxecto de Xeometría Dinámica adicado ao es
   * [para substituir (22)](Ferramentas/IndiceFerramentasMink.md)
 * Indice temático (por ferramentas) 
   * Entrada  e Saída
+  * Comandos relacionados
   * Álxebra
   * de Euclides a Minkowski
   * construción co kit básico de GeoGebra
