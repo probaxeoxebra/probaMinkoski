@@ -6,7 +6,7 @@
 
 <b>In the Minkowskian (1,1)D (x,t) spacetime, a stPerpendicular</b> Line to a given Line with directing vector a = (a<sub>1</sub>,a<sub>2</sub>) through a point P (p<sub>1</sub>,p<sub>2</sub>) is obtained by making the [<b>stCross</b>](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Explicacions/CrossProduct.md) <b>Product n = (a x e<sub>2</sub>)</b>, where e<sub>2</sub> is the unit vector at the <b>stOrthogonal</b> direction to the <b>(x,t) plane</b>: the <b>y axis</b>.
 
-Tle <b>stPerpendicular</b> is the Line which passes through Point P and with direction n.
+The <b>stPerpendicular</b> is the Line which passes through Point P and with direction n.
 
 ![MinkowskianPerpendicular](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Interese/Images/stPerpendicularVector.jpg "Algebraic formulation for the stPerependicular to a given Vector")
 
