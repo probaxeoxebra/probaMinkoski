@@ -33,7 +33,7 @@ You can also use indices within the names of objects: A<sub>1</sub> is entered a
 * [Distance Command](https://wiki.geogebra.org/en/Distance%20Command)
 * [Length Command](https://wiki.geogebra.org/en/Length%20Command)
 * [PerpendicularBisector Command](https://wiki.geogebra.org/en/PerpendicularBisector%20Command)
-* [PerpendicularLine Command](https://wiki.geogebra.org/en/PerpendicularLine%20Command)
+### * [stPerpendicularLine Command](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Comandos/stPerpendicularLine_Command.md)
 * [Radius Command](https://wiki.geogebra.org/en/Radius%20Command)
 * [Sector Command](https://wiki.geogebra.org/en/Sector%20Command)
 * [TriangleCenter Command](https://wiki.geogebra.org/en/TriangleCenter%20Command)
