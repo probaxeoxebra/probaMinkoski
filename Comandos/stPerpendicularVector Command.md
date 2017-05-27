@@ -1,6 +1,6 @@
 [at GeoGebra Manual](https://wiki.geogebra.org/en/PerpendicularVector_Command)
 
-## stPerpendicularVector[ <Line> ]
+## stPerpendicularVector[ Line ]
 
  Returns the <b>stPerpendicular vector</b> of the line.
  Example:
@@ -9,14 +9,14 @@
 
 Note: A line with equation ax + bt = c has the <b>stPerpendicular vector (a, -b)</b>.
 
-## stPerpendicularVector[ <Segment> ]
+## stPerpendicularVector[ Segment ]
 
 Returns the <b>stPerpendicular vector</b> of the segment with the same <b>stLength</b>.
     Example:
     
 Let Segment[ (3, 2), (14, 5) ] be the segment k. <b>stPerpendicularVector[ k ]</b> yields the <b>stPerpendicular vector u=(3, 11)</b> of the segment k.
 
-## stPerpendicularVector[ <Vector> ]
+## stPerpendicularVector[ Vector ]
 
 Returns the <b>stPerpendicular vector</b> of the given vector.
     Example:
@@ -27,7 +27,7 @@ Note: In the Menu view cas.svg CAS View undefined variables should allowed as we
 
   Example: <b>stPerpendicularVector[(a, b)]</b> should yield the vector <b>{b, a}</b>.
 
-stPerpendicularVector[ <Plane> ]
+stPerpendicularVector[ Plane ]
 
  Creates a vector <b>stOrthogonal</b> to the plane.
     Examples:
