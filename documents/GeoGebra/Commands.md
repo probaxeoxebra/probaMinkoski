@@ -50,7 +50,7 @@ You can also use indices within the names of objects: A<sub>1</sub> is entered a
 * [Rotate](https://wiki.geogebra.org/en/Rotate_Command)
 
 ## [Vector and Matrix Commands](https://wiki.geogebra.org/en/Vector_and_Matrix_Commands) (3)
-### * [stPerpendicularVector Command](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Comandos/stPerpendicularVector%20Command.md)
+### * [stPerpendicularVector Command](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Comandos/stPerpendicularVector_Command.md)
 * [UnitPerpendicularVector Command](https://wiki.geogebra.org/en/UnitPerpendicularVector%20Command)
 * [UnitVector Command](https://wiki.geogebra.org/en/UnitVector%20Command)
 
