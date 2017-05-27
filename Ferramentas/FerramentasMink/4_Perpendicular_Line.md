@@ -5,10 +5,10 @@ Selecting a line (or a segment) and a point creates a straight line through that
     
 Notes:
 
-The line’s direction is equivalent to the <b>stPerpendicular vector</b> of the selected line or segment. (See also [<b>stPerpendicularVector command</b>](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Comandos/stPerpendicularVector_Command.md)).
+The line’s direction is equivalent to the <b>stPerpendicular vector</b> of the selected line or segment. 
+(See also [<b>stPerpendicularVector command</b>](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Comandos/stPerpendicularVector_Command.md)).
         
 This tool should have also a version applicable to <b>(2,1)D objects</b>: Select point and <b>stPerpendicular line or plane</b>.
-        
 (See also <b>[stPerpendicular Line command](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Comandos/stPerpendicularLine_Command.md)</b>).
 
 ...............................................................
