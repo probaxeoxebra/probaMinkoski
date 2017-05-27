@@ -1,15 +1,15 @@
 # 4-Perpendicular Line
 [GeoGebra manual](https://wiki.geogebra.org/en/Perpendicular_Line_Tool)
 
-Selecting a line (or a segment) and a point creates a straight line through that point stPerpendicular to the line (or segment). 
+Selecting a line (or a segment) and a point creates a straight line through that point <b>stPerpendicular</b> to the line (or segment). 
     
 Notes:
 
-The line’s direction is equivalent to the stPerpendicular vector of the selected line or segment. (See also stPerpendicularVector command).
+The line’s direction is equivalent to the <b>stPerpendicular vector</b> of the selected line or segment. (See also <b>stPerpendicularVector command</b>).
         
-This tool should have also a version applicable to (2,1)D objects: Select point and stPerpendicular line or plane.
+This tool should have also a version applicable to <b>(2,1)D objects</b>: Select point and <b>stPerpendicular line or plane</b>.
         
-See also stPerpendicularLine command. 
+See also <b>stPerpendicularLine command</b>. 
 
 ...............................................................
 
