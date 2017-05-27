@@ -24,7 +24,7 @@ In the same way, but now in the Minkowskian (1,1)D (x,t) spacetime, a <b>stPerpe
 
 ![MinkowskianPerpendicular](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Interese/Images/stPerpendicularVector.jpg "Algebraic formulation for the stPerependicular to a given Vector")
 
-### [Related Commands](../probaMinkoski/blob//master/Temas/ComandosRelacionados.md)
+### [Related Commands](https://github.com/probaxeoxebra/probaMinkoski/blob//master/Temas/ComandosRelacionados.md)
 
 <b>stPerpendicular Vector</b>,  <b>stPerpendicular Line</b>
 
