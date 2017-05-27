@@ -15,6 +15,8 @@ See also <b>stPerpendicularLine command</b>.
 
 ### [Input & Output](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Temas/Entrada_Saida.md)
 
+Selecting a line (or a segment) and a point creates a straight line through that point <b>stPerpendicular</b> to the line (or segment). 
+
 ### [Related Commands](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Temas/ComandosRelacionados.md)
 
 ### [Algebra](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Temas/Alxebra_Ferramentas.md)
