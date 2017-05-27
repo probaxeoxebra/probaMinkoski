@@ -1,8 +1,8 @@
 # Comandos relacionados con cada Ferramenta
-### 1-  [Midpoint or Center](https://wiki.geogebra.org/en/Midpoint_or_Center_Tool)
-### 2-  [Complex Number](https://wiki.geogebra.org/en/Complex_Number_Tool)
-### 3-  [Segment with given Length](https://wiki.geogebra.org/en/Segment_with_Given_Length_Tool)
-### 4-  [Perpendicular Line](https://wiki.geogebra.org/en/Perpendicular_Line_Tool)
+### 1-  [Midpoint or Center](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Ferramentas/FerramentasMink/1_Midpoint_Center.md)
+### 2-  [Complex Number](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Ferramentas/FerramentasMink/2_ComplexNumber.md)
+### 3-  [Segment with given Length](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Ferramentas/FerramentasMink/3_Segment_GivenLength.md)
+### 4-  [Perpendicular Line](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Ferramentas/FerramentasMink/4_Perpendicular_Line.md)
 
 <b>stPerpendicular Vector</b>,  <b>stPerpendicular Line</b>
 ### 5-  [Perpendicular Bisector](https://wiki.geogebra.org/en/Perpendicular_Bisector_Tool)
