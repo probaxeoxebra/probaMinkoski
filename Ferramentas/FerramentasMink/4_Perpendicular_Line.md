@@ -43,7 +43,10 @@ A <b>stPerpendicular</b> Line to a given Line a is obtained by reflecting a abou
 
 ### [building with available GeoGebra Tools](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Temas/ConstrucionKitBasicoGeoGebra_cadaFerramenta.md)
 
-[<b>GeoGebra Applet</b> for stPerpendicular Line Tool](https://sites.google.com/site/modernphysicsgeometry/geogebra_2d_sttools/4--perpendicular-line)
+* [<b>GeoGebra Applet</b> for stPerpendicular Line Tool](https://sites.google.com/site/modernphysicsgeometry/geogebra_2d_sttools/4--perpendicular-line)
+
+![Line and Point](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Ferramentas/FerramentasMink/Images/stPerpendicularLine_1.JPG "Line and Point")
+![stPerpendicular Line](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Ferramentas/FerramentasMink/Images/stPerpendicularLine_2.JPG "stPerpendicular Line (in Red)")
 
 ## [Program Code](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Temas/ProgramacionFerramentas.md)
 
