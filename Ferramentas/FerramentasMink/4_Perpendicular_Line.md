@@ -39,7 +39,7 @@ A <b>stPerpendicular</b> Line to a given Line a is obtained by reflecting a abou
 
 ![stPerpencicular](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Interese/Images/PerpendVectors_Eucl_Mink.png "Euclidean vs. Minkowskian Perpendicularity")
 
-[Euclidean and<b>Minkowskian</b> Perpendicularity](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Explicacions/stPerpendicularVector.md)
+* [Euclidean and<b>Minkowskian</b> Perpendicularity](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Explicacions/stPerpendicularVector.md)
 
 ### [building with available GeoGebra Tools](../Temas/ConstrucionKitBasicoGeoGebra_cadaFerramenta.md)
 
