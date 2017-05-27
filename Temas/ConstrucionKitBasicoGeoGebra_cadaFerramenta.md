@@ -4,7 +4,11 @@
 ### 3-  [Segment with given Length](../Ferramentas/FerramentasMink/3_Segment_GivenLength.md)
 ### 4-  [Perpendicular Line](../Ferramentas/FerramentasMink/4_Perpendicular_Line.md)
 
-aqui ven o enlace a un <b>applet de GeoGebra</b>
+* [<b>GeoGebra Applet</b> for stPerpendicular Line Tool](https://sites.google.com/site/modernphysicsgeometry/geogebra_2d_sttools/4--perpendicular-line)
+
+![Line and Point](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Ferramentas/FerramentasMink/Images/stPerpendicularLine_1.JPG "Line and Point")
+![stPerpendicular Line](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Ferramentas/FerramentasMink/Images/stPerpendicularLine_2.JPG "stPerpendicular Line (in Red)")
+
 ### 5-  [Perpendicular Bisector](https://wiki.geogebra.org/en/Perpendicular_Bisector_Tool)
 ### 6-  [Angle Bisector](https://wiki.geogebra.org/en/Angle_Bisector_Tool)
 ### 7-  [Polar or Diameter Line](https://wiki.geogebra.org/en/Polar_or_Diameter_Line_Tool)
