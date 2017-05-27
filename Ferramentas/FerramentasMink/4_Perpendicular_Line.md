@@ -13,7 +13,7 @@ See also <b>stPerpendicularLine command</b>.
 
 ...............................................................
 
-### [Input & Output](../master/Temas/Entrada_Saida.md)
+### [Input & Output](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Temas/Entrada_Saida.md)
 
 Selecting a line (or a segment) and a point creates a straight line through that point <b>stPerpendicular</b> to the line (or segment). 
 In the Euclidean case, a Perpendicular Line to a given Line with directing vector v = (v<sub>1</sub>,v<sub>2</sub>) in the (x,y) plane through a point A (a<sub>1</sub>,a<sub>2</sub>) is obtained by making the [Cross](../Explicacions/CrossProduct.md) Product w =(v x e3), where e<sub>3</sub> is the unit vector at the orthogonal direction to the (x,y) plane: the z axis. Tle Perpendicular is the Line which passes through Point A and with direction w.
@@ -22,9 +22,9 @@ In the Euclidean case, a Perpendicular Line to a given Line with directing vecto
 
 In the same way, but now in the Minkowskian (1,1)D (x,t) spacetime, a <b>stPerpendicular</b> Line to a given Line with directing vector v = (v<sub>1</sub>,v<sub>2</sub>) in the (x,y) plane through a point A (a<sub>1</sub>,a<sub>2</sub>) is obtained by making the [stCross](../Explicacions/CrossProduct.md) Product w = (v x e<sub>2</sub>), where e<sub>2</sub> is the unit vector at the orthogonal direction to the (x,t) plane: the y axis.
 
-![MinkowskianPerpendicular](../Interese/Images/stPerpendicularVector.jpg "Algebraic formulation for the stPerependicular to a given Vector")
+![MinkowskianPerpendicular](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Interese/Images/stPerpendicularVector.jpg "Algebraic formulation for the stPerependicular to a given Vector")
 
-### [Related Commands](../Temas/ComandosRelacionados.md)
+### [Related Commands](../master/Temas/ComandosRelacionados.md)
 
 <b>stPerpendicular Vector</b>,  <b>stPerpendicular Line</b>
 
