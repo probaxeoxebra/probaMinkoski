@@ -1,8 +1,8 @@
 # Alxebra para cada Ferramenta
-### 1-  [Midpoint or Center](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Ferramentas/FerramentasMink/1_Midpoint_Center.md)
-### 2-  [Complex Number](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Ferramentas/FerramentasMink/2_ComplexNumber.md)
-### 3-  [Segment with given Length](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Ferramentas/FerramentasMink/3_Segment_GivenLength.md)
-### 4-  [Perpendicular Line](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Ferramentas/FerramentasMink/4_Perpendicular_Line.md)
+### 1-  [Midpoint or Center](../Ferramentas/FerramentasMink/1_Midpoint_Center.md)
+### 2-  [Complex Number](../Ferramentas/FerramentasMink/2_ComplexNumber.md)
+### 3-  [Segment with given Length](../Ferramentas/FerramentasMink/3_Segment_GivenLength.md)
+### 4-  [Perpendicular Line](../Ferramentas/FerramentasMink/4_Perpendicular_Line.md)
 
 aqui veñen as <b>fórmulas alxebraicas</b>
 ### 5-  [Perpendicular Bisector](https://wiki.geogebra.org/en/Perpendicular_Bisector_Tool)
