@@ -10,7 +10,7 @@ Note: For (2,1)D objects a third argument is added to this command to specify th
 # stPerpendicularLine[ Point, Segment ]
 Creates a line through the point <b>stPerpendicular</b> to the given segment.
     Example:
-Let c be the segment between the two points A = (-3, 3) and B = (0, 1). <b>stPerpendicularLine[ A, c ]</b> yields the line d: -3x + 2y = 15.
+Let c be the segment between the two points A = (-3, 3) and B = (0, 1). <b>stPerpendicularLine[ A, c ]</b> yields the line d: <b>3x + 2y = - 3</b>.
 
 # stPerpendicularLine[ Point, Vector ]
 Creates a line through the point <b>stPerpendicular</b> to the given vector.
