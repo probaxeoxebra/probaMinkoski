@@ -6,7 +6,7 @@ Creates a line through the point <b>stPerpendicular</b> to the given line.
     Example:
 Let c: -3x + 4y = -6 be a line and A = (-2, -3) a point. <b>stPerpendicularLine[ A, c ]</b> yields the line d: <b>4x - 3y = 1</b>.
 
-Note: For (2,1)D objects a third argument is added to this command to specify the behavior: if 2D view is active, plane z=0 is used as third argument, if 3D view is active, space is used instead. See PerpendicularLine[ <Point>, <Line>, <Context> ] further below for details.
+Note: For (2,1)D objects a third argument is added to this command to specify the behavior: if 2D view is active, plane z=0 is used as third argument, if 3D view is active, space is used instead. See PerpendicularLine[ Point, Line, Context ] further below for details.
 # stPerpendicularLine[ Point, Segment ]
 Creates a line through the point <b>stPerpendicular</b> to the given segment.
     Example:
