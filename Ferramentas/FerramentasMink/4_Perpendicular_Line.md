@@ -9,7 +9,7 @@ The line’s direction is equivalent to the <b>stPerpendicular vector</b> of the
         
 This tool should have also a version applicable to <b>(2,1)D objects</b>: Select point and <b>stPerpendicular line or plane</b>.
         
-See also <b>stPerpendicularLine command</b>. 
+<b>[stPerpendicular Line command](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Comandos/stPerpendicularLine_Command.md)</b>.
 
 ...............................................................
 
