@@ -1,8 +1,8 @@
 # Entrada e Saída de cada ferramenta
 ### 1-  [Midpoint or Center](../Ferramentas/FerramentasMink/1_Midpoint_Center.md)
-### 2-  [Complex Number](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Ferramentas/FerramentasMink/2_ComplexNumber.md)
-### 3-  [Segment with given Length](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Ferramentas/FerramentasMink/3_Segment_GivenLength.md)
-### 4-  [Perpendicular Line](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Ferramentas/FerramentasMink/4_Perpendicular_Line.md)
+### 2-  [Complex Number](../Ferramentas/FerramentasMink/2_ComplexNumber.md)
+### 3-  [Segment with given Length](../Ferramentas/FerramentasMink/3_Segment_GivenLength.md)
+### 4-  [Perpendicular Line](../Ferramentas/FerramentasMink/4_Perpendicular_Line.md)
 
 Selecting a line (or a segment) and a point creates a straight line through that point <b>stPerpendicular</b> to the line (or segment). 
 ### 5-  [Perpendicular Bisector](https://wiki.geogebra.org/en/Perpendicular_Bisector_Tool)
