@@ -27,7 +27,7 @@ Note: In the Menu view cas.svg CAS View undefined variables should allowed as we
 
   Example: <b>stPerpendicularVector[(a, b)]</b> should yield the vector <b>{b, a}</b>.
 
-stPerpendicularVector[ Plane ]
+## stPerpendicularVector[ Plane ]
 
  Creates a vector <b>stOrthogonal</b> to the plane.
     Examples:
