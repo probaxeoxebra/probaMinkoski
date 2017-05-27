@@ -19,6 +19,10 @@ Selecting a line (or a segment) and a point creates a straight line through that
 
 ### [Related Commands](../Temas/ComandosRelacionados.md)
 
+A <b>stPerpendicular</b> Line to a given Line a is obtained by reflecting a about an asymptpotic line ( a line passing through the base of a and with unitary slope.
+
+![stPerpencicular](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Interese/Images/PerpendVectors_Eucl_Mink.png "Euclidean vs. Minkowskian Perpendicularity")
+
 <b>stPerpendicular Vector</b>,  <b>stPerpendicular Line</b>
 
 ### [Algebra](../Temas/Alxebra_Ferramentas.md)
