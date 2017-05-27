@@ -5,7 +5,7 @@ Using commands you can produce new and modify existing objects.
 Notes: Press the Enter key after every input to create the corresponding object. A command's result may be named by entering a label followed by an equal sign (=). In the example below, the new point is named S.
 
 Example: To get the intersection point of two lines g and h you can enter S = Intersect[g, h] (see Intersect Command).
-You can also use indices within the names of objects: A1 is entered as A_1 while SAB is created using S_{AB}. This is part of LaTeX syntax.
+You can also use indices within the names of objects: A<sub>1</sub> is entered as A_1 while S<sub>AB</sub> is created using S_{AB}. This is part of LaTeX syntax.
 
 # The following Commands should be changed for the Minkowskian metric:
 
