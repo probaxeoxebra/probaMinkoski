@@ -15,8 +15,9 @@ Let c be the segment between the two points A = (-3, 3) and B = (0, 1). <b>stPer
 # stPerpendicularLine[ Point, Vector ]
 Creates a line through the point <b>stPerpendicular</b> to the given vector.
     Example:
-Let u = Vector[ (5, 3), (1, 1) ] and A = (-2, 0) a point. <b>stPerpendicularLine[ A, u ]</b> yields the line c: 2x + y = -4.
+Let u = Vector[ (5, 3), (1, 1) ] and A = (-2, 0) a point. <b>stPerpendicularLine[ A, u ]</b> yields the line c: <b>2x - y = -4</b>.
 
+<i>comparison: the (euclidean) Perpendicular Line in this same situation yielded 2x + y = -4 .</i>
 
 # stPerpendicularLine[ Point, Plane ]
 
