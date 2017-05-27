@@ -13,18 +13,30 @@ See also <b>stPerpendicularLine command</b>.
 
 ...............................................................
 
-### [Input & Output](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Temas/Entrada_Saida.md)
+### [Input & Output](../Temas/Entrada_Saida.md)
 
 Selecting a line (or a segment) and a point creates a straight line through that point <b>stPerpendicular</b> to the line (or segment). 
 
-### [Related Commands](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Temas/ComandosRelacionados.md)
+### [Related Commands](../Temas/ComandosRelacionados.md)
 
-### [Algebra](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Temas/Alxebra_Ferramentas.md)
+<b>stPerpendicular Vector</b>,  <b>stPerpendicular Line</b>
 
-### [from Euclid to Minkowski](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Temas/Euclides_Minkowski_Ferramentas.md)
+### [Algebra](../Temas/Alxebra_Ferramentas.md)
 
-### [building with available GeoGebra Tools](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Temas/ConstrucionKitBasicoGeoGebra_cadaFerramenta.md)
+aqui veñen as <b>fórmulas alxebraicas</b>
 
-## [Program Code](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Temas/ProgramacionFerramentas.md)
+### [from Euclid to Minkowski](../Temas/Euclides_Minkowski_Ferramentas.md)
 
-## [Tests](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Temas/Tests_Ferramentas.md)
+[Perpendicularidade de Euclides e de <b>Minkowski</b>](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Explicacions/stPerpendicularVector.md)
+
+### [building with available GeoGebra Tools](../Temas/ConstrucionKitBasicoGeoGebra_cadaFerramenta.md)
+
+aqui ven o enlace a un <b>applet de GeoGebra</b>
+
+## [Program Code](../Temas/ProgramacionFerramentas.md)
+
+aqui viría o <b>código</b>
+
+## [Tests](../Temas/Tests_Ferramentas.md)
+
+aqui veñen os <b>exemplos</b> cos <b>resultados</b> agardados
