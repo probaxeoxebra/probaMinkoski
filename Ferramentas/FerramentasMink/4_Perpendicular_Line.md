@@ -19,7 +19,7 @@ Selecting a line (or a segment) and a point creates a straight line through that
 
 ### [Related Commands](https://github.com/probaxeoxebra/probaMinkoski/blob//master/Temas/ComandosRelacionados.md)
 
-<b>stPerpendicular Vector</b>,  <b>stPerpendicular Line</b>
+<b>[stPerpendicular Vector](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Comandos/stPerpendicularVector_Command.md)</b>,  <b>stPerpendicular Line</b>
 
 ### [Algebra](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Temas/Alxebra_Ferramentas.md)
 
