@@ -4,7 +4,12 @@
 ### 3-  [Segment with given Length](../Ferramentas/FerramentasMink/3_Segment_GivenLength.md)
 ### 4-  [Perpendicular Line](../Ferramentas/FerramentasMink/4_Perpendicular_Line.md)
 
-aqui veñen as <b>fórmulas alxebraicas</b>
+<b>In the Minkowskian (1,1)D (x,t) spacetime, a stPerpendicular</b> Line to a given Line with directing vector a = (a<sub>1</sub>,a<sub>2</sub>) through a point P (p<sub>1</sub>,p<sub>2</sub>) is obtained by making the [<b>stCross</b>](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Explicacions/CrossProduct.md) <b>Product n = (a x e<sub>2</sub>)</b>, where e<sub>2</sub> is the unit vector at the <b>stOrthogonal</b> direction to the <b>(x,t) plane</b>: the <b>y axis</b>.
+
+Tle <b>stPerpendicular</b> is the Line which passes through Point P and with direction n.
+
+![MinkowskianPerpendicular](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Interese/Images/stPerpendicularVector.jpg "Algebraic formulation for the stPerependicular to a given Vector")
+
 ### 5-  [Perpendicular Bisector](https://wiki.geogebra.org/en/Perpendicular_Bisector_Tool)
 ### 6-  [Angle Bisector](https://wiki.geogebra.org/en/Angle_Bisector_Tool)
 ### 7-  [Polar or Diameter Line](https://wiki.geogebra.org/en/Polar_or_Diameter_Line_Tool)
