@@ -1,4 +1,4 @@
-# Cross Product (Euclid & Minkowski)
+# Cross Product (Euclid vs. Minkowski)
 
 ## Cross Product in the Euclidean Space:
 ![Euclidean Cross Product axb](../FORMULAS/detCrossEucl.jpg "Euclidean determinant axb")
