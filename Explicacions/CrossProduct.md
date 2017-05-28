@@ -23,6 +23,8 @@ Black: Euclidean Cross Product, Red: Minkowskian Cross Product (reflection about
 ### [GeoGebra Cross Command](https://wiki.geogebra.org/en/Cross_Command)
 ### See also: [proposed stCross Command](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Comandos/stCross_Command.md)
 
+[Algebraic Calculations (PDF)](../FORMULAS/Cross_EuclMink.pdf)
+
 ![Por favor usa LibreOffice](../IMAGES/usa-libre-office.jpg)
 
 A continuación un documento feito con MS Office 2010.
