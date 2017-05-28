@@ -7,6 +7,8 @@ a x b    = (a1e1 +a2e2+a3e3 ) x  (b1e1 + b2e2 + b3e3 ) =
 Formula: 
 
 \overrightarrow{a} \times  \overrightarrow{b} =\begin{bmatrix}e_{1}&e_{2}&e_{3}\\a_{1}&a_{2}&a_{3}\\b_{1}&b_{2}&b_{3}\end{bmatrix}
+
+![det_Cross](https://github.com/probaxeoxebra/probaMinkoski/blob/master/FORMULAS/detCrossEucl.jpg)
  
 ………………………………………. 
 
@@ -24,3 +26,5 @@ a x b    =  ( a1e1 +a2e2 +a0e0 )  x  (b1e1 + b2e2 +  b0e0  )  =
 Formula:
 
 \overrightarrow{a} \times  \overrightarrow{b} =\begin{bmatrix}e_{1}&e_{2}&-e_{0}\\a_{1}&a_{2}&a_{0}\\b_{1}&b_{2}&b_{0}\end{bmatrix}
+
+![det_stCross](https://github.com/probaxeoxebra/probaMinkoski/blob/master/FORMULAS/detCrossMink.jpg)
