@@ -51,3 +51,16 @@ stPerp (a) = stPerp (\big(a_1, 0 , a_0\big)) =a \times e_2 = \big(a_1, 0 , a_0\b
 Está de acordo coa “inversión temporal”, mais non co simple “intercambio de eixes” para a perpendicularidade.
  
 TEREI QUE MODIFICAR AS FIGURAS DE GEOGEBRA PARA INVERTIR AS DIREECCIÓNS ESPACIAIS EN LUGAR DA TEMPORAL!
+
+NON, SE INVIRTO A ORDE DO PRODUTO ….
+ 
+stPerp (a) = stPerp (\big(a_1, 0 , a_0\big)) = e_2 \times a= \big(0, 1 , 0\big)  \times\big(a_1, 0 , a_0\big) = 
+ 
+=  det \begin{bmatrix} e_1 &  e_2 & - e_0 \\0 & 1 & 0 \\ a_1 & 0 & a_0 \end{bmatrix} = a_0·e_1 + a_1·e_0   =  \big(a_0, 0 , a_1 \big) 
+
+![Parte1](https://github.com/probaxeoxebra/probaMinkoski/blob/master/FORMULAS/stPerp_Calculation_1.jpg)
+
+
+![Parte2](https://github.com/probaxeoxebra/probaMinkoski/blob/master/FORMULAS/stPerp_Calculation_2.jpg)
+
+
