@@ -5,7 +5,7 @@ Working with spacetime diagrams has the added advantage that we can always add a
 This is possible because one of the dimensions is time, and animating a figure, in this case, 
 is simply to displace a spatial projection of the spacetime diagram towards the positive direction of time.
 
-As we have seen, the position of the directions in the combined three-dimensional and two-dimensional GeoGebra Views
+[As we have seen](../Interese/ThreeDimensions.md), the position of the directions in the combined three-dimensional and two-dimensional GeoGebra Views
 means that the animation of aspatial figure should be regarded as if the screen advances towards our direction. 
 In this case, the spatial plane in the three-dimensional view shoud advance upwards.
 
