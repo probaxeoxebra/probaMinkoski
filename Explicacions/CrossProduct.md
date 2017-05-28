@@ -12,7 +12,7 @@ a x b	= (a<sub>1</sub>e<sub>1</sub> +a<sub>2</sub>e<sub>2</sub>+a<sub>3</sub>e<s
 
 a x b	=  ( a<sub>1</sub>e<sub>1</sub> +a<sub>2</sub>e<sub>2</sub> +a<sub>0</sub>e<sub>0</sub> )  x  (b<sub>1</sub>e<sub>1</sub> + b<sub>2</sub>e<sub>2</sub> +  b<sub>0</sub>e<sub>0</sub>  )  =    
 
-=	( a<sub>1</sub>b<sub>2</sub> -  a<sub>2</sub>b<sub>1</sub> ) e<sub>0</sub>   + ( a<sub>0</sub>b<sub>1</sub> -  a<sub>1</sub>b<sub>0</sub> )(-e<sub>2</sub>) +  ( a<sub>2</sub>b<sub>0</sub>  - a<sub>0</sub>b<sub>2</sub> ) (- e<sub>1</sub>)  
+=	( a<sub>1</sub>b<sub>2</sub> -  a<sub>2</sub>b<sub>1</sub> ) (<b> - e<sub>0</sub></b>)   + ( a<sub>0</sub>b<sub>1</sub> -  a<sub>1</sub>b<sub>0</sub> ) e<sub>2</sub> +  ( a<sub>2</sub>b<sub>0</sub>  - a<sub>0</sub>b<sub>2</sub> )  e<sub>1</sub>  
 
 ![Straight Cross](../IMAGES/StraightCross_EuclMink.JPG "Straight Cross: Minkowsli opposite to Euclid")
 ![General Cross](../IMAGES/GeneralCross_EuclMink.JPG "General Cross: Minkowsli & Euclid reflect about the spatial plane")
