@@ -10,14 +10,6 @@ Yields a <b>stCircle</b> with given center and radius equal to the <b>stLength</
     Yields a <b>stCircle</b> with given center through a given point.
 * <b>stCircle[ Point, Point, Point ]</b>
     Yields a <b>stCircle</b> through the three given points (if they do not lie on the same line).
-
-Note: See also 
-* Mode <b>stCompasses.svg stCompass</b>, 
-* Mode <b>stCircle2.svg stCircle</b> with Center through Point, 
-* Mode <b>stCirclepointradius.svg stCircle</b> with Center and Radius, and 
-* Mode <b>stCircle3.svg stCircle</b> through 3 Points tools.
-
-
 * <b>stCircle[ Line, Point ]</b>
     Creates a <b>stCircle</b> with line as axis and through the point. 
 * <b>stCircle[ Point, Radius, Direction ]</b>
