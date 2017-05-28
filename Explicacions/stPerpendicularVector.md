@@ -8,9 +8,11 @@ In the Euclidean case, a Perpendicular Vector to a given Vector a = (a<sub>1</su
 
 ![EuclideanPerpendicular](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Interese/Images/PerpendicularVector.jpg "Algebraic formulation for the Perependicular to a given Vector")
 
-In the same way, but now in the Minkowskian (1,1)D (x,t) spacetime, a stPerpendicular stVector to a given stVector a = (a<sub>1</sub>, a<sub>0</sub>) is obtained by making the [stCross](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Explicacions/CrossProduct.md) Product (a x e<sub>2</sub>), where e<sub>2</sub> is the unit vector at the orthogonal direction to the (x,t) plane: the y axis.
+In a similar way, but now in the Minkowskian (1,1)D (x,t) spacetime, a stPerpendicular stVector to a given stVector a = (a<sub>1</sub>, a<sub>0</sub>) is obtained by making the [stCross](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Explicacions/CrossProduct.md) Product (e<sub>2</sub>  x  a), where e<sub>2</sub> is the unit vector at the orthogonal direction to the (x,t) plane: the y axis.
 
-![MinkowskianPerpendicular](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Interese/Images/stPerpendicularVector.jpg "Algebraic formulation for the stPerependicular to a given Vector")
+![MinkowskianPerpendicular_1](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Interese/Images/stPerp_Calculation_1.jpg "Algebraic formulation for the stPerependicular to a given Vector")
+
+![MinkowskianPerpendicular_2](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Interese/Images/stPerp_Calculation_2.jpg "Algebraic formulation for the stPerependicular to a given Vector")
 
 ### [Perpendicular Vectors (Euclid & Minkowski) with GeoGebra](https://ggbm.at/WJaDPw8D)
 
