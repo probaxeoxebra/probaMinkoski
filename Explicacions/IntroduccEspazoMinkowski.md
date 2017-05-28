@@ -19,3 +19,17 @@ Obtemos deste xeito un plano (x,t) coa métrica do espazotempo de Minkowski orix
 
 Esta é a estrurura alxebraica sobre o que se sustentaría o entorno de xeometría dinámica que presentamos nesta proposta para Geogebra.
 ![(2,2D e (2,1)D](https://github.com/probaxeoxebra/probaMinkoski/blob/master/IMAGES/11D-21D%20views.jpg "espazotempo esquerda: (1,1)D e dereita: (2,1)D ")
+
+NOTAS:
+O paso das formulacións alxegraicas dende o espazo eucídeo ao espazotempo de Minkowski pódese facer de varios xeitos,
+estando as diferencias baseadas na elección da coordenadas con signatura negativa e na orde na que se colocan os índices e se definen os produtos vectoriais (Cross e Perpendicular).
+
+Nesta proposta, seguimos os seguintes convenios:
+
+* A coordanada de signatura negativa é a TEMPORAL (deste xeito, mantéñense as coordenadas espaciais inalteradas)
+* Para usar a definición do produto stCross como a x b = -I (a ^b), 
+definimos I = e<sub>1</sub> e<sub>0</sub> e<sub>2</sub>  
+(deste xeito, conseguimos que a relación entre o Cross euclideo e o stCross de Minkowski sexa unha inversión da coordenada temporal, o cal é máis visual (sobre todo, para tres dimensions) que invertir todas as coordenadas espacias.
+* Para establecer o vector stPerpendicular a un stVector v no plano (x,t), 
+usamos stPerp[v]= stCross (e_2 , v). Deste xeito, 
+conseguimos que dous vectores perpendiculares simplemente intercambien as coordenadas espacial e temporal.
