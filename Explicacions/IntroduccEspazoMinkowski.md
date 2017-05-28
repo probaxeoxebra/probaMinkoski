@@ -32,7 +32,7 @@ Nesta proposta, seguimos os seguintes convenios:
 
 * A coordanada de signatura negativa é a TEMPORAL (  d² = x² - t²). 
 Deste xeito, mantéñense as coordenadas espaciais inalteradas)
-* Para usar a definición do produto stCross como a x b = -I (a ^b), 
+* Para usar a definición do produto stCross como a x b = -I (a ^ b), que é formalmente idéntica á definición de produto vectorial na [Álxebra Xeométrica](https://es.wikipedia.org/wiki/%C3%81lgebra_geom%C3%A9trica), 
 definimos 
 
 I = e<sub>1</sub> e<sub>0</sub> e<sub>2</sub>  
