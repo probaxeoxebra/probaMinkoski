@@ -21,6 +21,7 @@ a x b	=  ( a<sub>1</sub>e<sub>1</sub> +a<sub>2</sub>e<sub>2</sub> +a<sub>0</sub>
 Black: Euclidean Cross Product, Red: Minkowskian Cross Product (reflection about the horizontal spatial plane)
 
 ### [GeoGebra Cross Command](https://wiki.geogebra.org/en/Cross_Command)
+### See also: [proposed stCross Command](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Comandos/stCross_Command.md)
 
 ![Por favor usa LibreOffice](../IMAGES/usa-libre-office.jpg)
 
