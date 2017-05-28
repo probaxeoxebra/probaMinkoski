@@ -18,7 +18,7 @@ Yields a <b>stCircle</b> with given center and radius equal to the <b>stLength</
    Creates a stCircle with center, radius, and axis parallel to direction, which can be a line, vector or plane.      
  Example:
     
-* <b>stCircle[ Point, Radius, Plane ]</b> yields a stCircle parallel to the plane and with stPerpendicular vector of the plane as axis.
+* <b>stCircle[ Point, Radius, Plane ]</b> yields a stCircle parallel to the plane and with <b>stPerpendicular</b> vector of the plane as axis.
 
 ### <b>stCircle[ Point, Point, Direction ]</b>
    Creates a <b>stCircle</b> with center, through a point, and axis parallel to direction.
