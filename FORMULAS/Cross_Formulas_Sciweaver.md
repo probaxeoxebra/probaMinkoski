@@ -28,3 +28,26 @@ Formula:
 \overrightarrow{a} \times  \overrightarrow{b} =\begin{bmatrix}e_{1}&e_{2}&-e_{0}\\a_{1}&a_{2}&a_{0}\\b_{1}&b_{2}&b_{0}\end{bmatrix}
 
 ![det_stCross](https://github.com/probaxeoxebra/probaMinkoski/blob/master/FORMULAS/detCrossMink.jpg)
+
+........................
+
+Perpendicular Vector
+ 
+Perp (a) = Perp (\big(a_1, a_2 , 0\big)) =a \times e_3 = \big(a_1, a_2 , 0\big)  \times\big(0, 0 , 1\big) =   det \begin{bmatrix}e_1 & e_2 & e_3 \\ a_1 & a_2 & 0 \\ 0 & 0 & 1 \end{bmatrix} = a_2·e_1- a_1·e_2   =  \big(a_2,-a_1 , 0\big)  
+ 
+http://www.sciweavers.org/download/Tex2Img_1495381048.jpg
+ 
+ 
+stPerpendicular stVector
+ 
+stPerp (a) = stPerp (\big(a_1, 0 , a_0\big)) =a \times e_2 = \big(a_1, 0 , a_0\big)  \times\big(0, 1 , 0\big) =   det \begin{bmatrix}-e_1 & -e_2 & e_0 \\ a_1 & 0 & a_0 \\ 0 & 1 & 0 \end{bmatrix} = a_0·e_1 + a_1·e_0   =  \big(a_0, 0 , a_1 \big) 
+ 
+http://www.sciweavers.org/download/Tex2Img_1495382003.jpg 
+ 
+Alternativa:
+ 
+stPerp (a) = stPerp (\big(a_1, 0 , a_0\big)) =a \times e_2 = \big(a_1, 0 , a_0\big)  \times\big(0, 1 , 0\big) =   det \begin{bmatrix} e_1 &  e_2 & - e_0 \\ a_1 & 0 & a_0 \\ 0 & 1 & 0 \end{bmatrix} = - a_0·e_1 -  a_1·e_0   =  \big(- a_0, 0 , - a_1 \big) 
+ 
+Está de acordo coa “inversión temporal”, mais non co simple “intercambio de eixes” para a perpendicularidade.
+ 
+TEREI QUE MODIFICAR AS FIGURAS DE GEOGEBRA PARA INVERTIR AS DIREECCIÓNS ESPACIAIS EN LUGAR DA TEMPORAL!
