@@ -14,7 +14,7 @@ The figures present also the light cone for the (2,1)D View and the light Diagon
 
 When working on a three-dimensional enviroenment for spacetime, the Euclidean 2D View should be regarded as if time increases from the computer screen towards us. We can alternatively consider that we are looking towards the past. 
 
-This is specially interesting when considering the possibility of adding [Animations}(../Interese/AnimatedViews.md) to these diagrams.
+This is specially interesting when considering the possibility of adding <b>[Animations](../Interese/AnimatedViews.md)</b> to these diagrams.
 
 The following figures are snapshots from pairs of three-dimensional GeoGebra Views (Right) and their two-dimensional counterparts (Left).
 
