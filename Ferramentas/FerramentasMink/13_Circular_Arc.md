@@ -1,5 +1,5 @@
 # 13- Circular Arc
-[GeoGebra Manual](https://wiki.geogebra.org/en/Semicircle_through_2_Points_Tool)
+[GeoGebra Manual](https://wiki.geogebra.org/en/Circular_Arc_Tool)
 
 
 ...............................................................
