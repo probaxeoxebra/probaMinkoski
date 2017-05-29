@@ -2,12 +2,12 @@
 
 [<b>Circle Command</b> at GeoGebra Manual](https://wiki.geogebra.org/en/Circle_Command)
 
-<i> Note: an stCircle has the shape of a (space) Hyperbola which is equilateral and whose axes are parallel to the coordinate axes</i>
+<i> Note: an <b>stCircle</b> has the shape of a (space) Hyperbola which is equilateral and whose axes are parallel to the coordinate axes</i>
 
-There are three possible types of stCircles which differ in the value of their stType:
-* stType = +1 for spacelike radii (hyperbola with left and right arms)
-* stType = -1 for timelike radii (hyperbola with upper and lower arms)
-* stType = 0 (degenerated case, consisting in tho diagonal lines
+There are three possible types of <b>stCircles</b> which differ in the value of their <b>stType</b>:
+* <b>stType = +1 for spacelike</b> radii (hyperbola with left and right arms)
+* <b>stType = -1 for timelike radii</b> (hyperbola with upper and lower arms)
+* <b>stType = 0</b> (degenerated case, consisting in two diagonal lines
 
 ### stCircle[ Point, Radius Number ]
 Yields a <b>stCircle</b> with given center and radius.
