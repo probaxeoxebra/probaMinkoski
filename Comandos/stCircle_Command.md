@@ -2,7 +2,7 @@
 
 [<b>Circle Command</b> at GeoGebra Manual](https://wiki.geogebra.org/en/Circle_Command)
 
-<i> Note: an <b>stCircle</b> has the shape of a (space) Hyperbola which is equilateral and whose axes are parallel to the coordinate axes</i>
+<i> Note: an <b>stCircle</b> has the shape ( in the euclidean space) of a Hyperbola which is equilateral and whose axes are parallel to the coordinate axes</i>
 
 There are three possible types of <b>stCircles</b> which differ in the value of their <b>stType</b>:
 * <b>stType = +1 for spacelike</b> radii (hyperbola with left and right arms)
@@ -30,7 +30,7 @@ Yields a <b>stCircle</b> with given center and radius equal to the <b>stLength</
 
 ## Comments
 ### Tips
-* Use <b>stCircles</b> to fix the stDistance between two objects
+* Use <b>stCircles</b> to fix the <b>stDistance</b> between two objects
 
 <b>stCircles</b> are a great way to make the <b>stDistance</b> between two objects constant: 
 
