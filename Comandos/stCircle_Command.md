@@ -23,7 +23,7 @@ Yields a <b>stCircle</b> with given center and radius equal to the <b>stLength</
    Creates a stCircle with center, radius, and axis parallel to direction, which can be a line, vector or plane.      
  Example:
     
-* <b>stCircle[ Point, Radius, Plane ]</b> yields a stCircle parallel to the plane and with <b>stPerpendicular</b> vector of the plane as axis.
+* <b>stCircle[ Point, Radius, Plane ]</b> yields a <b>stCircle</b> parallel to the plane and with <b>stPerpendicular</b> vector of the plane as axis.
 
 ### <b>stCircle[ Point, Point, Direction ]</b>
    Creates a <b>stCircle</b> with center, through a point, and axis parallel to direction.
@@ -32,7 +32,7 @@ Yields a <b>stCircle</b> with given center and radius equal to the <b>stLength</
 ### Tips
 * Use <b>stCircles</b> to fix the stDistance between two objects
 
-<b>stCircles</b> are a great way to make the stDistance between two objects constant: 
+<b>stCircles</b> are a great way to make the <b>stDistance</b> between two objects constant: 
 
 If there are two points A and B on two lines g (point A) and h (point B) where A can be moved 
 and B should have the constant <b>stDistance</b> r to A you can define B as the intersection between the line h 
