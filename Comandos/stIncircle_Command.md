@@ -15,9 +15,11 @@ which is tangent to the three sides of the triangle (or to their containing stra
    <b>stIncircle</b>[O, A, B] yields  (x - 1.25)² - (y - 1.25)² = (+/-)1.25² in Algebra View and 
       
    draws the corresponding two Orthogonal <b>stCircles</b> in Graphics View.
+   
    ![stIncircle_Test](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Comandos/Images/Mink_stlIncircle_Test.JPG)
    
    <i> Note: The (euclidean) Incircle of the same triangle yielded the (circle) equation (x - 1.08)² + (y - 1.08)² = 1.18   </i> 
+   
    ![Eucl_Incircle_Test](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Comandos/Images/EuclIncircle_Test.JPG)
    
 ## Comments
