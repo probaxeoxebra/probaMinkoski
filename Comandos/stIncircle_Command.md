@@ -21,3 +21,5 @@ There are three possible types of <b>stCircles</b> which differ in the value of 
 * <b>stType = +1 for spacelike</b> radii (hyperbola with left and right arms)
 * <b>stType = -1 for timelike radii</b> (hyperbola with upper and lower arms)
 * <b>stType = 0</b> (degenerated case, consisting in two diagonal lines
+
+See also: [stIncircle Command](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Comandos/stCircle_Command.md)
