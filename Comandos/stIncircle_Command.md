@@ -2,7 +2,7 @@
 
 [<b>Incircle Command</b> at GeoGebra Manual](https://wiki.geogebra.org/en/Incircle%20Command)
 
-<i> Note: an <b>stIncircle</b> is a stCircle (equilateral and straight Hyperbola in the euclidean space) 
+<i> Note: an <b>stIncircle</b> is a <b>stCircle</b> (equilateral and straight Hyperbola in the euclidean space) 
 which is tangent to the three sides of the triangle (or to their containing straight lines)</i>
 
 ### stIncircle[ Point, Point, Point ]
@@ -12,9 +12,9 @@ which is tangent to the three sides of the triangle (or to their containing stra
    
    Let O=(0, 0), A=(3, 0) and B=(0, 5) be three points: 
    
-   <b>stIncircle</b>[O, A, B] yields (x - 1.08)² + (y - 1.08)² = 1.18 in Menu view algebra.svg Algebra View and 
+   <b>stIncircle</b>[O, A, B] yields (x - 1.08)² + (y - 1.08)² = 1.18 in Algebra View and 
    
-   draws the corresponding <b>stCircle</b> in Menu view graphics.svg Graphics View.
+   draws the corresponding <b>stCircle</b> in Graphics View.
 
 ## Comments
 There are three possible types of <b>stCircles</b> which differ in the value of their <b>stType</b>:
