@@ -12,9 +12,11 @@ which is tangent to the three sides of the triangle (or to their containing stra
    
    Let O=(0, 0), A=(3, 0) and B=(0, 5) be three points: 
    
-   <b>stIncircle</b>[O, A, B] yields (x - 1.08)² + (y - 1.08)² = 1.18 in Algebra View and 
+   <b>stIncircle</b>[O, A, B] yields  (x - 1.25)² - (y - 1.25)² = (+/-)1.25² in Algebra View and 
+      
+   draws the corresponding two Orthogonal <b>stCircles</b> in Graphics View.
    
-   draws the corresponding <b>stCircle</b> in Graphics View.
+   <i> Note: The (euclidean) Incircle of the same triangle yielded the (circle) equation (x - 1.08)² + (y - 1.08)² = 1.18   </i> 
 
 ## Comments
 There are three possible types of <b>stCircles</b> which differ in the value of their <b>stType</b>:
