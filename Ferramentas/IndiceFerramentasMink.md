@@ -1,7 +1,7 @@
 # Tools to substitute
-* 1-  [Midpoint or Center](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Ferramentas/FerramentasMink/01_Midpoint_Center.md)
-* 2-  [Complex Number](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Ferramentas/FerramentasMink/02_ComplexNumber.md)
-* 3-  [Segment with given Length](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Ferramentas/FerramentasMink/03_Segment_GivenLength.md)
+* 1-  Midpoint or Center
+* 2-  Complex Number
+* 3-  Segment with given Length
 * 4-  [Perpendicular Line](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Ferramentas/FerramentasMink/04_Perpendicular_Line.md)
 * 5-  Perpendicular Bisector
 * 6-  Angle Bisector
