@@ -70,7 +70,11 @@ Note: The point stRotate[ Point, stAngle, Apex ] is created as well.
 
 ## stAngle[ Point, Point, Point, Direction ]
 Returns the stAngle defined by the points and the given Direction, that may be a line or a plane (result in [0,360°] or [0,2π] depending on the default angle unit).
-Note: Using a Direction allows to bypass the standard display of angles in 3D which can be set as just [0,180°] or [180°,360°], so that given three points A, B, C in 3D the commands Angle[A, B, C] and Angle[C, B, A] return their real measure instead of the one restricted to the set intervals.
+
+Note: Using a Direction allows to bypass the standard display of angles in 3D which can be set as just [0,180°] or [180°,360°], 
+so that given three points A, B, C in 3D the commands Angle[A, B, C] and Angle[C, B, A] return their real measure 
+instead of the one restricted to the set intervals.
+
 Example:
 stAngle[(1, -1, 0),(0, 0, 0),(-1, -1, 0), zAxis] yields 270° and stAngle[(-1, -1, 0),(0, 0, 0),(1, -1, 0), zAxis] yields 90° or the corresponding values in radians.
 
