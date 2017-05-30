@@ -25,7 +25,7 @@ and reverse of the previous :
     
   <i> Again in the euclidean case, Polar[1.5x+0.5y=4, y = x^2 - 3x + 5] creates the point (0, 2)</i>    
     
-    [Polar Line in Wikipedia (Spanish)](https://es.wikipedia.org/wiki/Recta_polar)
+ [Polar Line in Wikipedia (Spanish)](https://es.wikipedia.org/wiki/Recta_polar)
     
     
   
