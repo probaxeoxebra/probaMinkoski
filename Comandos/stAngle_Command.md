@@ -1,4 +1,4 @@
-# stSemicircle Command
+# stAngle Command
 
 [<b>Angle Command</b> at GeoGebra Manual](https://wiki.geogebra.org/en/Angle_Command)
 
@@ -41,24 +41,22 @@ stAngle[y = x + 2, y = 2x + 3] yields 18.43° or the corresponding value in radi
 
 stAngle[Line[(-2, 0, 0), (0, 0, 2)], Line[(2, 0, 0), (0, 0, 2)]] yields 90° or the corresponding value in radians.
 and in CAS View :
-stAngle[x + 2, 2x + 3] yields $\mathrm{\mathsf{acos\left(3\cdot\frac{\sqrt{10}}{10}\right)}}$acos(3·
-√10
-10 ).
+stAngle[x + 2, 2x + 3] yields acos[3/sqrt(10)]
 
-Define f(x) := x + 2 and g(x) := 2x + 3 then command Angle[f(x), g(x)] yields $\mathrm{\mathsf{acos\left(3\cdot\frac{\sqrt{10}}{10}\right)}}$acos(3·
-√10
-10 ).
+Define f(x) := x + 2 and g(x) := 2x + 3 then command Angle[f(x), g(x)] yields acos[3/sqrt(10)]
 
 ## stAngle[ Line, Plane ]
 Returns the angle between the line and the plane.
 
 Example:
 stAngle[Line[(1, 2, 3),(-2, -2, 0)], z = 0] yields 30.96° or the corresponding value in radians.
-stAngle[ Plane, Plane ]
+
+## stAngle[ Plane, Plane ]
 Returns the angle between the two given planes.
 Example:
 stAngle[2x - y + z = 0, z = 0] yields 114.09° or the corresponding value in radians.
-stAngle[ Point, Apex, Point ]
+
+## stAngle[ Point, Apex, Point ]
 Returns the angle defined by the given points (result in [0,360°] or [0,2π] depending on the default angle unit).
 Example:
 stAngle[(1, 1), (1, 4), (4, 2)] yields 56.31° or the corresponding value in radians.
