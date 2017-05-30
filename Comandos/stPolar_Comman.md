@@ -14,11 +14,14 @@
  
   Example: 
   
- <b>stPolar</b>[(0,2), y = x^2 - 3x + 5] creates the line 
+ <b>stPolar</b>[(3,4), (x-2)²-(t-1)² = - 4] creates the line  t - 3x = 5
   
-  <i> in the euclidean case, <b>stPolar</b>[(0,2), y = x^2 - 3x + 5] creates the line  </i>
+  <i> in the euclidean case, <b>stPolar</b>[(3,4), (x-2)² + (y-1)² = - 4] creates the line  x + 3y = 9  </i>
 
 Note: See also  <b>stPolar or Diameter Line tool</b>.
+
+The next Figure shows the Polar Line for a Circle (both in black) and 
+the <b>stPolar Line</b> for the corresponding <b>stCircle</b> (both in Red color)
 
  ![stPolarLine_2](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Comandos/Images/stPolarLine_Test2.JPG)
 
@@ -28,9 +31,9 @@ and reverse of the previous :
 
  Example: 
  
- <b>stPolar</b>[   , y = x^2 - 3x + 5] creates the point (0, 2)
+ <b>stPolar</b>[ t - 3x = 5  ,(x-2)²-(t-1)² = - 4] creates the point (3, 4)
     
-  <i> Again in the euclidean case, Polar[1.5x+0.5y=4, y = x^2 - 3x + 5] creates the point (0, 2)</i>    
+  <i> Again in the euclidean case, Polar[ x + 3y = 9.5y=4, (x-2)² + (y-1)² = - 4] creates the point (3, 4)</i>    
     
 
     
