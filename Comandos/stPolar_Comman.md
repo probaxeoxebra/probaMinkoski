@@ -8,6 +8,8 @@
  
   Example: 
   
+ <b>stPolar</b>[(0,2), y = x^2 - 3x + 5] creates the line 
+  
   <i> in the euclidean case, <b>stPolar</b>[(0,2), y = x^2 - 3x + 5] creates the line  </i>
 
 Note: See also  <b>stPolar or Diameter Line tool</b>.
