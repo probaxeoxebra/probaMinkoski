@@ -20,8 +20,9 @@
 
 Note: See also  <b>stPolar or Diameter Line tool</b>.
 
-The next Figure shows the Polar Line for a Circle (both in black) and 
-the <b>stPolar Line</b> for the corresponding <b>stCircle</b> (both in Red color)
+The previous test casses can be seen together in the next Figure:
+* Polar Line of Point (3,4) for the Circle of Radius 2 centered in (2,1) (both in black) and 
+* <b>stPolar Line</b> for the same Point and the <b>stCircle</b> with the same Radius and Center (in Red color)
 
  ![stPolarLine_2](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Comandos/Images/stPolarLine_Test2.JPG)
 
