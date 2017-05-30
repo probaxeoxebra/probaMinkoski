@@ -9,7 +9,7 @@
    [Polar Line to a Conic section, in Wikipedia (English)](https://en.wikipedia.org/wiki/Pole_and_polar)
    
    
-### stPolar[ Point, stCircle ]
+## stPolar[ Point, stCircle ]
  Creates the <b>stPolar</b> line of the given point relative to the <b>stCircle</b>. 
  
   Example: 
@@ -23,7 +23,7 @@ Note: See also  <b>stPolar or Diameter Line tool</b>.
 
 and reverse of the previous :
 
-### stPolar[Line, stCircle]
+## stPolar[Line, stCircle]
 
  Example: 
  
