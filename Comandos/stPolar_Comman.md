@@ -20,7 +20,7 @@
 
 Note: See also  <b>stPolar or Diameter Line tool</b>.
 
-The previous test casses can be seen together in the next Figure:
+The previous test cases can be seen together in the next Figure:
 * Polar Line of Point (3,4) for the Circle of Radius 2 centered in (2,1) (both in black) and 
 * <b>stPolar Line</b> of Point (3,4) for the <b>stCircle</b> of Radius 2 centered in (2,1)  (both in Red color)
 
