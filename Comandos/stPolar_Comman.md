@@ -34,7 +34,7 @@ and reverse of the previous :
  
  <b>stPolar</b>[ t - 3x = 5  ,(x-2)²-(t-1)² = - 4] creates the point (3, 4)
     
-  <i> Again in the euclidean case, Polar[ x + 3y = 9.5y=4, (x-2)² + (y-1)² = - 4] creates the point (3, 4)</i>    
+  <i> Again in the euclidean case, Polar[ x + 3y = 9 , (x-2)² + (y-1)² = - 4] creates the point (3, 4)</i>    
     
 
     
