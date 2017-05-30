@@ -1,5 +1,8 @@
 # stPolar Command
 
+[<b>Circle Command</b> at GeoGebra Manual](https://wiki.geogebra.org/en/Polar_Command)
+
+
 ### stPolar[ Point, Conic ]
  Creates the stPolar line of the given point relative to the conic section. 
  
