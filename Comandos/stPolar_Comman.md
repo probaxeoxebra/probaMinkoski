@@ -20,6 +20,8 @@
 
 Note: See also  <b>stPolar or Diameter Line tool</b>.
 
+![stPolarLine_1](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Comandos/Images/stPolarLine_Test.JPG)
+![stPolarLine_2](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Comandos/Images/stPolarLine_Test2.JPG)
 
 and reverse of the previous :
 
