@@ -1,14 +1,9 @@
 # stAngle Command
 
 [<b>Angle Command</b> at GeoGebra Manual](https://wiki.geogebra.org/en/Angle_Command)
+<i> The stAngles are measured in hrads (hyperbolic radians), and there is only one value for a certain stAngle. There is no unit corresponding to the Degrees. For this reason, the Command Angle[Number], which converts different measurements of the same Angle in a unique value (in radians or Degrees) has no equivalence in this proposal.</i>
 
 ## stAngle[ Object ]
-### Conic: Returns the stAngle of twist of a conic section’s major axis (see command Axes).
-
-Example: stAngle[x²/4+y²/9=1] yields 90° or 1.57 if the default angle unit is radians.
-
-Note: It is not possible to change the Angle Unit to Radian in GeoGebra 5.0 Web and Tablet App Version.
-
 ### Vector: Returns the angle between the x‐axis and given vector.
 
 Example: stAngle[Vector[(1, 1)]] yields 45° or the corresponding value in radians.
@@ -17,9 +12,11 @@ Example: stAngle[Vector[(1, 1)]] yields 45° or the corresponding value in radia
 
 Example: stAngle[(1, 1)] yields 45° or the corresponding value in radians.
 
-### Number: Converts the number into an angle (result in [0,360°] or [0,2π] depending on the default angle unit).
+<i> An stAngle for the following Objects could be also calculated, but it is not essential for an initial spacetime dynamic geometry proposal:</i>
 
-Example: stAngle[20] yields 65.92° when the default unit for angles is degrees.
+### Conic: Returns the stAngle of twist of a conic section’s major axis (see command Axes).
+
+Example: stAngle[x²/4+y²/9=1] yields 90° or 1.57 if the default angle unit is radians.
 
 ### Polygon: Creates all angles of a polygon in mathematically positive orientation (counter clockwise).
 
