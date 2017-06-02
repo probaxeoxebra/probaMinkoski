@@ -24,15 +24,15 @@ Examples:
 stAngle[(2, 1)] yields a value of 0.5493 in hyperbolic radians. 
 <i> In comparison, Angle[(2, 1)] yields 0.4636 radians.</i>
 
-<i> An <b>stAngle</b> for the following Objects could be also calculated, but it is not essential for an initial spacetime dynamic geometry proposal:</i>
-
-### Conic: Returns the <b>stAngle</b> of twist of a conic section’s major axis (see command Axes).
 ### Polygon: Creates all <b>stAngle</b> of a polygon in mathematically positive orientation (counter clockwise).
 
 Example: <b>stAngle</b>[Polygon[(4, 1), (2, 4), (1, 1)] ] yields 0.8047, 1.1513 and 0.3466 in  <b>hyperbolic radians</b>.
 <i> In comparison, Angle[Polygon[(4, 1), (2, 4), (1, 1)] ] yields 0.9828, 0.9098 and 1,2491 in radians.</i>
 
 Note: If the polygon was created in counter clockwise orientation, you get the interior angles. If the polygon was created in clockwise orientation, you get the exterior angles.
+
+### Conic: Returns the <b>stAngle</b> of twist of a conic section’s major axis (see command Axes).
+<i> This  <b>stAngle</b>  for Conics could be also calculated, but it is not essential for an initial spacetime dynamic geometry proposal:</i>
 
 ## stAngle[ Vector, Vector ]
 Returns the <b>stAngle</b> between two vectors 
