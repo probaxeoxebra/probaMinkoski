@@ -4,6 +4,8 @@
 
 <i> The <b>stAngles</b> are measured in hrads (<b>hyperbolic radians</b>), and there is only one value for a certain <b>stAngle</b>. There is no unit corresponding to the Degrees. For this reason, the  <b>Angle[Number] Command</b>, which converts different measurements of the same Angle in a unique value (in radians or Degrees) has no equivalence in this proposal.</i>
 
+[The value of a stAngle is a measure of an Area](https://github.com/probaxeoxebra/probaMinkoski/blob/master/documents/ComplexstAngles.pdf)
+
 [General stAngles have Complex Values](https://github.com/probaxeoxebra/probaMinkoski/blob/master/documents/ComplexstAngles.pdf)
 
 ## stAngle[ Object ]
