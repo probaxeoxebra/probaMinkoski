@@ -58,4 +58,6 @@ aqui viría o <b>código</b>
 
 ## [Tests](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Temas/Tests_Ferramentas.md)
 
-aqui veñen os <b>exemplos</b> cos <b>resultados</b> agardados
+* Static Tests
+
+* [Dynamic Test](https://sites.google.com/site/modernphysicsgeometry/geogebra_2d_sttools/4--perpendicular-line)
