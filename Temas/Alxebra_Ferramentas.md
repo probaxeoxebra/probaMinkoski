@@ -1,8 +1,8 @@
 # Alxebra para cada Ferramenta
-### 1-  [Midpoint or Center](../Ferramentas/FerramentasMink/1_Midpoint_Center.md)
-### 2-  [Complex Number](../Ferramentas/FerramentasMink/2_ComplexNumber.md)
-### 3-  [Segment with given Length](../Ferramentas/FerramentasMink/3_Segment_GivenLength.md)
-### 4-  [Perpendicular Line](../Ferramentas/FerramentasMink/4_Perpendicular_Line.md)
+### 1-  [Midpoint or Center](../Ferramentas/FerramentasMink/01_Midpoint_Center.md)
+### 2-  [Complex Number](../Ferramentas/FerramentasMink/02_ComplexNumber.md)
+### 3-  [Segment with given Length](../Ferramentas/FerramentasMink/03_Segment_GivenLength.md)
+### 4-  [Perpendicular Line](../Ferramentas/FerramentasMink/04_Perpendicular_Line.md)
 
 <b>In the Minkowskian (1,1)D (x,t) spacetime, a stPerpendicular</b> Line to a given Line with directing vector a = (a<sub>1</sub>,a<sub>0</sub>) through a point P (p<sub>1</sub>,p<sub>0</sub>) is obtained by making the [<b>stCross</b>](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Explicacions/CrossProduct.md) <b>Product n = (e<sub>2</sub> x a)</b>, where e<sub>2</sub> is the unit vector at the <b>stOrthogonal</b> direction to the <b>(x,t) plane</b>: the <b>y axis</b>.
 
