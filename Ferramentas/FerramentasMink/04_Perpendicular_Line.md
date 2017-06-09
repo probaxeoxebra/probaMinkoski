@@ -1,4 +1,4 @@
-# 4-Perpendicular Line
+# 4-stPerpendicular Line
 [GeoGebra manual](https://wiki.geogebra.org/en/Perpendicular_Line_Tool)
 
 Selecting a line (or a segment) and a point creates a straight line through that point <b>stPerpendicular</b> to the line (or segment). 
