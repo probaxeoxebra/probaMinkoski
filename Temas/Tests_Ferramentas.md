@@ -8,7 +8,6 @@
 * with Line (-x+2y = 0) and Point (0,0)  the <b>stPerpendicular Tool</b> creates Line (-2x + 1y = 0)
 * with Line (-x+ y = -1) and Point (0,2)  the <b>stPerpendicular Tool</b> creates Line (-1x + 1y = 2)
 * with Line (y = 0) and Point (-2,2)  the <b>stPerpendicular Tool creates</b> Line (x = -2)
-* with Line (y = 0) and Point (-2,2)  the <b>stPerpendicular Tool</b> creates Line (x = -2)
 * with Line (- 2x - y = -6) and Point (4, -1)  the <b>stPerpendicular Tool</b> creates Line (1x + 2y = 2)
 * with Line ( x = 2) and Point (4, -1)  the <b>stPerpendicular Tool</b> creates Line ( y = -1)
 ### [Dynamic Test](https://ggbm.at/yKEMtEgH)
