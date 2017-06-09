@@ -1,8 +1,8 @@
 # Entrada e Saída de cada ferramenta
-### 1-  [Midpoint or Center](../Ferramentas/FerramentasMink/01_Midpoint_Center.md)
-### 2-  [Complex Number](../Ferramentas/FerramentasMink/02_ComplexNumber.md)
-### 3-  [Segment with given Length](../Ferramentas/FerramentasMink/03_Segment_GivenLength.md)
-### 4-  [Perpendicular Line](../Ferramentas/FerramentasMink/04_Perpendicular_Line.md)
+### 1-  [Midpoint or stCenter](../Ferramentas/FerramentasMink/01_Midpoint_Center.md)
+### 2-  [stComplex Number](../Ferramentas/FerramentasMink/02_ComplexNumber.md)
+### 3-  [Segment with given stLength](../Ferramentas/FerramentasMink/03_Segment_GivenLength.md)
+### 4-  [stPerpendicular Line](../Ferramentas/FerramentasMink/04_Perpendicular_Line.md)
 
 Selecting a line (or a segment) and a point creates a straight line through that point <b>stPerpendicular</b> to the line (or segment). 
 ### 5-  [Perpendicular Bisector](https://wiki.geogebra.org/en/Perpendicular_Bisector_Tool)
