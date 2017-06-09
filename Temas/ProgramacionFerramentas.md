@@ -1,8 +1,8 @@
 # Programación (Códigos) para cada Ferramenta
-### 1-  [Midpoint or Center](../Ferramentas/FerramentasMink/1_Midpoint_Center.md)
-### 2-  [Complex Number](../Ferramentas/FerramentasMink/2_ComplexNumber.md)
-### 3-  [Segment with given Length](../Ferramentas/FerramentasMink/3_Segment_GivenLength.md)
-### 4-  [Perpendicular Line](../Ferramentas/FerramentasMink/4_Perpendicular_Line.md)
+### 1-  [Midpoint or Center](../Ferramentas/FerramentasMink/01_Midpoint_Center.md)
+### 2-  [Complex Number](../Ferramentas/FerramentasMink/02_ComplexNumber.md)
+### 3-  [Segment with given Length](../Ferramentas/FerramentasMink/03_Segment_GivenLength.md)
+### 4-  [Perpendicular Line](../Ferramentas/FerramentasMink/04_Perpendicular_Line.md)
 
 aqui viría o <b>código</b>
 ### 5-  [Perpendicular Bisector](https://wiki.geogebra.org/en/Perpendicular_Bisector_Tool)
