@@ -1,4 +1,4 @@
-# 3-Segment with Given Length
+# 3-Segment with Given stLength
 [GeoGebra Manual](https://wiki.geogebra.org/en/Segment_with_Given_Length_Tool)
 
 
@@ -16,4 +16,4 @@
 
 ## [Program Code](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Temas/ProgramacionFerramentas.md)
 
-## [Tests](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Temas/Tests_Ferramentas.md)
+## [TESTS](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Temas/Tests_Ferramentas.md)
