@@ -4,7 +4,14 @@
 ### 3-  [Segment with given Length](../Ferramentas/FerramentasMink/03_Segment_GivenLength.md)
 ### 4-  [Perpendicular Line](../Ferramentas/FerramentasMink/04_Perpendicular_Line.md)
 
-aqui veñen os <b>exemplos</b> cos <b>resultados</b> agardados
+### Static Tests
+* with Line (-x+2y = 0) and Point (0,0)  the stPerpendicular Tool creates Line (-2x + 1y = 0)
+* with Line (-x+ y = -1) and Point (0,2)  the stPerpendicular Tool creates Line (-1x + 1y = 2)
+* with Line (y = 0) and Point (-2,2)  the stPerpendicular Tool creates Line (x = -2)
+* with Line (y = 0) and Point (-2,2)  the stPerpendicular Tool creates Line (x = -2)
+
+### [Dynamic Test](https://sites.google.com/site/modernphysicsgeometry/geogebra_2d_sttools/4--perpendicular-line)
+
 ### 5-  [Perpendicular Bisector](https://wiki.geogebra.org/en/Perpendicular_Bisector_Tool)
 ### 6-  [Angle Bisector](https://wiki.geogebra.org/en/Angle_Bisector_Tool)
 ### 7-  [Polar or Diameter Line](https://wiki.geogebra.org/en/Polar_or_Diameter_Line_Tool)
