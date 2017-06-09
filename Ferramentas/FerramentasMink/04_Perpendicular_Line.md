@@ -58,6 +58,10 @@ aqui viría o <b>código</b>
 
 ## [Tests](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Temas/Tests_Ferramentas.md)
 
-* Static Tests
+### Static Tests
+* with Line (-x+2y = 0) and Point (0,0)  the stPerpendicular Tool creates Line (-2x + 1y = 0)
+* with Line (-x+ y = -1) and Point (0,2)  the stPerpendicular Tool creates Line (-1x + 1y = 2)
+* with Line (y = 0) and Point (-2,2)  the stPerpendicular Tool creates Line (x = -2)
+* with Line (y = 0) and Point (-2,2)  the stPerpendicular Tool creates Line (x = -2)
 
-* [Dynamic Test](https://sites.google.com/site/modernphysicsgeometry/geogebra_2d_sttools/4--perpendicular-line)
+### [Dynamic Test](https://sites.google.com/site/modernphysicsgeometry/geogebra_2d_sttools/4--perpendicular-line)
