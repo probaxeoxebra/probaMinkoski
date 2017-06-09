@@ -13,16 +13,16 @@ This tool should have also a version applicable to <b>(2,1)D objects</b>: Select
 
 ...............................................................
 
-### [Input & Output](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Temas/Entrada_Saida.md)
+## [Input & Output](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Temas/Entrada_Saida.md)
 
 Selecting a line (or a segment) and a point creates a straight line through that point <b>stPerpendicular</b> to the line (or segment). 
 
-### [Related Commands](https://github.com/probaxeoxebra/probaMinkoski/blob//master/Temas/ComandosRelacionados.md)
+## [Related Commands](https://github.com/probaxeoxebra/probaMinkoski/blob//master/Temas/ComandosRelacionados.md)
 
 * <b>[stPerpendicular Vector](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Comandos/stPerpendicularVector_Command.md)</b>
 * <b>[stPerpendicular Line](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Comandos/stPerpendicularLine_Command.md)</b>
 
-### [Algebra](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Temas/Alxebra_Ferramentas.md)
+## [Algebra](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Temas/Alxebra_Ferramentas.md)
 
 In the Euclidean case, a Perpendicular Line to a given Line with directing vector a = (a<sub>1</sub>,a<sub>2</sub>) in the (x,y) plane through a point P (p<sub>1</sub>,p<sub>2</sub>) is obtained by making the [Cross](../Explicacions/CrossProduct.md) Product n =(a x e<sub>3</sub>), where e<sub>3</sub> is the unit vector at the orthogonal direction to the (x,y) plane: the z axis. 
 
@@ -39,13 +39,13 @@ The Perpendicular Line to a Line with direction vector d(d<sub>1</sub>,d<sub>2</
 The <b>stPerpendicular</b> to a Line with direction vector d(d<sub>1</sub>,d<sub>0</sub>) through a Point P (p<sub>1</sub>,p<sub>0</sub>) is the Line which passes through Point P and with direction n<b>(d<sub>0</sub>, d<sub>1</sub>)</b>.
 
 
-### [from Euclid to Minkowski](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Temas/Euclides_Minkowski_Ferramentas.md)
+## [from Euclid to Minkowski](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Temas/Euclides_Minkowski_Ferramentas.md)
 
 A <b>stPerpendicular</b> Line to a given Line a is obtained by reflecting a about an asymptpotic line ( a line passing through the base of a and with unitary slope.
 
 ![stPerpencicular](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Interese/Images/PerpendVectors_Eucl_Mink.png "Euclidean vs. Minkowskian Perpendicularity")
 
-### [building with available GeoGebra Tools](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Temas/ConstrucionKitBasicoGeoGebra_cadaFerramenta.md)
+## [building with available GeoGebra Tools](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Temas/ConstrucionKitBasicoGeoGebra_cadaFerramenta.md)
 
 * [<b>GeoGebra Applet</b> for stPerpendicular Line Tool](https://sites.google.com/site/modernphysicsgeometry/geogebra_2d_sttools/4--perpendicular-line)
 
