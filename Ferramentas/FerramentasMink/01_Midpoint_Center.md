@@ -1,19 +1,19 @@
-# 1-Midpoint or STCenter
+# 1-Midpoint or stCenter
 
 [GeoGebra Manual](https://wiki.geogebra.org/en/Midpoint_or_Centre_Tool)
 
 
 ...............................................................
 
-### [Input & Output](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Temas/Entrada_Saida.md)
+## [Input & Output](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Temas/Entrada_Saida.md)
 
-### [Related Commands](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Temas/ComandosRelacionados.md)
+## [Related Commands](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Temas/ComandosRelacionados.md)
 
-### [Algebra](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Temas/Alxebra_Ferramentas.md)
+## [Algebra](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Temas/Alxebra_Ferramentas.md)
 
-### [from Euclid to Minkowski](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Temas/Euclides_Minkowski_Ferramentas.md)
+## [from Euclid to Minkowski](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Temas/Euclides_Minkowski_Ferramentas.md)
 
-### [building with available GeoGebra Tools](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Temas/ConstrucionKitBasicoGeoGebra_cadaFerramenta.md)
+## [building with available GeoGebra Tools](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Temas/ConstrucionKitBasicoGeoGebra_cadaFerramenta.md)
 
 ## [Program Code](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Temas/ProgramacionFerramentas.md)
 
