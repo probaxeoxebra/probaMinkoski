@@ -1,7 +1,7 @@
 # Tests para cada Ferramenta
-## 1-  [Midpoint or Center](../Ferramentas/FerramentasMink/01_Midpoint_Center.md)
-## 2-  [Complex Number](../Ferramentas/FerramentasMink/02_ComplexNumber.md)
-## 3-  [Segment with given Length](../Ferramentas/FerramentasMink/03_Segment_GivenLength.md)
+## 1-  [Midpoint or stCenter](../Ferramentas/FerramentasMink/01_Midpoint_Center.md)
+## 2-  [stComplex Number](../Ferramentas/FerramentasMink/02_ComplexNumber.md)
+## 3-  [Segment with given stLength](../Ferramentas/FerramentasMink/03_Segment_GivenLength.md)
 ## 4-  [stPerpendicular Line](../Ferramentas/FerramentasMink/04_Perpendicular_Line.md)
 
 ### Static Tests
