@@ -56,7 +56,7 @@ A <b>stPerpendicular</b> Line to a given Line a is obtained by reflecting a abou
 
 aqui viría o <b>código</b>
 
-## [Tests](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Temas/Tests_Ferramentas.md)
+## [TESTS](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Temas/Tests_Ferramentas.md)
 
 ### Static Tests
 * with Line (-x+2y = 0) and Point (0,0)  the <b>stPerpendicular Tool</b> creates Line (-2x + 1y = 0)
