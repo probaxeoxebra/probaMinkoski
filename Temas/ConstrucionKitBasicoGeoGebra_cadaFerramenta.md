@@ -1,8 +1,8 @@
 # Construción de cada Ferramenta mediante o Kit Básico de GeoGebra
-### 1-  [Midpoint or Center](../Ferramentas/FerramentasMink/1_Midpoint_Center.md)
-### 2-  [Complex Number](../Ferramentas/FerramentasMink/2_ComplexNumber.md)
-### 3-  [Segment with given Length](../Ferramentas/FerramentasMink/3_Segment_GivenLength.md)
-### 4-  [Perpendicular Line](../Ferramentas/FerramentasMink/4_Perpendicular_Line.md)
+### 1-  [Midpoint or Center](../Ferramentas/FerramentasMink/01_Midpoint_Center.md)
+### 2-  [Complex Number](../Ferramentas/FerramentasMink/02_ComplexNumber.md)
+### 3-  [Segment with given Length](../Ferramentas/FerramentasMink/03_Segment_GivenLength.md)
+### 4-  [Perpendicular Line](../Ferramentas/FerramentasMink/04_Perpendicular_Line.md)
 
 * [<b>GeoGebra Applet</b> for stPerpendicular Line Tool](https://sites.google.com/site/modernphysicsgeometry/geogebra_2d_sttools/4--perpendicular-line)
 
