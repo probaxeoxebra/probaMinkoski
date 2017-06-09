@@ -1,4 +1,4 @@
-# 2-Complex Number
+# 2-STComplex Number
 [GepGebra Manual](https://wiki.geogebra.org/en/Complex_Number_Tool)
 
 
@@ -16,4 +16,4 @@
 
 ## [Program Code](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Temas/ProgramacionFerramentas.md)
 
-## [Tests](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Temas/Tests_Ferramentas.md)
+## [TESTS](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Temas/Tests_Ferramentas.md)
