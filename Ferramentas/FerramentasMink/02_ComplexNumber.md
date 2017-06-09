@@ -1,4 +1,4 @@
-# 2-STComplex Number
+# 2-stComplex Number
 [GepGebra Manual](https://wiki.geogebra.org/en/Complex_Number_Tool)
 
 
