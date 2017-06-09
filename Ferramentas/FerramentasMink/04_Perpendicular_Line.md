@@ -52,11 +52,11 @@ A <b>stPerpendicular</b> Line to a given Line a is obtained by reflecting a abou
 ![Line and Point](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Ferramentas/FerramentasMink/Images/stPerpendicularLine_1.JPG "Line and Point")
 ![stPerpendicular Line](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Ferramentas/FerramentasMink/Images/stPerpendicularLine_2.JPG "stPerpendicular Line (in Red)")
 
-## [Program Code](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Temas/ProgramacionFerramentas.md)
+# [Program Code](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Temas/ProgramacionFerramentas.md)
 
 aqui viría o <b>código</b>
 
-## [TESTS](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Temas/Tests_Ferramentas.md)
+# [TESTS](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Temas/Tests_Ferramentas.md)
 
 ### Static Tests
 * with Line (-x+2y = 0) and Point (0,0)  the <b>stPerpendicular Tool</b> creates Line (-2x + 1y = 0)
