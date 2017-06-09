@@ -1,4 +1,4 @@
-# 1-Midpoint or Center
+# 1-Midpoint or STCenter
 
 [GeoGebra Manual](https://wiki.geogebra.org/en/Midpoint_or_Centre_Tool)
 
