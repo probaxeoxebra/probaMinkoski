@@ -8,6 +8,14 @@ which is tangent to the three sides of the triangle (or to their containing stra
 ### stIncircle[ Point, Point, Point ]
    Returns <b>stIncircle</b> of the triangle formed by the three Points.
    
+   * [Trial Version with GeoGebra Applet](https://ggbm.at/RD4JnUnR)
+   
+   Left part: construction of the stBisector Tool, Right Part: stInCircle for an arbitrary Triangle.
+   
+   Note: Drag the Vertexes of the Triangle and move the slider until the stCircle is tangent to all the sides (or their prolongued lines).
+   
+   The colours of the stBisectrices explain their stType, and the stCircles try to match them.
+   
    Example: 
    
    Let O=(0, 0), A=(3, 0) and B=(0, 5) be three points: 
@@ -21,6 +29,7 @@ which is tangent to the three sides of the triangle (or to their containing stra
    <i> Note: The (euclidean) Incircle of the same triangle yielded the (circle) equation (x - 1.08)² + (y - 1.08)² = 1.18   </i> 
    
    ![Eucl_Incircle_Test](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Comandos/Images/EuclIncircle_Test.JPG)
+   
    
 ## Comments
 There are three possible types of <b>stCircles</b> which differ in the value of their <b>stType</b>:
