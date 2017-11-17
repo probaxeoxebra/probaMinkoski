@@ -70,7 +70,7 @@ and in CAS View :
 
 Define f(x) := 3x + 2 and g(x) := 2x + 3 then command <b>stAngle</b>[f(x), g(x)] yields acos[7/sqrt(50)]
 
-<i> In comparison, command Angle</i>[3x + 2, 2x + 3] yields acos[3/sqrt(10)]
+<i> In comparison, command Angle</i>[f(x), g(x)] would yield in this same case acos[3/sqrt(10)]
 
 ## stAngle[ Line, Plane ]
 Returns the <b>stAngle</b> between the line and the plane.
