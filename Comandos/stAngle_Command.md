@@ -25,7 +25,7 @@ Examples:
 
 <i> In comparison, Angle[(1, 1)] yields 45° or the corresponding value of 0.7854 radians.</i>
 
-stAngle[(2, 1)] yields a value of 0.5493 in hyperbolic radians. 
+<b>stAngle</b>[(2, 1)] yields a value of 0.5493 in hyperbolic radians. 
 <i> In comparison, Angle[(2, 1)] yields 0.4636 radians.</i>
 
 ### Polygon: Creates all <b>stAngle</b> of a polygon in mathematically positive orientation (counter clockwise).
