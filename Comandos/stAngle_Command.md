@@ -55,13 +55,16 @@ Example:
 Returns the <b>stAngle</b> between the direction vectors of two lines 
 
 Example:
-<b>stAngle</b>[y = x + 2, y = 2x + 3] yields 18.43° or the corresponding value in radians..
+<b>stAngle</b>[y = 3x + 2, y = 2x + 3] yields a value of 0.2027 radians.
+<i> In comparison, Angle</i>[y = 3x + 2, y = 2x + 3] yields 8.13° or the corresponding value of 0.1419 radians.
 
 <b>stAngle</b>[Line[(-2, 0, 0), (0, 0, 2)], Line[(2, 0, 0), (0, 0, 2)]] yields 90° or the corresponding value in radians.
 and in CAS View :
-<b>stAngle</b>[x + 2, 2x + 3] yields acos[3/sqrt(10)]
+<b>stAngle</b>[3x + 2, 2x + 3] yields acos[7/sqrt(50)]
+<i> In comparison, Angle</i>[3x + 2, 2x + 3] yields acos[3/sqrt(10)]
 
-Define f(x) := x + 2 and g(x) := 2x + 3 then command <b>stAngle</b>[f(x), g(x)] yields acos[3/sqrt(10)]
+Define f(x) := 3x + 2 and g(x) := 2x + 3 then command <b>stAngle</b>[f(x), g(x)] yields acos[7/sqrt(50)]
+<i> In comparison, command Angle</i>[3x + 2, 2x + 3] yields acos[3/sqrt(10)]
 
 ## stAngle[ Line, Plane ]
 Returns the <b>stAngle</b> between the line and the plane.
