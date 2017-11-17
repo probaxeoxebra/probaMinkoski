@@ -46,6 +46,9 @@ Example:
 
 <i> In comparison, Angle[Vector[(1, 1)], Vector[(2, 5)]] yields 23.2° or the corresponding value of 0.4049 in radians.</i>
 
+<b>stAngle</b>[Vector[(2, 3)], Vector[(2, 5)]] yields a value of 0.3811 in hyperbolic radians. 
+
+<i> In comparison, Angle[Vector[(2, 3)], Vector[(2, 5)]] yields 11.89° or the corresponding value of 0.2075 in radians.</i>
 
 
 ## stAngle[ Line, Line ]
