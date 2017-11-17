@@ -76,22 +76,31 @@ Define f(x) := 3x + 2 and g(x) := 2x + 3 then command <b>stAngle</b>[f(x), g(x)]
 Returns the <b>stAngle</b> between the line and the plane.
 
 Example:
-<b>stAngle</b>[Line[(1, 2, 3),(-2, -2, 0)], z = 0] yields 30.96° or the corresponding value in radians.
+<b>stAngle</b>[Line[(1, 2, 3),(-2, -2, 0)], z = 0] yields 0.693 hyperbolic radians.
+
+<i> In comparison, Angle</i>[Line[(1, 2, 3),(-2, -2, 0)], z = 0] yields 30.96° or the corresponding value of 0.54 radians.
 
 ## stAngle[ Plane, Plane ]
 Returns the <b>stAngle</b> between the two given planes.
+
 Example:
-<b>stAngle</b>[2x - y + z = 0, z = 0] yields 114.09° or the corresponding value in radians.
+<b>stAngle</b>[2x - y + z = 0, z = 0] yields  hyperbolic radians.
+
+<i> In comparison, Angle</i>[2x - y + z = 0, z = 0] yields 114.09° or the corresponding value in radians.
 
 ## stAngle[ Point, Apex, Point ]
 Returns the <b>stAngle</b> defined by the given points 
 Example:
-<b>stAngle</b>[(1, 1), (1, 4), (4, 2)] yields 56.31° or the corresponding value in radians.
+<b>stAngle</b>[(1, 1), (1, 4), (4, 2)] yields  hyperbolic radians.
+
+<i> In comparison, Angle</i>[(1, 1), (1, 4), (4, 2)] yields 56.31° or the corresponding value in radians.
 
 ## stAngle[ Point, Apex, Angle ]
 Returns the <b>stAngle</b> of size α drawn from point with apex.
 Example:
-<b>stAngle</b>[(0, 0), (3, 3), 30°] yields 30° and the point (1.9, -1.1).
+<b>stAngle</b>[(0, 0), (3, 3), 30°] yields  hyperbolic radians and the point ( ,  ).
+
+<i> In comparison, Angle</i>[(0, 0), (3, 3), 30°] yields 30° and the point (1.9, -1.1).
 
 Note: The point stRotate[ Point, stAngle, Apex ] is created as well.
 
@@ -103,6 +112,8 @@ so that given three points A, B, C in 3D the commands Angle[A, B, C] and Angle[C
 instead of the one restricted to the set intervals.
 
 Example:
-<b>stAngle</b>[(1, -1, 0),(0, 0, 0),(-1, -1, 0), zAxis] yields 270° and stAngle[(-1, -1, 0),(0, 0, 0),(1, -1, 0), zAxis] yields 90° or the corresponding values in radians.
+<b>stAngle</b>[(1, -1, 0),(0, 0, 0),(-1, -1, 0), zAxis] yields hrads and stAngle[(-1, -1, 0),(0, 0, 0),(1, -1, 0), zAxis] yields hrads.
+
+<i> In comparison, Angle</i>[(1, -1, 0),(0, 0, 0),(-1, -1, 0), zAxis] yields 270° and stAngle[(-1, -1, 0),(0, 0, 0),(1, -1, 0), zAxis] yields 90° or the corresponding values in radians.
 
 Note: See also <b>stAngle</b> and <b>stAngle with Given Size</b> tools.
