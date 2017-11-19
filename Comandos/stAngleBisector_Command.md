@@ -4,9 +4,9 @@
 
 ## stAngleBisector[ Line, Line ]
 
-Returns both stAngleBisectors of the lines.
+Returns both <b>stAngleBisectors</b> of the lines.
 
-Example: AngleBisector(x + y = 1, x - y = 2) yields a: x = 1.5 and b: .
+Example: <b>AngleBisector</b>(x + y = 1, x - y = 2) yields a: x = 1.5 and b: .
 
 <i> In comparison, the AngleBisector(x + y = 1, x - y = 2) yields a: x = 1.5 and b: y = -0.5. </i>
 
@@ -15,7 +15,7 @@ Example: AngleBisector(x + y = 1, x - y = 2) yields a: x = 1.5 and b: .
 Returns the <b>stAngleBisector</b> of the angle defined by the three points.
 
 Example:
-<b>stAngle</b>[Vector[(1, 1)], Vector[(2, 5)]] yields an infinite value in hyperbolic radians. This would create an "error: division by zero" message
+<b>stAngleBisector</b>[(1, 1), (4, 4), (7, 1)]yields a: x = 4.
 
 <i> In comparison, AngleBisector((1, 1), (4, 4), (7, 1)) yields a: x = 4.</i>
 
