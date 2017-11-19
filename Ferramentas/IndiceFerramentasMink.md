@@ -2,7 +2,7 @@
 * 1-  Midpoint or Center
 * 2-  Complex Number
 * 3-  Segment with given Length
-* 4-  [Perpendicular Line](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Ferramentas/FerramentasMink/04_Perpendicular_Line.md)
+* 4-  Perpendicular Line  -->  [stPerpendicular Line](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Ferramentas/FerramentasMink/04_Perpendicular_Line.md)
 * 5-  Perpendicular Bisector
 * 6-  Angle Bisector
 * 7-  Polar or Diameter Line
