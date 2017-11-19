@@ -24,8 +24,8 @@
 
  The following Tools could be kept initially unchanged: 
 
-**   [Ellipse]()  -->   stEllipse  
+**   Ellipse  -->   stEllipse  
   
-  **   [Hyperbola]()  -->  stHyperbola  
+  **   Hyperbola  -->  stHyperbola  
   
-  **   [Parabola]()  -->  stParabola  
+  **   Parabola  -->  stParabola  
