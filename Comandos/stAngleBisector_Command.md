@@ -1,4 +1,4 @@
-# stAngle Command
+# stAngleBisector Command
 
 [<b>AngleBisector Command</b> at GeoGebra Manual](https://wiki.geogebra.org/en/AngleBisector_Command)
 
