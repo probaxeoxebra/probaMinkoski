@@ -22,8 +22,9 @@
 * 21- Reflect About Circle  -->  stReflect About stCircle 
 * 22- Rotate Around Point  -->  stRotate Around Point  
 
-*  The following Tools could be kept initially unchanged: 
-  **   Ellipse  -->   stEllipse  
+ The following Tools could be kept initially unchanged: 
+
+**   Ellipse  -->   stEllipse  
   
   **   Hyperbola  -->  stHyperbola  
   
