@@ -2,14 +2,15 @@
 
 [<b>AngleBisector Command</b> at GeoGebra Manual](https://wiki.geogebra.org/en/AngleBisector_Command)
 
-## stAngleBisector[ <Line>, <Line> ]
+## stAngleBisector[ Line, Line ]
 
 Returns both stAngleBisectors of the lines.
+
 Example: AngleBisector(x + y = 1, x - y = 2) yields a: x = 1.5 and b: .
 
 <i> In comparison, the AngleBisector(x + y = 1, x - y = 2) yields a: x = 1.5 and b: y = -0.5. </i>
 
-## stAngleBisector [ <Point>, <Point>, <Point>]
+## stAngleBisector [ Point, Point, Point]
 
 Returns the <b>stAngleBisector</b> of the angle defined by the three points.
 
