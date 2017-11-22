@@ -40,4 +40,4 @@ Note: The second point is apex of this stAngle.
 
 
 
-Note: See also Mode angularbisector.svg Angle Bisector tool .
+Note: See also  [stAngle Bisector tool](https://github.com/probaxeoxebra/probaMinkoski/blob/master/Ferramentas/FerramentasMink/06_Angle_Bisector.md) .
